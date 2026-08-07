@@ -1,0 +1,195 @@
+:root {
+  --ink: #12222b;
+  --paper: #f6f4ee;
+  --panel: #ffffff;
+  --line: #d9d3c4;
+  --teal: #0f5e5a;
+  --teal-dark: #0a3f3c;
+  --amber: #b5732a;
+  --red: #a33c3c;
+  --green: #2f7a4f;
+  --muted: #6b6558;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Georgia', 'Iowan Old Style', serif;
+  -webkit-font-smoothing: antialiased;
+}
+.app { max-width: 900px; margin: 0 auto; padding: 20px 16px 60px; }
+
+header.top {
+  display: flex; justify-content: space-between; align-items: baseline;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 12px; margin-bottom: 18px;
+}
+header.top h1 {
+  font-size: 1.4rem; margin: 0; letter-spacing: 0.02em; font-weight: 700;
+}
+header.top .tag {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.bar {
+  display: flex; justify-content: space-between; align-items: center;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 0.85rem; margin-bottom: 14px; flex-wrap: wrap; gap: 10px;
+}
+.timer {
+  background: var(--ink); color: var(--paper);
+  padding: 6px 14px; border-radius: 3px; font-variant-numeric: tabular-nums;
+  letter-spacing: 0.04em; font-weight: 600;
+}
+.timer.warn { background: var(--red); }
+
+.progress-track {
+  height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; margin-bottom: 18px;
+}
+.progress-fill { height: 100%; background: var(--teal); transition: width 0.2s; }
+
+.section-nav {
+  display: flex; gap: 6px; margin-bottom: 20px; flex-wrap: wrap;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+.section-nav button {
+  flex: 1; min-width: 70px; padding: 8px 4px; border: 1px solid var(--line);
+  background: var(--panel); color: var(--ink); font-size: 0.72rem; cursor: pointer;
+  border-radius: 3px; font-weight: 600;
+}
+.section-nav button.active { background: var(--teal); color: #fff; border-color: var(--teal); }
+
+.qgrid {
+  display: grid; grid-template-columns: repeat(10, 1fr); gap: 5px; margin-bottom: 20px;
+}
+.qgrid button {
+  aspect-ratio: 1; border: 1px solid var(--line); background: var(--panel);
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 0.68rem; cursor: pointer;
+  border-radius: 3px; color: var(--muted);
+}
+.qgrid button.answered { background: var(--teal); color: #fff; border-color: var(--teal); }
+.qgrid button.current { outline: 2px solid var(--amber); outline-offset: 1px; }
+
+.card {
+  background: var(--panel); border: 1px solid var(--line); border-radius: 6px;
+  padding: 26px 24px; margin-bottom: 18px;
+}
+.qnum {
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 0.75rem;
+  color: var(--teal); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 8px; font-weight: 700;
+}
+.qtext { font-size: 1.15rem; line-height: 1.5; margin-bottom: 20px; }
+
+.opt {
+  display: flex; align-items: flex-start; gap: 12px;
+  padding: 12px 14px; border: 1px solid var(--line); border-radius: 5px;
+  margin-bottom: 10px; cursor: pointer; transition: border-color 0.15s, background 0.15s;
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 0.95rem;
+}
+.opt:hover { border-color: var(--teal); }
+.opt.selected { border-color: var(--teal); background: #eef6f4; }
+.opt input { margin-top: 3px; accent-color: var(--teal); }
+.opt .lab { font-weight: 700; color: var(--muted); margin-right: 4px; }
+
+.navbtns {
+  display: flex; justify-content: space-between; gap: 10px;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+.navbtns button {
+  padding: 11px 20px; border-radius: 5px; border: 1px solid var(--ink);
+  background: var(--panel); color: var(--ink); cursor: pointer; font-size: 0.9rem; font-weight: 600;
+}
+.navbtns button.primary { background: var(--ink); color: #fff; }
+.navbtns button:disabled { opacity: 0.35; cursor: not-allowed; }
+
+.clearbtn {
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 0.8rem;
+  color: var(--muted); background: none; border: none; cursor: pointer; text-decoration: underline;
+  margin-bottom: 14px; padding: 0;
+}
+
+.submit-row { text-align: center; margin-top: 24px; }
+.submitbtn {
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 1rem;
+  padding: 14px 40px; background: var(--red); color: #fff; border: none;
+  border-radius: 5px; cursor: pointer; letter-spacing: 0.02em;
+}
+
+/* Results screen */
+.results h2 { font-size: 1.6rem; margin-bottom: 4px; }
+.results .sub { font-family: 'Helvetica Neue', Arial, sans-serif; color: var(--muted); margin-bottom: 24px; }
+.score-hero {
+  background: var(--ink); color: var(--paper); border-radius: 8px;
+  padding: 32px; text-align: center; margin-bottom: 24px;
+}
+.score-hero .num { font-size: 3.2rem; font-weight: 700; line-height: 1; }
+.score-hero .den { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 1rem; color: #b9c9c6; margin-top: 6px; }
+.stat-row {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 24px;
+  font-family: 'Helvetica Neue', Arial, sans-serif; text-align: center;
+}
+.stat-row .stat { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 14px 6px; }
+.stat-row .stat .n { font-size: 1.4rem; font-weight: 700; }
+.stat-row .stat .l { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-top: 2px; }
+.stat-row .stat.correct .n { color: var(--green); }
+.stat-row .stat.wrong .n { color: var(--red); }
+.stat-row .stat.skip .n { color: var(--muted); }
+
+table.secbreak {
+  width: 100%; border-collapse: collapse; margin-bottom: 24px;
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 0.85rem;
+}
+table.secbreak th, table.secbreak td {
+  border: 1px solid var(--line); padding: 8px 10px; text-align: center;
+}
+table.secbreak th { background: var(--panel); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+
+.review-item {
+  border: 1px solid var(--line); border-radius: 6px; padding: 16px 18px; margin-bottom: 10px;
+  background: var(--panel);
+}
+.review-item.wrong { border-left: 4px solid var(--red); }
+.review-item.correct { border-left: 4px solid var(--green); }
+.review-item.skip { border-left: 4px solid var(--muted); }
+.review-item .qtext { font-size: 1rem; margin-bottom: 10px; }
+.review-item .rowline { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 0.85rem; margin: 3px 0; }
+.review-item .rowline.your { color: var(--red); }
+.review-item .rowline.correctans { color: var(--green); }
+
+.filter-row {
+  display: flex; gap: 8px; margin-bottom: 16px; font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+.filter-row button {
+  padding: 7px 14px; border: 1px solid var(--line); background: var(--panel);
+  border-radius: 4px; cursor: pointer; font-size: 0.8rem; font-weight: 600;
+}
+.filter-row button.active { background: var(--ink); color: #fff; border-color: var(--ink); }
+
+.restart-row { text-align: center; margin-top: 20px; }
+.restart-row button {
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700;
+  padding: 12px 28px; background: var(--teal); color: #fff; border: none;
+  border-radius: 5px; cursor: pointer;
+}
+
+.intro {
+  background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 30px 26px;
+}
+.intro h2 { margin-top: 0; }
+.intro ul { font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.8; font-size: 0.95rem; }
+.intro .startbtn {
+  font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 1rem;
+  padding: 13px 32px; background: var(--ink); color: #fff; border: none;
+  border-radius: 5px; cursor: pointer; margin-top: 10px;
+}
+.intro .loading { font-family: 'Helvetica Neue', Arial, sans-serif; color: var(--muted); }
+.intro .errbox { font-family: 'Helvetica Neue', Arial, sans-serif; color: var(--red); }
+
+@media (max-width: 600px) {
+  .qgrid { grid-template-columns: repeat(6, 1fr); }
+  .stat-row { grid-template-columns: repeat(2, 1fr); }
+  .qtext { font-size: 1.02rem; }
+}

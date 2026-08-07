@@ -1,0 +1,4178 @@
+[
+  {
+    "q": "A 58-year-old man with type 2 diabetes develops sudden dyspnea and pleuritic chest pain 5 days after total knee replacement. He is tachycardic, SpO2 88% on room air, D-dimer elevated. CTPA shows a filling defect in the right main pulmonary artery; echo shows RV strain with systolic BP 85 mmHg. Most appropriate immediate management?",
+    "opts": [
+      "Therapeutic LMWH alone",
+      "Systemic thrombolysis",
+      "IVC filter placement",
+      "Start oral warfarin"
+    ],
+    "ans": 1,
+    "id": "q0001",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A 45-year-old woman has 6 months of fatigue, cold intolerance, and weight gain, with bradycardia, delayed ankle reflex relaxation, and a diffuse goiter. TSH is markedly elevated with low free T4, anti-TPO strongly positive. Six months later, on adequate levothyroxine (normal TSH), a firm painless thyroid nodule persists and has grown. Next step?",
+    "opts": [
+      "Increase levothyroxine dose",
+      "FNAC of the nodule",
+      "Reassure, continue same dose",
+      "Start antithyroid drugs"
+    ],
+    "ans": 1,
+    "id": "q0002",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A 62-year-old man, 40 pack-year smoker, has progressive exertional dyspnea. Spirometry: FEV1/FVC 0.55, FEV1 45% predicted, minimal bronchodilator response. He reports morning headaches and post-prandial drowsiness. ABG: pH 7.32, PaCO2 62, PaO2 54, HCO3 28. What best explains the headache and drowsiness?",
+    "opts": [
+      "Acute respiratory alkalosis",
+      "Chronic respiratory acidosis",
+      "Diuretic-induced metabolic alkalosis",
+      "Hypoglycemia"
+    ],
+    "ans": 1,
+    "id": "q0003",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 50-year-old man with poor BP control presents with tearing chest pain radiating to the back. Right arm BP 190/110, left arm 150/90. CXR shows widened mediastinum. CT angiography shows dissection starting just distal to the left subclavian artery, ascending aorta uninvolved. Most appropriate initial management?",
+    "opts": [
+      "Emergency surgical repair",
+      "IV beta-blockade and BP control, serial imaging",
+      "Immediate thrombolysis",
+      "Discharge on oral antihypertensives"
+    ],
+    "ans": 1,
+    "id": "q0004",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 70-year-old man has 2 years of progressive memory loss, urinary incontinence, and a wide-based shuffling gait. MRI shows ventricles enlarged out of proportion to sulcal atrophy. Removing 30 mL CSF by lumbar puncture transiently improves his gait. Most likely diagnosis?",
+    "opts": [
+      "Alzheimer's disease",
+      "Normal pressure hydrocephalus",
+      "Parkinson's disease",
+      "Vascular dementia"
+    ],
+    "ans": 1,
+    "id": "q0005",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 28-year-old woman has recurrent facial flushing, watery diarrhea, and wheezing for 3 months. A systolic murmur at the left sternal border increases with inspiration. 24-hour urinary 5-HIAA is markedly elevated. What best explains her cardiac finding?",
+    "opts": [
+      "Mitral stenosis",
+      "Tricuspid regurgitation",
+      "Aortic stenosis",
+      "Rheumatic heart disease"
+    ],
+    "ans": 1,
+    "id": "q0006",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 55-year-old man with cirrhosis and hepatic encephalopathy improves on lactulose, then 2 days later (after transfusion for GI bleed and abrupt cessation of his usual evening alcohol) develops new tremor, diaphoresis, and worsening confusion. Most likely explanation for the new symptoms?",
+    "opts": [
+      "Worsening hepatic encephalopathy",
+      "Alcohol withdrawal",
+      "Lactulose toxicity",
+      "Rebleeding"
+    ],
+    "ans": 1,
+    "id": "q0007",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 40-year-old woman has fatigue and joint pain. Hb 9 g/dL, direct Coombs positive, spherocytes on smear. ANA and anti-dsDNA are positive with a malar rash. Most likely cause of her anemia?",
+    "opts": [
+      "Iron deficiency anemia",
+      "Autoimmune hemolytic anemia secondary to SLE",
+      "Anemia of chronic disease",
+      "Vitamin B12 deficiency"
+    ],
+    "ans": 1,
+    "id": "q0008",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A 65-year-old man with long-standing diabetes has a painless plantar foot ulcer with surrounding callus and normal peripheral pulses. Foot X-ray shows bone destruction and disorganized tarsal joints. Most likely diagnosis?",
+    "opts": [
+      "Osteomyelitis alone",
+      "Charcot neuroarthropathy",
+      "Peripheral arterial disease",
+      "Cellulitis"
+    ],
+    "ans": 1,
+    "id": "q0009",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 34-year-old woman has episodic severe hypertension, palpitations, and headache. During an ER episode, BP is 220/130 with sweating and pallor. Plasma free metanephrines are markedly elevated. Before surgery, most important next step?",
+    "opts": [
+      "Proceed to surgery immediately",
+      "Alpha-blockade, then beta-blockade, then surgery",
+      "Beta-blockade alone first",
+      "Start an ACE inhibitor"
+    ],
+    "ans": 1,
+    "id": "q0010",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 45-year-old man has severe epigastric pain radiating to the back after an alcohol binge, with lipase 3x normal. 48 hours later he is hypotensive, tachypneic, hypoxic; serum calcium 7.8, hematocrit dropped from 45% to 30%. What best predicts his prognosis now?",
+    "opts": [
+      "Admission serum amylase",
+      "Ranson's criteria/APACHE II score",
+      "Lipase magnitude",
+      "Presence of gallstones on ultrasound"
+    ],
+    "ans": 1,
+    "id": "q0011",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 30-year-old woman on oral contraceptives has acute right upper quadrant pain and hypotension. Ultrasound shows a large hyperechoic liver mass with free intra-abdominal fluid. Most likely diagnosis?",
+    "opts": [
+      "Hepatocellular carcinoma",
+      "Ruptured hepatic adenoma",
+      "Focal nodular hyperplasia",
+      "Hepatic hemangioma"
+    ],
+    "ans": 1,
+    "id": "q0012",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 55-year-old man has progressive dysphagia (solids then liquids) and weight loss over 3 months. Barium swallow shows an irregular 'apple-core' mid-esophageal narrowing; biopsy confirms squamous cell carcinoma. Staging shows adventitial invasion with periesophageal nodes, no metastasis. Most appropriate management?",
+    "opts": [
+      "Surgery alone",
+      "Neoadjuvant CRT then surgery",
+      "Palliative stenting only",
+      "Radiotherapy alone"
+    ],
+    "ans": 1,
+    "id": "q0013",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 25-year-old man after a motorcycle accident has hypotension, a distended abdomen, and a seatbelt sign. FAST shows free pelvic fluid. He remains hypotensive after 2 L crystalloid. Most appropriate next step?",
+    "opts": [
+      "CT abdomen with contrast",
+      "Emergency exploratory laparotomy",
+      "Diagnostic peritoneal lavage",
+      "Observation with serial exams"
+    ],
+    "ans": 1,
+    "id": "q0014",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A 60-year-old woman has a 3 cm hard, irregular, non-tender lump in the upper outer right breast with skin dimpling. Mammography shows a spiculated mass with microcalcifications; core biopsy confirms invasive ductal carcinoma, ER/PR+, HER2-. Sentinel node biopsy is negative. Most appropriate next step?",
+    "opts": [
+      "Mastectomy with full axillary clearance",
+      "Breast conservation plus radiotherapy",
+      "Neoadjuvant chemotherapy first",
+      "Hormonal therapy alone, no surgery"
+    ],
+    "ans": 1,
+    "id": "q0015",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 50-year-old man with cirrhosis has hematemesis; bleeding esophageal varices are banded successfully. Three days later he develops fever, worsening ascites, and confusion. Ascitic fluid neutrophil count is 350 cells/mm3. Most likely diagnosis?",
+    "opts": [
+      "Recurrent variceal bleed",
+      "Spontaneous bacterial peritonitis",
+      "Hepatorenal syndrome",
+      "Budd-Chiari syndrome"
+    ],
+    "ans": 1,
+    "id": "q0016",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 3-day-old male neonate has bilious vomiting and abdominal distension. Abdominal X-ray shows a 'double bubble' without distal gas. Antenatal history notes polyhydramnios; the infant has upslanting palpebral fissures and a single palmar crease. What associated diagnosis should be suspected?",
+    "opts": [
+      "Cystic fibrosis",
+      "Down syndrome",
+      "Turner syndrome",
+      "Edward syndrome"
+    ],
+    "ans": 1,
+    "id": "q0017",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 42-year-old woman has right upper quadrant pain, fever, and jaundice. Ultrasound shows a dilated CBD with a distal stone. She is started on IV antibiotics, but 6 hours later develops hypotension and altered mental status. Most appropriate immediate management?",
+    "opts": [
+      "Continue antibiotics and observe",
+      "Urgent ERCP for biliary decompression",
+      "Elective cholecystectomy in 6 weeks",
+      "MRCP before any intervention"
+    ],
+    "ans": 1,
+    "id": "q0018",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 65-year-old man has a pulsatile abdominal mass with sudden severe back pain and hypotension. Bedside ultrasound shows a 7 cm infrarenal aortic aneurysm. Most appropriate immediate management?",
+    "opts": [
+      "CT angiography to confirm first",
+      "Immediate surgical exploration without imaging delay",
+      "Observation with serial BP checks",
+      "Elective repair in 2 weeks"
+    ],
+    "ans": 1,
+    "id": "q0019",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 55-year-old smoker has 6 months of worsening right calf claudication, now with rest pain. ABI is 0.35. The right popliteal and pedal pulses are absent, foot cool and pale. Most appropriate next step?",
+    "opts": [
+      "Exercise therapy and cilostazol",
+      "Urgent revascularization",
+      "Amputation",
+      "Compression stockings"
+    ],
+    "ans": 1,
+    "id": "q0020",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 26-year-old primigravida at 36 weeks has sudden severe abdominal pain and vaginal bleeding. The uterus is tender, tense, and woody-hard; fetal heart tones are absent. Most likely diagnosis?",
+    "opts": [
+      "Placenta previa",
+      "Placental abruption",
+      "Uterine rupture",
+      "Vasa previa"
+    ],
+    "ans": 1,
+    "id": "q0021",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A 32-year-old woman at 28 weeks has BP 148/95 on two occasions, no proteinuria, no prior hypertension history, and is asymptomatic. Most appropriate classification and next step?",
+    "opts": [
+      "Preeclampsia — start magnesium sulfate now",
+      "Gestational hypertension — close monitoring for progression",
+      "Chronic hypertension — start antihypertensives now",
+      "Normal pregnancy — no follow-up needed"
+    ],
+    "ans": 1,
+    "id": "q0022",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A 24-year-old woman, 8 weeks pregnant by LMP, has spotting and cramping with a closed cervical os. Transvaginal ultrasound shows an intrauterine gestational sac with a fetal pole, no cardiac activity, CRL corresponding to 8.5 weeks. Most likely diagnosis?",
+    "opts": [
+      "Threatened abortion",
+      "Missed abortion",
+      "Incomplete abortion",
+      "Ectopic pregnancy"
+    ],
+    "ans": 1,
+    "id": "q0023",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A G2P1 woman at term is in active labor. After delivery of the anterior shoulder, the fetal head retracts against the perineum ('turtle sign') and gentle traction fails to deliver the body. Most appropriate initial maneuver?",
+    "opts": [
+      "Fundal pressure",
+      "McRoberts maneuver with suprapubic pressure",
+      "Immediate cesarean section",
+      "Zavanelli maneuver as first step"
+    ],
+    "ans": 1,
+    "id": "q0024",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A 35-year-old woman with two prior cesareans presents at 34 weeks with painless bleeding. Ultrasound shows the placenta completely covering the internal os, loss of the retroplacental clear zone, and multiple vascular lacunae. What complication should be anticipated?",
+    "opts": [
+      "Placenta previa alone, no added risk",
+      "Placenta accreta spectrum",
+      "Vasa previa",
+      "Placental abruption"
+    ],
+    "ans": 1,
+    "id": "q0025",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 22-year-old woman has 8 months of secondary amenorrhea with galactorrhea. Prolactin is 120 ng/mL, TSH normal. MRI shows a 12 mm pituitary lesion. Most appropriate first-line treatment?",
+    "opts": [
+      "Transsphenoidal surgery",
+      "Dopamine agonist therapy",
+      "Radiotherapy",
+      "Observation only"
+    ],
+    "ans": 1,
+    "id": "q0026",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 30-year-old woman with regular cycles has 2 years of infertility. HSG shows bilateral tubal blockage; her husband's semen analysis is normal. Most appropriate next step?",
+    "opts": [
+      "Clomiphene citrate for ovulation induction",
+      "In vitro fertilization (IVF)",
+      "Intrauterine insemination (IUI)",
+      "Tubal reconstructive surgery as first-line"
+    ],
+    "ans": 1,
+    "id": "q0027",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "A 27-year-old woman at 32 weeks with insulin-treated gestational diabetes has fundal height 36 cm; ultrasound shows estimated fetal weight at the 95th percentile with polyhydramnios. Highest delivery risk?",
+    "opts": [
+      "Placental abruption",
+      "Shoulder dystocia",
+      "Cord prolapse",
+      "Preterm labor"
+    ],
+    "ans": 1,
+    "id": "q0028",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 45-year-old woman has postmenopausal bleeding. TVS shows endometrial thickness 14 mm; biopsy shows grade 1 endometrioid adenocarcinoma. Most appropriate next step?",
+    "opts": [
+      "Radiotherapy alone",
+      "Total hysterectomy with BSO",
+      "Hormonal therapy alone",
+      "Chemotherapy alone"
+    ],
+    "ans": 1,
+    "id": "q0029",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 33-year-old woman at 39 weeks in active labor has a sudden gush of fluid, then fetal heart rate drops to 70 bpm. Vaginal exam reveals a pulsating cord loop below the presenting part. Most appropriate immediate action?",
+    "opts": [
+      "Continue monitoring, prepare vaginal delivery",
+      "Manually elevate the presenting part off the cord, prepare emergency cesarean",
+      "Apply fundal pressure to expedite delivery",
+      "Give oxytocin to hasten labor"
+    ],
+    "ans": 1,
+    "id": "q0030",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A 3-year-old boy has 2 days of high fever, drooling, and refusal to swallow. He sits in a tripod position, appears toxic, with inspiratory stridor. Most appropriate immediate management?",
+    "opts": [
+      "Throat exam with tongue depressor in the ER",
+      "Keep calm, secure airway in a controlled OT setting",
+      "Nebulized racemic epinephrine, discharge if improved",
+      "Oral antibiotics, outpatient follow-up"
+    ],
+    "ans": 1,
+    "id": "q0031",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A 6-month-old has paroxysms of drawing up the legs, inconsolable crying, and vomiting every 15-20 minutes, lethargic between episodes. A sausage-shaped RUQ mass is felt, and he passes red currant jelly stool. Most appropriate initial diagnostic/therapeutic step?",
+    "opts": [
+      "Immediate surgical exploration",
+      "Air or contrast enema",
+      "Abdominal X-ray alone and observe",
+      "Upper GI contrast study"
+    ],
+    "ans": 1,
+    "id": "q0032",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A newborn has respiratory distress within hours of birth, with grunting, nasal flaring, and retractions. CXR shows a diffuse reticulogranular ground-glass pattern with air bronchograms. Mother had poorly controlled gestational diabetes; delivery was at 34 weeks. Most likely cause?",
+    "opts": [
+      "Meconium aspiration syndrome",
+      "Respiratory distress syndrome from surfactant deficiency",
+      "Transient tachypnea of the newborn",
+      "Congenital pneumonia"
+    ],
+    "ans": 1,
+    "id": "q0033",
+    "subject": "ENT"
+  },
+  {
+    "q": "An 18-month-old has pallor with Hb 7 g/dL, microcytic hypochromic cells. The child drinks over 1 liter of cow's milk daily and eats very little solid food. Most likely underlying mechanism?",
+    "opts": [
+      "Vitamin B12 deficiency from milk excess",
+      "Iron deficiency anemia",
+      "Thalassemia trait",
+      "Lead poisoning"
+    ],
+    "ans": 1,
+    "id": "q0034",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A 4-year-old boy has periorbital edema progressing to generalized edema over 3 days. Urinalysis shows 4+ proteinuria, no hematuria. Albumin 1.8 g/dL, cholesterol elevated. Expected response to treatment?",
+    "opts": [
+      "Poor steroid response, biopsy needed first",
+      "Excellent response to corticosteroids, biopsy not needed initially",
+      "No treatment needed, self-resolving",
+      "Requires immediate renal transplant"
+    ],
+    "ans": 1,
+    "id": "q0035",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 2-year-old has fever for 6 days, bilateral non-purulent conjunctival injection, red cracked lips, strawberry tongue, hand/foot swelling, and a polymorphous rash. Most important next investigation given complication risk?",
+    "opts": [
+      "Chest X-ray",
+      "Echocardiography",
+      "Renal ultrasound",
+      "Lumbar puncture"
+    ],
+    "ans": 1,
+    "id": "q0036",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A term newborn is well at birth but on day 3 develops jaundice extending to the face and chest. Total bilirubin is 14 mg/dL, mostly indirect. He is exclusively breastfed, feeding well, normal weight loss. Most appropriate next step?",
+    "opts": [
+      "Immediate exchange transfusion",
+      "Phototherapy if bilirubin crosses threshold, continue breastfeeding",
+      "Stop breastfeeding, switch to formula",
+      "No action needed regardless of level"
+    ],
+    "ans": 1,
+    "id": "q0037",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A 5-year-old has abrupt high fever, sore throat, and a diffuse sandpaper-like rash sparing the area around the mouth, with flushed cheeks. Throat swab pending. Most likely organism, and why does treatment matter most?",
+    "opts": [
+      "Staphylococcus aureus — prevents toxic shock",
+      "Group A Streptococcus — prevents rheumatic fever",
+      "Adenovirus — supportive care only",
+      "Epstein-Barr virus — self-limiting"
+    ],
+    "ans": 1,
+    "id": "q0038",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A 1-year-old boy has recurrent perioral cyanosis during crying/feeding that improves with squatting. A harsh systolic ejection murmur is heard at the left upper sternal border; CXR shows a boot-shaped heart. Most likely diagnosis?",
+    "opts": [
+      "Transposition of great arteries",
+      "Tetralogy of Fallot",
+      "Patent ductus arteriosus",
+      "Atrial septal defect"
+    ],
+    "ans": 1,
+    "id": "q0039",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A 7-year-old has facial puffiness, cola-colored urine, and mild hypertension 10 days after a sore throat. Urinalysis shows RBC casts and mild proteinuria; C3 is low. Most likely diagnosis and expected course?",
+    "opts": [
+      "Minimal change disease — steroid responsive",
+      "Post-streptococcal glomerulonephritis — typically self-limiting",
+      "IgA nephropathy — needs immunosuppression",
+      "Membranous nephropathy — poor prognosis"
+    ],
+    "ans": 1,
+    "id": "q0040",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 55-year-old woman has fatigue and easy bruising. WBC 95,000/mm3 with mature-appearing lymphocytes, Hb 9, platelets 80,000. Smear shows numerous smudge cells; flow cytometry: CD5, CD19, CD23 positive. Most likely diagnosis?",
+    "opts": [
+      "Chronic myeloid leukemia",
+      "Chronic lymphocytic leukemia",
+      "Hairy cell leukemia",
+      "Mantle cell lymphoma"
+    ],
+    "ans": 1,
+    "id": "q0041",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A 60-year-old man has bone pain, fatigue, and recurrent infections, with hypercalcemia, elevated creatinine, and normocytic anemia. SPEP shows an M-spike; skeletal survey shows punched-out skull lesions; marrow shows sheets of plasma cells. Mechanism of his renal impairment?",
+    "opts": [
+      "Direct plasma cell infiltration of kidneys",
+      "Light chain (Bence Jones) induced tubular damage",
+      "Diabetic nephropathy",
+      "Analgesic nephropathy"
+    ],
+    "ans": 1,
+    "id": "q0042",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 45-year-old woman has a thyroidectomy for a nodule. Histology shows follicular cells with clear 'Orphan Annie eye' nuclei, psammoma bodies, and papillary architecture. Most likely diagnosis?",
+    "opts": [
+      "Follicular carcinoma of thyroid",
+      "Papillary carcinoma of thyroid",
+      "Medullary carcinoma of thyroid",
+      "Anaplastic carcinoma of thyroid"
+    ],
+    "ans": 1,
+    "id": "q0043",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A 50-year-old alcoholic man has jaundice and abdominal distension. Liver biopsy shows hepatocyte ballooning, Mallory-Denk bodies, neutrophilic infiltrate, and early bridging fibrosis. Most appropriate description of this stage?",
+    "opts": [
+      "Alcoholic hepatitis",
+      "Established cirrhosis, irreversible",
+      "Normal liver histology",
+      "Hepatocellular carcinoma"
+    ],
+    "ans": 0,
+    "id": "q0044",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 35-year-old man has painless testicular swelling. Post-orchiectomy histology shows sheets of large cells with clear cytoplasm, distinct borders, central nuclei, lymphocytic infiltrate, lobular pattern. Most likely diagnosis?",
+    "opts": [
+      "Embryonal carcinoma",
+      "Seminoma",
+      "Yolk sac tumor",
+      "Choriocarcinoma"
+    ],
+    "ans": 1,
+    "id": "q0045",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A 65-year-old man with long-standing GERD has endoscopy showing salmon-colored distal esophageal mucosa; biopsy shows columnar epithelium with goblet cells replacing squamous epithelium. Two years later, repeat biopsy shows the same changes plus architectural distortion, nuclear stratification, and hyperchromasia, without invasion. Most appropriate next step?",
+    "opts": [
+      "Reassurance, no change needed",
+      "Closer surveillance/endoscopic therapy given high-grade dysplasia",
+      "Immediate esophagectomy, no further evaluation",
+      "Antireflux medication only, no monitoring"
+    ],
+    "ans": 1,
+    "id": "q0046",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 40-year-old woman has a firm, mobile, painless breast lump. Histology shows a well-circumscribed tumor with glandular epithelial and stromal components in a leaf-like architecture. Most likely diagnosis?",
+    "opts": [
+      "Fibroadenoma",
+      "Phyllodes tumor",
+      "Invasive ductal carcinoma",
+      "Intraductal papilloma"
+    ],
+    "ans": 1,
+    "id": "q0047",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A 30-year-old man has a painless testicular mass with markedly elevated AFP and normal beta-hCG. Histology shows structures resembling primitive glomeruli (Schiller-Duval bodies). Most likely diagnosis?",
+    "opts": [
+      "Seminoma",
+      "Yolk sac tumor",
+      "Choriocarcinoma",
+      "Leydig cell tumor"
+    ],
+    "ans": 1,
+    "id": "q0048",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A 55-year-old woman has abdominal distension with elevated CA-125. Histology of a resected ovarian mass shows psammoma bodies with papillary projections lined by ciliated columnar epithelium. Most likely diagnosis?",
+    "opts": [
+      "Mucinous cystadenocarcinoma",
+      "Serous cystadenocarcinoma",
+      "Dermoid cyst (mature teratoma)",
+      "Krukenberg tumor"
+    ],
+    "ans": 1,
+    "id": "q0049",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A 6-year-old boy has a painless abdominal mass. CT shows a large heterogeneous renal mass. Histology reveals a triphasic pattern of blastemal, stromal, and epithelial components. Most likely diagnosis?",
+    "opts": [
+      "Renal cell carcinoma",
+      "Wilms tumor (nephroblastoma)",
+      "Neuroblastoma",
+      "Renal lymphoma"
+    ],
+    "ans": 1,
+    "id": "q0050",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 68-year-old man on warfarin for AF is started on a new antibiotic for a UTI. Three days later his INR is 6.5 with gum bleeding. Which antibiotic most likely caused this?",
+    "opts": [
+      "Amoxicillin",
+      "Cotrimoxazole",
+      "Nitrofurantoin",
+      "Cephalexin"
+    ],
+    "ans": 1,
+    "id": "q0051",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A 55-year-old woman with RA on long-term methotrexate develops mouth ulcers, fatigue, and macrocytic anemia. Which co-administered agent reduces this toxicity without compromising efficacy?",
+    "opts": [
+      "Vitamin B12",
+      "Folic acid supplementation",
+      "Iron supplementation",
+      "Vitamin B6"
+    ],
+    "ans": 1,
+    "id": "q0052",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A 45-year-old man on long-term haloperidol develops fever, muscle rigidity, altered mental status, and autonomic instability, with markedly elevated CK. Most appropriate immediate management?",
+    "opts": [
+      "Increase haloperidol dose for agitation",
+      "Stop antipsychotic, supportive care",
+      "Add another antipsychotic",
+      "Start lithium"
+    ],
+    "ans": 1,
+    "id": "q0053",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A patient with Wilson's disease develops significant side effects on penicillamine. Which alternative reduces intestinal copper absorption rather than acting as a chelator?",
+    "opts": [
+      "Trientine",
+      "Zinc acetate",
+      "Deferoxamine",
+      "Dimercaprol"
+    ],
+    "ans": 1,
+    "id": "q0054",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient on isoniazid for TB develops tingling in the feet. Which co-administered agent from the start would most likely have prevented this?",
+    "opts": [
+      "Vitamin B12",
+      "Pyridoxine (Vitamin B6)",
+      "Folic acid",
+      "Thiamine"
+    ],
+    "ans": 1,
+    "id": "q0055",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A 60-year-old man with heart failure on furosemide and an ACE inhibitor is started on spironolactone. One week later, potassium is 6.2 mEq/L. Most likely mechanism?",
+    "opts": [
+      "Furosemide-induced hyperkalemia alone",
+      "Combined ACE inhibitor and spironolactone reducing potassium excretion",
+      "ACE inhibitor alone, spironolactone irrelevant",
+      "Dietary potassium excess alone"
+    ],
+    "ans": 1,
+    "id": "q0056",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient started on clozapine for treatment-resistant schizophrenia requires regular monitoring of which parameter, given a life-threatening risk?",
+    "opts": [
+      "Liver function tests only",
+      "Absolute neutrophil count",
+      "Renal function only",
+      "Thyroid function only"
+    ],
+    "ans": 1,
+    "id": "q0057",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 50-year-old man on chronic NSAIDs develops epigastric pain and is switched to a selective COX-2 inhibitor to reduce GI risk. Which risk is relatively increased with this switch?",
+    "opts": [
+      "GI bleeding",
+      "Cardiovascular thrombotic events",
+      "Renal function is unaffected",
+      "Peptic ulcer risk unchanged"
+    ],
+    "ans": 1,
+    "id": "q0058",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient on sildenafil for erectile dysfunction should specifically be cautioned against combining it with which drug class, due to risk of severe hypotension?",
+    "opts": [
+      "Beta-blockers",
+      "Nitrates",
+      "Calcium channel blockers",
+      "ACE inhibitors"
+    ],
+    "ans": 1,
+    "id": "q0059",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A patient started on amiodarone for ventricular arrhythmias should have which specific parameter monitored, given its structural similarity to thyroid hormone?",
+    "opts": [
+      "Renal function only",
+      "Thyroid function tests",
+      "Bone density",
+      "Serum calcium"
+    ],
+    "ans": 1,
+    "id": "q0060",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A 25-year-old sexually active man has dysuria and purulent urethral discharge; Gram stain shows gram-negative intracellular diplococci. He is treated, but 2 weeks later has recurrent thinner discharge with a repeat culture confirming clearance of the original organism. Most likely explanation?",
+    "opts": [
+      "Treatment failure of the same organism",
+      "Co-infection with Chlamydia trachomatis, longer incubation, not covered",
+      "Reinfection with gonorrhea",
+      "Normal post-treatment inflammation"
+    ],
+    "ans": 1,
+    "id": "q0061",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A returning traveler from a malaria-endemic region has fever every 48 hours with chills and headache. Blood smear shows ring forms with enlarged RBCs containing Schüffner's dots, no multiply-infected cells. Most likely species?",
+    "opts": [
+      "Plasmodium falciparum",
+      "Plasmodium vivax",
+      "Plasmodium malariae",
+      "Plasmodium knowlesi"
+    ],
+    "ans": 1,
+    "id": "q0062",
+    "subject": "Pathology"
+  },
+  {
+    "q": "An unvaccinated 6-year-old has sore throat, low-grade fever, and a grayish membrane over the tonsils that bleeds when scraped. Culture on tellurite agar grows black colonies. Most concerning complication to monitor for?",
+    "opts": [
+      "Rheumatic fever",
+      "Myocarditis due to exotoxin",
+      "Post-streptococcal glomerulonephritis",
+      "Meningitis"
+    ],
+    "ans": 1,
+    "id": "q0063",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient with HIV and CD4 count 50 cells/mm3 has headache, fever, and altered mental status. CSF India ink prep shows encapsulated budding yeast. Most likely organism?",
+    "opts": [
+      "Cryptococcus neoformans",
+      "Candida albicans",
+      "Histoplasma capsulatum",
+      "Aspergillus fumigatus"
+    ],
+    "ans": 0,
+    "id": "q0064",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A food handler with Salmonella Typhi remains an asymptomatic stool shedder for over a year despite treatment. Where does the organism most likely persist to cause this carrier state?",
+    "opts": [
+      "Small intestine mucosa",
+      "Gallbladder",
+      "Liver parenchyma",
+      "Spleen"
+    ],
+    "ans": 1,
+    "id": "q0065",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A college student has fever, severe sore throat, fatigue, bilateral posterior cervical lymphadenopathy, splenomegaly, and exudative tonsillitis. Empiric amoxicillin for presumed strep produces a diffuse maculopapular rash. Most likely underlying diagnosis?",
+    "opts": [
+      "Streptococcal pharyngitis",
+      "Infectious mononucleosis (EBV)",
+      "Diphtheria",
+      "Acute HIV infection"
+    ],
+    "ans": 1,
+    "id": "q0066",
+    "subject": "ENT"
+  },
+  {
+    "q": "A newborn develops copious purulent conjunctival discharge on day 2 of life; Gram stain shows gram-negative intracellular diplococci. Most likely explanation and prevention strategy?",
+    "opts": [
+      "Chlamydial conjunctivitis; erythromycin ointment at birth",
+      "Gonococcal ophthalmia neonatorum; prevented by erythromycin/silver nitrate at birth",
+      "Herpes simplex conjunctivitis; acyclovir prophylaxis",
+      "Chemical conjunctivitis from silver nitrate itself"
+    ],
+    "ans": 1,
+    "id": "q0067",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A farmer has a painless black eschar with surrounding edema on the forearm after handling animal hides, with mild fever. Most likely organism and key virulence factor?",
+    "opts": [
+      "Clostridium perfringens — alpha toxin",
+      "Bacillus anthracis — antiphagocytic capsule and exotoxins",
+      "Staphylococcus aureus — coagulase",
+      "Streptococcus pyogenes — M protein"
+    ],
+    "ans": 1,
+    "id": "q0068",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A 35-year-old man has fever, myalgia, and conjunctival suffusion after wading in floodwater, with elevated creatinine, bilirubin, and CK. Most likely diagnosis and organism class?",
+    "opts": [
+      "Dengue — a virus",
+      "Leptospirosis — a spirochete",
+      "Typhoid — a bacillus",
+      "Malaria — a protozoan"
+    ],
+    "ans": 1,
+    "id": "q0069",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 28-year-old woman with HIV, CD4 80 cells/mm3, has progressive blurred vision. Fundoscopy shows perivascular hemorrhages and granular retinal infiltrates ('pizza-pie' appearance). Most likely organism?",
+    "opts": [
+      "Toxoplasma gondii",
+      "Cytomegalovirus",
+      "Herpes simplex virus",
+      "Candida albicans"
+    ],
+    "ans": 1,
+    "id": "q0070",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A newborn has vomiting, lethargy, and a musty urine odor in the first week, with poor feeding, and untreated risks severe intellectual disability. Newborn screening shows an elevated amino acid. Which dietary approach is the mainstay of treatment?",
+    "opts": [
+      "Restrict tyrosine, supplement phenylalanine",
+      "Restrict phenylalanine, supplement tyrosine",
+      "Restrict leucine, supplement isoleucine",
+      "Restrict methionine, supplement cysteine"
+    ],
+    "ans": 1,
+    "id": "q0071",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "An infant has vomiting, poor feeding, a maple-syrup urine odor, hypoglycemia, and metabolic acidosis. This results from a defect in breakdown of which amino acid group?",
+    "opts": [
+      "Aromatic amino acids",
+      "Branched-chain amino acids",
+      "Sulfur-containing amino acids",
+      "Acidic amino acids"
+    ],
+    "ans": 1,
+    "id": "q0072",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A 6-month-old has hepatosplenomegaly, failure to thrive, doll-like facies, and a protuberant abdomen, with severe fasting hypoglycemia, lactic acidosis, hyperlipidemia, and hyperuricemia. Liver biopsy shows glycogen accumulation. Most likely enzyme deficiency?",
+    "opts": [
+      "Glycogen phosphorylase",
+      "Glucose-6-phosphatase",
+      "Debranching enzyme",
+      "Alpha-glucosidase (acid maltase)"
+    ],
+    "ans": 1,
+    "id": "q0073",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A patient has recurrent severe abdominal pain, muscle weakness, and psychiatric disturbance, with urine turning dark red-brown on standing after certain drug exposures. This results from accumulation related to a defect in which enzyme?",
+    "opts": [
+      "Ferrochelatase",
+      "Porphobilinogen deaminase",
+      "ALA synthase",
+      "Uroporphyrinogen decarboxylase"
+    ],
+    "ans": 1,
+    "id": "q0074",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 2-year-old has progressive neurodegeneration, a cherry-red macular spot, and hepatosplenomegaly. Enzyme assay shows deficient hexosaminidase A with GM2 ganglioside accumulation. Most likely diagnosis?",
+    "opts": [
+      "Gaucher disease",
+      "Tay-Sachs disease",
+      "Niemann-Pick disease",
+      "Fabry disease"
+    ],
+    "ans": 1,
+    "id": "q0075",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A patient with chronic alcohol use develops confusion, ataxia, and ophthalmoplegia from deficiency of a vitamin that is a cofactor for which enzymes?",
+    "opts": [
+      "Thiamine-dependent enzymes",
+      "Methylmalonyl-CoA mutase",
+      "Homocysteine methyltransferase",
+      "Glutamate decarboxylase"
+    ],
+    "ans": 0,
+    "id": "q0076",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A newborn on day 3 has lethargy, poor feeding, tachypnea, and a peculiar odor. Ammonia is markedly elevated with respiratory alkalosis; citrulline is very low. Which urea cycle enzyme is most likely deficient?",
+    "opts": [
+      "Arginase",
+      "Ornithine transcarbamylase",
+      "Argininosuccinate lyase",
+      "N-acetylglutamate synthase"
+    ],
+    "ans": 1,
+    "id": "q0077",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A 30-year-old man has recurrent first MTP joint pain, with joint fluid showing negatively birefringent needle-shaped crystals under polarized light. This results from overproduction/underexcretion of which metabolic end-product?",
+    "opts": [
+      "Cholesterol",
+      "Uric acid",
+      "Oxalate",
+      "Creatinine"
+    ],
+    "ans": 1,
+    "id": "q0078",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A neonate develops cataracts, hepatomegaly, and failure to thrive after starting breastfeeding, with a positive non-glucose urine reducing substance. Which enzyme deficiency in galactose metabolism is responsible?",
+    "opts": [
+      "Galactokinase",
+      "GALT (Gal-1-P uridyltransferase)",
+      "GALE (UDP-galactose epimerase)",
+      "Lactase"
+    ],
+    "ans": 1,
+    "id": "q0079",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A patient has markedly elevated anion gap metabolic acidosis after ingesting a substance, with visual disturbance and retinal edema. Fomepizole blocks which enzyme common to methanol and ethylene glycol toxicity?",
+    "opts": [
+      "Ethanol metabolism via ADH, relevant only in methanol poisoning",
+      "Ethylene glycol metabolism to oxalate only",
+      "Alcohol dehydrogenase — the shared first enzyme in both toxicities",
+      "Aspirin metabolism"
+    ],
+    "ans": 2,
+    "id": "q0080",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 45-year-old woman after axillary lymph node dissection for breast cancer cannot raise her arm above her head, with a winged scapula (medial border protruding when pushing against a wall). Which nerve was most likely injured?",
+    "opts": [
+      "Thoracodorsal nerve",
+      "Long thoracic nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve"
+    ],
+    "ans": 1,
+    "id": "q0081",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A patient sustains a surgical neck of humerus fracture, with sensory loss over the 'regimental badge' area and inability to abduct beyond 15 degrees. Which nerve is most likely injured?",
+    "opts": [
+      "Radial nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve",
+      "Ulnar nerve"
+    ],
+    "ans": 1,
+    "id": "q0082",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A patient has wrist drop after a mid-shaft humerus fracture. Which nerve is injured, and which compartment's paralysis explains the wrist drop?",
+    "opts": [
+      "Median nerve — flexor compartment",
+      "Radial nerve — extensor compartment",
+      "Ulnar nerve — hypothenar muscles",
+      "Musculocutaneous nerve — biceps"
+    ],
+    "ans": 1,
+    "id": "q0083",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "After thyroidectomy, a patient has a hoarse, breathy voice with the affected vocal cord in a paramedian position. Which nerve, closely related to the inferior thyroid artery, was most likely injured?",
+    "opts": [
+      "Superior laryngeal nerve (external branch)",
+      "Recurrent laryngeal nerve",
+      "Vagus nerve trunk",
+      "Hypoglossal nerve"
+    ],
+    "ans": 1,
+    "id": "q0084",
+    "subject": "ENT"
+  },
+  {
+    "q": "A 60-year-old man has foot drop after a fibular neck fracture, unable to dorsiflex or evert the foot, with sensory loss over the dorsum of the foot. Which nerve is most vulnerable at this site?",
+    "opts": [
+      "Tibial nerve",
+      "Common peroneal nerve",
+      "Sural nerve",
+      "Saphenous nerve"
+    ],
+    "ans": 1,
+    "id": "q0085",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A newborn after a difficult forceps delivery has the arm adducted, internally rotated, forearm pronated, wrist flexed — the 'waiter's tip' posture. Which nerve roots are most likely affected?",
+    "opts": [
+      "C5-C6 (Erb's palsy)",
+      "C8-T1 (Klumpke's palsy)",
+      "C5-T1 (total plexus injury)",
+      "T1 alone"
+    ],
+    "ans": 0,
+    "id": "q0086",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A patient with a stab wound to the posterior triangle of the neck cannot shrug the shoulder and has weakness turning the head to the opposite side. Which nerve is most likely injured?",
+    "opts": [
+      "Vagus nerve",
+      "Accessory nerve (CN XI)",
+      "Phrenic nerve",
+      "Hypoglossal nerve"
+    ],
+    "ans": 1,
+    "id": "q0087",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A patient cannot extend the terminal phalanges of the ring and little fingers after a wrist laceration, with sensory loss over the medial one and a half fingers. Injury at the wrist to this nerve causes more clawing than a more proximal lesion — which nerve, and why?",
+    "opts": [
+      "Median nerve; injury at the wrist",
+      "Ulnar nerve; injury at the wrist",
+      "Radial nerve; injury at the elbow",
+      "Median nerve; injury at the elbow"
+    ],
+    "ans": 1,
+    "id": "q0088",
+    "subject": "Medicine"
+  },
+  {
+    "q": "During femoral hernia repair, the surgeon identifies the femoral canal. Which structure forms the lateral boundary of the femoral ring, at risk if a femoral hernia strangulates?",
+    "opts": [
+      "Inguinal ligament",
+      "Lacunar ligament",
+      "Femoral vein",
+      "Pectineal ligament"
+    ],
+    "ans": 2,
+    "id": "q0089",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A patient undergoes lumbar puncture at L3-L4. Below which vertebral level does the adult spinal cord typically end, making this a safe level?",
+    "opts": [
+      "L1",
+      "L3",
+      "T12",
+      "L5"
+    ],
+    "ans": 0,
+    "id": "q0090",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A patient in hemorrhagic shock has HR 130/min and BP 80/50. Which compensatory response primarily explains the tachycardia?",
+    "opts": [
+      "Decreased baroreceptor firing → decreased vagal tone, increased sympathetic outflow",
+      "Increased baroreceptor firing causing reflex tachycardia",
+      "Direct effect of blood loss on the SA node",
+      "Chemoreceptor-mediated bradycardia"
+    ],
+    "ans": 0,
+    "id": "q0091",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient with CKD has a persistently low GFR, yet serum creatinine remains disproportionately near-normal early in the disease course. Which principle explains this?",
+    "opts": [
+      "Significant nephron loss can occur before creatinine rises appreciably (renal reserve)",
+      "Creatinine is entirely reabsorbed by the tubules",
+      "Creatinine production increases proportionally as GFR falls",
+      "Creatinine has no relationship with GFR"
+    ],
+    "ans": 0,
+    "id": "q0092",
+    "subject": "Medicine"
+  },
+  {
+    "q": "During exercise, cardiac output rises significantly. Which mechanism best explains the increase in stroke volume specifically, apart from the heart rate increase?",
+    "opts": [
+      "Decreased venous return",
+      "Increased venous return and contractility",
+      "Decreased preload",
+      "Increased afterload alone"
+    ],
+    "ans": 1,
+    "id": "q0093",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient hyperventilates from anxiety, lowering PaCO2. What acid-base and neurological effect results?",
+    "opts": [
+      "Respiratory alkalosis, causing decreased ionized calcium and perioral tingling",
+      "Respiratory acidosis, causing hypocalcemia",
+      "Metabolic alkalosis, no neurological effect",
+      "No acid-base change occurs"
+    ],
+    "ans": 0,
+    "id": "q0094",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient with a pituitary tumor has polyuria with dilute urine despite elevated serum sodium and osmolality; desmopressin fails to increase urine concentration. What does this suggest?",
+    "opts": [
+      "Central diabetes insipidus (would respond to desmopressin)",
+      "Nephrogenic diabetes insipidus (renal ADH resistance)",
+      "SIADH",
+      "Primary polydipsia"
+    ],
+    "ans": 1,
+    "id": "q0095",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient with COPD develops chronic hypoxemia leading to increased erythropoietin and secondary polycythemia. Where is hypoxia primarily sensed to trigger this EPO release?",
+    "opts": [
+      "Peritubular interstitial cells in the kidney via the HIF pathway",
+      "Direct bone marrow oxygen sensing",
+      "Exclusively the liver",
+      "CO2 levels alone trigger EPO release"
+    ],
+    "ans": 0,
+    "id": "q0096",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient hypoventilates from opioid overdose for several days. What acid-base pattern and renal compensation is expected?",
+    "opts": [
+      "Acute respiratory acidosis with no renal compensation",
+      "Respiratory acidosis with renal compensation",
+      "Respiratory alkalosis",
+      "Pure metabolic acidosis"
+    ],
+    "ans": 1,
+    "id": "q0097",
+    "subject": "Physiology"
+  },
+  {
+    "q": "After a large meal, gastric acid secretion rises. Which duodenal hormone, released in response to acidic chyme, most directly inhibits further gastric acid secretion?",
+    "opts": [
+      "Gastrin",
+      "Secretin",
+      "Motilin",
+      "Ghrelin"
+    ],
+    "ans": 1,
+    "id": "q0098",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient in septic shock has widespread vasodilation and hypotension. Which mediator, produced via inducible nitric oxide synthase, primarily drives this?",
+    "opts": [
+      "Endothelin-1",
+      "Nitric oxide",
+      "Angiotensin II",
+      "Thromboxane A2"
+    ],
+    "ans": 1,
+    "id": "q0099",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A high-altitude climber acclimatizes over several days. Which adaptation improves tissue oxygen delivery despite lower atmospheric PO2?",
+    "opts": [
+      "Decreased 2,3-DPG, left-shifting the O2 curve",
+      "Increased 2,3-DPG (right shift) plus EPO-driven polycythemia",
+      "Decreased ventilation to conserve energy",
+      "Decreased erythropoietin production"
+    ],
+    "ans": 1,
+    "id": "q0100",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A district reports 200 acute watery diarrhea cases over 5 days clustered around one water source, with an epidemic curve showing a sharp peak then rapid decline. What pattern and source type does this suggest?",
+    "opts": [
+      "Propagated epidemic — person-to-person spread",
+      "Point source epidemic — single exposure event",
+      "Continuous common source epidemic",
+      "Mixed epidemic"
+    ],
+    "ans": 1,
+    "id": "q0101",
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "q": "A new screening test is evaluated in a population with 1% disease prevalence, 95% sensitivity, 90% specificity. A patient tests positive. Why will the positive predictive value be relatively low?",
+    "opts": [
+      "Low prevalence leads to many false positives relative to true positives",
+      "PPV always equals sensitivity regardless of prevalence",
+      "PPV is unaffected by prevalence",
+      "Specificity has no bearing on PPV"
+    ],
+    "ans": 0,
+    "id": "q0102",
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "q": "A study compares smoking history in lung cancer patients versus matched controls, looking backward at exposure. What design is this, and what measure is appropriate?",
+    "opts": [
+      "Cohort study — relative risk",
+      "Case-control study — odds ratio",
+      "Randomized controlled trial — relative risk reduction",
+      "Cross-sectional study — prevalence ratio"
+    ],
+    "ans": 1,
+    "id": "q0103",
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "q": "A vaccination program targets a disease with R0 of 4. What minimum coverage achieves herd immunity, assuming 100% vaccine efficacy?",
+    "opts": [
+      "25%",
+      "50%",
+      "75%",
+      "90%"
+    ],
+    "ans": 2,
+    "id": "q0104",
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "q": "A researcher wants to test if a new drug reduces heart failure mortality, minimizing bias from both patient expectation and assessor judgment. Which design best achieves this?",
+    "opts": [
+      "Case series",
+      "Double-blind randomized controlled trial",
+      "Retrospective cohort study",
+      "Ecological study"
+    ],
+    "ans": 1,
+    "id": "q0105",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "An anganwadi worker evaluates a child using weight-for-age Z-scores; the child's score is between -2 and -3. How is this classified?",
+    "opts": [
+      "Normal",
+      "Moderate underweight",
+      "Severe underweight",
+      "Overweight"
+    ],
+    "ans": 1,
+    "id": "q0106",
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "q": "A vaccine trial shows disease incidence of 10% unvaccinated versus 2% vaccinated. What is the vaccine efficacy?",
+    "opts": [
+      "20%",
+      "80%",
+      "8%",
+      "50%"
+    ],
+    "ans": 1,
+    "id": "q0107",
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "q": "A hospital implements a strict catheter insertion/care protocol to reduce catheter-associated UTIs. Which level of prevention does this represent?",
+    "opts": [
+      "Primary prevention",
+      "Secondary prevention",
+      "Tertiary prevention",
+      "Primordial prevention"
+    ],
+    "ans": 0,
+    "id": "q0108",
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "q": "A case-control study of a rare exposure and disease yields an odds ratio of 1.0 with 95% CI 0.7 to 1.4. What is the most appropriate interpretation?",
+    "opts": [
+      "The exposure is protective",
+      "The exposure significantly increases risk",
+      "No statistically significant association (CI crosses 1)",
+      "The study is invalid"
+    ],
+    "ans": 2,
+    "id": "q0109",
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "q": "A TB screening program with high sensitivity generates many false positives in a low-prevalence rural population, straining confirmatory testing resources. Which approach most directly improves resource allocation without changing the test itself?",
+    "opts": [
+      "Target higher-prevalence subgroups to raise PPV",
+      "Lower sensitivity intentionally",
+      "Ignore the false positives",
+      "Discontinue screening entirely"
+    ],
+    "ans": 0,
+    "id": "q0110",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A body has rigor mortis fully established in all muscle groups, with green discoloration beginning over the right iliac fossa. What is the most likely estimated post-mortem interval?",
+    "opts": [
+      "Less than 3 hours",
+      "Approximately 12-24 hours",
+      "Approximately 1 hour",
+      "More than 1 week"
+    ],
+    "ans": 1,
+    "id": "q0111",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "An autopsy shows a circular gunshot entry wound with an abrasion collar, soot deposition, and scorching, but no stellate tearing. What range of fire does this suggest?",
+    "opts": [
+      "Contact range",
+      "Close range",
+      "Distant range",
+      "Cannot be determined"
+    ],
+    "ans": 1,
+    "id": "q0112",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "An unconscious young woman is brought in after alleged assault for medico-legal examination. What is the most important initial step, given she cannot consent herself?",
+    "opts": [
+      "Proceed directly with examination since it's an emergency",
+      "Obtain guardian/next-of-kin consent, while life-saving treatment takes priority",
+      "Wait for police before any medical care",
+      "Refuse examination without her own consent"
+    ],
+    "ans": 1,
+    "id": "q0113",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A body recovered from a river shows fine white froth at the mouth, cutis anserina, washerwoman's hands, and a diatom test positive matching the water source. What do these findings establish, and what remains separately required?",
+    "opts": [
+      "Confirms drowning; manner of death needs separate probe",
+      "They alone confirm homicide",
+      "They are non-specific and rule out drowning",
+      "The diatom test is irrelevant to drowning diagnosis"
+    ],
+    "ans": 0,
+    "id": "q0114",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A 6-year-old has a spiral femur fracture with a caregiver explanation inconsistent with the injury pattern, plus healing fractures of different ages on skeletal survey. Most important next step for the physician?",
+    "opts": [
+      "Accept the caregiver's explanation and discharge",
+      "Suspect non-accidental injury and initiate mandatory reporting",
+      "Ignore old fractures as incidental",
+      "Discharge with pain medication only"
+    ],
+    "ans": 1,
+    "id": "q0115",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A body has an oblique, non-continuous ligature mark above the thyroid cartilage with the knot displaced to one side. What does this pattern most likely suggest?",
+    "opts": [
+      "Homicidal strangulation",
+      "Hanging",
+      "Postmortem artifact unrelated to death",
+      "Accidental strangulation from clothing"
+    ],
+    "ans": 1,
+    "id": "q0116",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Viscera are sent for chemical analysis in a suspected poisoning death. Beyond stomach contents, which organs are standard to preserve for comprehensive toxicological analysis?",
+    "opts": [
+      "Blood alone is needed",
+      "Liver and kidney also preserved",
+      "Hair samples alone",
+      "Urine alone is sufficient"
+    ],
+    "ans": 1,
+    "id": "q0117",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A woman alleges sexual assault 5 days ago; examination shows old healed hymenal tears with no fresh injury. What is the most appropriate interpretation?",
+    "opts": [
+      "Old healed tears definitively rule out recent assault",
+      "Absence of fresh injury doesn't rule out recent assault",
+      "This proves she is lying",
+      "No examination should have been performed"
+    ],
+    "ans": 1,
+    "id": "q0118",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient is declared brain dead after severe head injury as a potential organ donor. What is required for the legal declaration, per standard protocol?",
+    "opts": [
+      "A single examination by one physician is sufficient",
+      "Two separate clinical exams by qualified physicians, with confounders excluded",
+      "Only EEG confirmation is needed, no clinical exam",
+      "Family consent alone determines brain death"
+    ],
+    "ans": 1,
+    "id": "q0119",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A person survives a suicide attempt by hanging and is now conscious. Under India's Mental Healthcare Act, what is the most appropriate approach by the treating physician?",
+    "opts": [
+      "Report to police for prosecution regardless",
+      "Treat medically; presume severe stress, not crime",
+      "Refuse treatment as self-inflicted",
+      "Immediately involuntarily hospitalize without assessment"
+    ],
+    "ans": 1,
+    "id": "q0120",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A 70-year-old woman falls and has a shortened, externally rotated right leg, unable to bear weight, with groin pain. X-ray confirms a displaced femoral neck fracture. Given her age and fracture pattern, most appropriate management to reduce AVN risk and allow early mobilization?",
+    "opts": [
+      "Conservative management with bed rest",
+      "Hemiarthroplasty or total hip replacement",
+      "Closed reduction and internal fixation with screws",
+      "Traction alone for 6 weeks"
+    ],
+    "ans": 1,
+    "id": "q0121",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A 25-year-old man falls on an outstretched hand with wrist pain and anatomical snuffbox tenderness; initial X-ray is normal. Most appropriate next step, given a commonly missed injury?",
+    "opts": [
+      "Discharge with reassurance since X-ray is normal",
+      "Immobilize in a scaphoid cast, repeat imaging in 2 weeks",
+      "Immediate surgery without further imaging",
+      "Physiotherapy only"
+    ],
+    "ans": 1,
+    "id": "q0122",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "An obese 16-year-old boy has weeks of dull hip/groin pain and a limp, with limited hip internal rotation and obligate external rotation on flexion. Frog-leg X-ray shows posteroinferior displacement of the femoral epiphysis. Most likely diagnosis?",
+    "opts": [
+      "Legg-Calve-Perthes disease",
+      "Slipped capital femoral epiphysis",
+      "Transient synovitis",
+      "Septic arthritis"
+    ],
+    "ans": 1,
+    "id": "q0123",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A 6-year-old boy has an insidious limp and hip pain for weeks, no fever, normal inflammatory markers. X-ray shows flattening and fragmentation of the femoral head epiphysis. Most likely diagnosis and mechanism?",
+    "opts": [
+      "Septic arthritis — infectious",
+      "Legg-Calve-Perthes disease",
+      "SCFE — epiphyseal slippage",
+      "Osteosarcoma"
+    ],
+    "ans": 1,
+    "id": "q0124",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "After a supracondylar humerus fracture is reduced, the hand is pale, pulseless, with severe pain on passive finger extension. Most appropriate immediate action?",
+    "opts": [
+      "Observe and reassess in 6 hours",
+      "Urgent surgical re-exploration",
+      "Apply ice and elevate only",
+      "Discharge with analgesics"
+    ],
+    "ans": 1,
+    "id": "q0125",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A 55-year-old man has progressive low back pain with over an hour of morning stiffness improving with activity, plus bilateral buttock pain. X-ray shows bilateral sacroiliac sclerosis and erosions; he is HLA-B27 positive. Most likely diagnosis?",
+    "opts": [
+      "Osteoarthritis",
+      "Ankylosing spondylitis",
+      "Mechanical low back pain",
+      "Multiple myeloma"
+    ],
+    "ans": 1,
+    "id": "q0126",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "Two days after a tibial shaft fracture, a patient has a tight swollen leg with pain out of proportion, worse on passive toe stretch, but pulses are still palpable. Most appropriate immediate management, and why aren't the pulses reassuring?",
+    "opts": [
+      "Reassure since pulses are present, continue observation",
+      "Emergency fasciotomy — pulses persist until very late in compartment syndrome",
+      "Elevate the limb and wait 24 hours",
+      "Apply a tighter cast for support"
+    ],
+    "ans": 1,
+    "id": "q0127",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A 12-year-old boy has tibial tuberosity pain worsened by running/jumping and relieved by rest, with tenderness and swelling over the tubercle; X-ray shows fragmentation of the tibial tuberosity apophysis. Most likely diagnosis?",
+    "opts": [
+      "Osgood-Schlatter disease",
+      "Patellar fracture",
+      "Osteosarcoma",
+      "Septic arthritis of the knee"
+    ],
+    "ans": 0,
+    "id": "q0128",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A diabetic man has severe ear pain, purulent discharge, and granulation tissue at the bone-cartilage junction of the ear canal, then develops facial nerve palsy. Most likely diagnosis and most concerning complication?",
+    "opts": [
+      "Simple otitis externa; no further workup needed",
+      "Malignant (necrotizing) otitis externa, risk of skull base osteomyelitis",
+      "Acute otitis media; oral antibiotics only",
+      "Cholesteatoma; surgical removal only"
+    ],
+    "ans": 1,
+    "id": "q0129",
+    "subject": "ENT"
+  },
+  {
+    "q": "A 50-year-old man has 3 months of unilateral nasal obstruction, epistaxis, and foul discharge, plus cheek swelling and diplopia. CT shows a mass eroding into the orbit and maxillary sinus. Most likely diagnosis given this presentation?",
+    "opts": [
+      "Allergic rhinitis",
+      "Sinonasal malignancy",
+      "Simple nasal polyp",
+      "Deviated nasal septum"
+    ],
+    "ans": 1,
+    "id": "q0130",
+    "subject": "ENT"
+  },
+  {
+    "q": "A 7-year-old has mouth breathing, snoring, and witnessed breathing pauses during sleep with hyponasal speech; large tonsils touch in the midline. Most appropriate management given sleep-disordered breathing?",
+    "opts": [
+      "Reassurance, will outgrow",
+      "Adenotonsillectomy",
+      "Antibiotics alone",
+      "Nasal decongestants only"
+    ],
+    "ans": 1,
+    "id": "q0131",
+    "subject": "ENT"
+  },
+  {
+    "q": "A 60-year-old with long-standing GERD has hoarseness and chronic throat clearing; laryngoscopy shows posterior laryngeal erythema and edema without a mass. Most likely diagnosis and first-line management?",
+    "opts": [
+      "Laryngeal cancer; biopsy immediately",
+      "Laryngopharyngeal reflux; PPI trial and lifestyle modification",
+      "Vocal cord nodules; voice therapy",
+      "Vocal cord paralysis; surgery"
+    ],
+    "ans": 1,
+    "id": "q0132",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient has sudden severe vertigo, nausea, and vomiting for several days without hearing loss or tinnitus, after a recent viral URI, with spontaneous nystagmus but normal tuning fork tests. Most likely diagnosis?",
+    "opts": [
+      "Meniere's disease",
+      "Vestibular neuritis",
+      "Benign paroxysmal positional vertigo",
+      "Acoustic neuroma"
+    ],
+    "ans": 1,
+    "id": "q0133",
+    "subject": "ENT"
+  },
+  {
+    "q": "A 3-year-old has sudden unilateral foul-smelling nasal discharge for a week, without fever. Most likely diagnosis?",
+    "opts": [
+      "Bilateral allergic rhinitis",
+      "Foreign body in the nose",
+      "Acute sinusitis",
+      "Choanal atresia"
+    ],
+    "ans": 1,
+    "id": "q0134",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient has progressive unilateral sensorineural hearing loss, tinnitus, and unsteadiness over months; MRI shows a cerebellopontine angle mass. Which nerve does it likely arise from, and which nearby nerve is at surgical risk?",
+    "opts": [
+      "CN VIII; CN VII at risk",
+      "CN V; CN III at risk",
+      "CN IX; CN X at risk",
+      "CN VII; CN VI at risk"
+    ],
+    "ans": 0,
+    "id": "q0135",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient with chronic sinusitis develops periorbital swelling, proptosis, painful eye movement limitation, and fever. Most concerning complication to rule out urgently?",
+    "opts": [
+      "Simple periorbital cellulitis, oral antibiotics sufficient",
+      "Orbital cellulitis/subperiosteal abscess",
+      "Allergic conjunctivitis",
+      "Dry eye syndrome"
+    ],
+    "ans": 1,
+    "id": "q0136",
+    "subject": "ENT"
+  },
+  {
+    "q": "A 65-year-old man has sudden, painless, complete vision loss in one eye. Fundoscopy shows a pale edematous retina with a cherry-red macular spot and boxcar-segmented retinal veins. Most likely diagnosis, and how urgent is action?",
+    "opts": [
+      "Central retinal vein occlusion; no urgency",
+      "Central retinal artery occlusion; time-critical emergency",
+      "Retinal detachment; elective surgery",
+      "Open-angle glaucoma; routine follow-up"
+    ],
+    "ans": 1,
+    "id": "q0137",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A diabetic woman has gradually worsening vision. Fundoscopy shows microaneurysms, dot-blot hemorrhages, and fragile new vessels on the optic disc. What stage does neovascularization indicate, and what is appropriate treatment?",
+    "opts": [
+      "Mild non-proliferative retinopathy; observation only",
+      "Proliferative diabetic retinopathy; panretinal photocoagulation or anti-VEGF",
+      "Background retinopathy; no treatment needed",
+      "Cataract; surgery indicated"
+    ],
+    "ans": 1,
+    "id": "q0138",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 60-year-old man has severe eye pain, blurred vision, halos, nausea, and vomiting, with a red eye, fixed mid-dilated pupil, and hard globe. Most appropriate immediate management before definitive treatment?",
+    "opts": [
+      "Topical antibiotics alone",
+      "Acute IOP-lowering agents",
+      "Immediate enucleation",
+      "Oral antihistamines"
+    ],
+    "ans": 1,
+    "id": "q0139",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "Parents notice a white pupillary reflex (leukocoria) in photographs of their 6-year-old; exam confirms an absent red reflex in one eye. Most important diagnosis to rule out urgently?",
+    "opts": [
+      "Congenital cataract only, no urgency",
+      "Retinoblastoma",
+      "Simple refractive error",
+      "Conjunctivitis"
+    ],
+    "ans": 1,
+    "id": "q0140",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A patient on long-term hydroxychloroquine for RA undergoes routine ophthalmologic screening. What toxicity is being screened for, and which structure is affected?",
+    "opts": [
+      "Cataracts; lens",
+      "Retinopathy (bull's-eye maculopathy)",
+      "Optic neuritis; optic nerve only",
+      "Corneal ulceration"
+    ],
+    "ans": 1,
+    "id": "q0141",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 70-year-old has gradual painless central vision loss with wavy lines on Amsler grid testing. Fundoscopy shows drusen and macular pigmentary changes. Most likely diagnosis?",
+    "opts": [
+      "Open-angle glaucoma",
+      "Age-related macular degeneration",
+      "Diabetic retinopathy",
+      "Retinitis pigmentosa"
+    ],
+    "ans": 1,
+    "id": "q0142",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A patient has sudden painless vision loss described as a curtain descending, preceded by flashes and floaters; exam shows a folded, elevated retina. Most likely diagnosis and referral urgency?",
+    "opts": [
+      "Vitreous hemorrhage; can wait weeks",
+      "Retinal detachment; urgent same-day referral",
+      "Migraine with aura; no referral needed",
+      "Conjunctivitis; routine follow-up"
+    ],
+    "ans": 1,
+    "id": "q0143",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A patient on long-term systemic corticosteroids develops progressive blurring with opacification of the posterior subcapsular lens region. Most likely diagnosis, and why does its location cause disproportionate symptoms?",
+    "opts": [
+      "Posterior subcapsular cataract (steroid-related)",
+      "Nuclear sclerotic cataract; typical of aging only",
+      "Cortical cataract; unrelated to steroids",
+      "Congenital cataract"
+    ],
+    "ans": 0,
+    "id": "q0144",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 25-year-old man has 3 weeks of decreased need for sleep, grandiose business plans, pressured speech, and impulsive spending of his savings, with no prior psychiatric history. Most likely diagnosis, and what should be ruled out first?",
+    "opts": [
+      "Major depressive disorder; start SSRIs immediately",
+      "Manic episode; rule out substance use and organic causes first",
+      "Schizophrenia; start antipsychotics without further workup",
+      "Normal personality trait, no intervention"
+    ],
+    "ans": 1,
+    "id": "q0145",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 30-year-old woman has intrusive contamination thoughts leading to hand-washing over 50 times daily, causing skin breakdown and impairing work; she recognizes the thoughts as excessive but cannot stop. Most likely diagnosis and first-line treatment?",
+    "opts": [
+      "Generalized anxiety disorder; benzodiazepines",
+      "Obsessive-compulsive disorder; SSRIs plus CBT/exposure-response prevention",
+      "Specific phobia; avoidance is sufficient",
+      "Psychotic disorder; antipsychotics first-line"
+    ],
+    "ans": 1,
+    "id": "q0146",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A man with alcohol dependence, sober for 3 days, has visual hallucinations, tremors, disorientation, tachycardia, hypertension, and diaphoresis. Most likely diagnosis and most appropriate immediate treatment?",
+    "opts": [
+      "Alcoholic hallucinosis; antipsychotics only",
+      "Delirium tremens; benzodiazepines first-line",
+      "Wernicke's encephalopathy; thiamine alone, no benzodiazepines",
+      "Schizophrenia; antipsychotics"
+    ],
+    "ans": 1,
+    "id": "q0147",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 22-year-old student has 7 months of social withdrawal, flat affect, disorganized speech, and command auditory hallucinations, with significant functional decline persisting continuously beyond 6 months. Most likely diagnosis?",
+    "opts": [
+      "Brief psychotic disorder (less than 1 month)",
+      "Schizophreniform disorder (1-6 months)",
+      "Schizophrenia (symptoms over 6 months with decline)",
+      "Schizoaffective disorder"
+    ],
+    "ans": 2,
+    "id": "q0148",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 35-year-old woman has left arm numbness and weakness with no identifiable neurological lesion after a significant stressor, appears unconcerned about the deficit. Most likely diagnosis?",
+    "opts": [
+      "Malingering",
+      "Conversion disorder",
+      "Factitious disorder",
+      "Somatic symptom disorder with predominant pain"
+    ],
+    "ans": 1,
+    "id": "q0149",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 28-year-old woman has unstable relationships, chronic emptiness, fear of abandonment, impulsivity, and recurrent self-harm, worsening after a breakup. Most likely personality disorder, and the best-evidenced specific therapy?",
+    "opts": [
+      "Antisocial personality disorder; no proven specific therapy",
+      "Borderline personality disorder; Dialectical Behavior Therapy",
+      "Narcissistic personality disorder; psychoanalysis only",
+      "Histrionic personality disorder; supportive therapy only"
+    ],
+    "ans": 1,
+    "id": "q0150",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 45-year-old man has recurrent panic attacks with chest pain, palpitations, sweating, and fear of dying, plus persistent worry about further attacks leading him to avoid leaving home; cardiac workup is unremarkable. Most likely diagnosis?",
+    "opts": [
+      "Panic disorder with agoraphobia",
+      "Generalized anxiety disorder",
+      "Specific phobia",
+      "Somatic symptom disorder"
+    ],
+    "ans": 0,
+    "id": "q0151",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 60-year-old hospitalized for pneumonia develops acute confusion, fluctuating consciousness, disorientation, and visual hallucinations over 2 days, worse at night. Most likely diagnosis and most important initial step?",
+    "opts": [
+      "Schizophrenia; start antipsychotics as sole treatment",
+      "Delirium; identify and treat the underlying medical cause",
+      "Dementia; no urgency, chronic management only",
+      "Normal aging; no workup needed"
+    ],
+    "ans": 1,
+    "id": "q0152",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 45-year-old man has painful flaccid blisters on the trunk and oral mucosa that rupture easily, with a positive Nikolsky sign. Biopsy shows intraepidermal blistering with acantholysis. Most likely diagnosis and mechanism?",
+    "opts": [
+      "Bullous pemphigoid; subepidermal, anti-hemidesmosome antibodies",
+      "Pemphigus vulgaris; intraepidermal, anti-desmoglein antibodies",
+      "Erythema multiforme; not autoimmune",
+      "Dermatitis herpetiformis; IgA-mediated"
+    ],
+    "ans": 1,
+    "id": "q0153",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 70-year-old has tense fluid-filled bullae on the trunk/limbs with intact skin between lesions, mucosa spared, negative Nikolsky sign. Biopsy shows subepidermal blistering with eosinophils. Most likely diagnosis, and how does severity compare to pemphigus vulgaris?",
+    "opts": [
+      "Pemphigus vulgaris; more severe with mucosal involvement",
+      "Bullous pemphigoid; generally milder, mucosa usually spared",
+      "Toxic epidermal necrolysis; full-thickness necrosis",
+      "Dermatitis herpetiformis; associated with celiac disease"
+    ],
+    "ans": 1,
+    "id": "q0154",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 30-year-old man has an itchy, symmetric papulosquamous rash on the wrists and lower back with fine white lacy lines on the papules, plus similar buccal lesions. Biopsy shows a band-like lymphocytic infiltrate with saw-tooth rete ridges. Most likely diagnosis?",
+    "opts": [
+      "Psoriasis",
+      "Lichen planus",
+      "Pityriasis rosea",
+      "Discoid lupus erythematosus"
+    ],
+    "ans": 1,
+    "id": "q0155",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A woman on sulfonamides develops fever, then widespread targetoid lesions and painful oral/genital erosions with skin detachment under 10% of body surface area. Most likely diagnosis, and what defines this versus TEN?",
+    "opts": [
+      "Erythema multiforme minor; no mucosal involvement by definition",
+      "Stevens-Johnson syndrome; defined by less than 10% BSA detachment",
+      "Toxic epidermal necrolysis; always over 30% detachment",
+      "Simple drug rash, no further classification needed"
+    ],
+    "ans": 1,
+    "id": "q0156",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A 6-year-old has a single large oval scaly 'herald patch' on the trunk, followed a week later by smaller oval lesions with a collarette of scale in a Christmas-tree distribution along skin lines. Most likely diagnosis and expected course?",
+    "opts": [
+      "Tinea corporis; requires antifungal treatment",
+      "Pityriasis rosea; typically self-limiting over 6-8 weeks",
+      "Psoriasis; chronic, requires long-term treatment",
+      "Secondary syphilis; requires penicillin"
+    ],
+    "ans": 1,
+    "id": "q0157",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A 50-year-old woman has well-demarcated salmon-pink plaques with silvery scale on extensor elbows/knees, plus nail pitting and onycholysis, and finger joint pain/stiffness. Which associated condition should be evaluated?",
+    "opts": [
+      "Rheumatoid arthritis, unrelated to skin findings",
+      "Psoriatic arthritis",
+      "Osteoarthritis, unrelated",
+      "Gout"
+    ],
+    "ans": 1,
+    "id": "q0158",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A pregnant woman has symmetric hyperpigmented patches on the malar area, forehead, and upper lip that darken with sun exposure. Most likely diagnosis and driver in this context?",
+    "opts": [
+      "Vitiligo; autoimmune melanocyte destruction",
+      "Melasma; hormonally driven, common in pregnancy",
+      "Tinea versicolor; fungal etiology",
+      "Post-inflammatory hyperpigmentation, unrelated cause"
+    ],
+    "ans": 1,
+    "id": "q0159",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A fair-skinned man with significant sun exposure has a slowly growing pearly, translucent papule with rolled borders and telangiectasia on the nose that occasionally bleeds. Most likely diagnosis, and how does its metastatic potential compare to other skin cancers?",
+    "opts": [
+      "Melanoma; high metastatic potential",
+      "Basal cell carcinoma; locally invasive but very low metastatic potential",
+      "Squamous cell carcinoma; always metastasizes early",
+      "Seborrheic keratosis; benign, no malignant potential"
+    ],
+    "ans": 1,
+    "id": "q0160",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A patient under general anesthesia with succinylcholine has a sudden rise in end-tidal CO2, tachycardia, muscle rigidity, and rapidly rising core temperature to 40C. Most likely diagnosis and first-line treatment?",
+    "opts": [
+      "Anaphylaxis; epinephrine",
+      "Malignant hyperthermia; dantrolene",
+      "Serotonin syndrome; cyproheptadine",
+      "Simple fever; antipyretics"
+    ],
+    "ans": 1,
+    "id": "q0161",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "A patient having spinal anesthesia for cesarean section develops sudden hypotension and bradycardia shortly after the block. Most likely mechanism and appropriate management?",
+    "opts": [
+      "Local anesthetic systemic toxicity; give lipid emulsion",
+      "Sympathetic blockade; fluids and vasopressors",
+      "Anaphylaxis; epinephrine",
+      "Myocardial infarction; urgent catheterization"
+    ],
+    "ans": 1,
+    "id": "q0162",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "A preoperative patient has Mallampati class IV airway with a short thyromental distance. What does this predict, and how should anesthetic planning respond?",
+    "opts": [
+      "Easy intubation expected, no special precautions",
+      "Difficult airway; plan advanced equipment and difficult airway backup",
+      "No relevance to anesthesia planning",
+      "General anesthesia is contraindicated, regional only"
+    ],
+    "ans": 1,
+    "id": "q0163",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "During general anesthesia, end-tidal CO2 suddenly drops near zero with a simultaneous drop in blood pressure and oxygen saturation. Most likely life-threatening diagnosis to consider immediately?",
+    "opts": [
+      "Simple hypoventilation",
+      "Venous air embolism or massive pulmonary embolism",
+      "Anesthesia machine malfunction only",
+      "Normal variation, no action needed"
+    ],
+    "ans": 1,
+    "id": "q0164",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "A patient with significant GERD and a full stomach needs emergency surgery. Which induction technique minimizes aspiration risk?",
+    "opts": [
+      "Standard slow induction with mask ventilation",
+      "Rapid sequence induction with cricoid pressure",
+      "Awake intubation is mandatory in all such cases",
+      "Regional anesthesia is always preferred regardless"
+    ],
+    "ans": 1,
+    "id": "q0165",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "A patient develops localized tissue necrosis after extravasation of infused norepinephrine at the IV site. Which agent, infiltrated locally, reverses the vasoconstriction?",
+    "opts": [
+      "Naloxone",
+      "Phentolamine",
+      "Atropine",
+      "Protamine"
+    ],
+    "ans": 1,
+    "id": "q0166",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A woman who had epidural anesthesia for labor develops a severe positional headache (worse sitting/standing, relieved lying flat) days after an accidental dural puncture. Most likely diagnosis and first-line conservative management?",
+    "opts": [
+      "Migraine; triptans",
+      "Post-dural puncture headache; conservative Rx first",
+      "Meningitis; immediate lumbar puncture for diagnosis",
+      "Tension headache; unrelated to the procedure"
+    ],
+    "ans": 1,
+    "id": "q0167",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "A patient reports a family history of unexplained deaths during general anesthesia. Which condition should be anticipated, influencing anesthetic agent choice?",
+    "opts": [
+      "No specific relevance, proceed as normal",
+      "Malignant hyperthermia susceptibility; avoid triggering agents, use TIVA",
+      "This only affects regional anesthesia choices",
+      "Family history of surgical death is never relevant"
+    ],
+    "ans": 1,
+    "id": "q0168",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "A man with chronic alcohol use has hematemesis; while awaiting endoscopy, CT shows dilated tortuous submucosal esophageal vessels, recanalized paraumbilical veins, and splenomegaly. What condition do these suggest, and what is the likely bleeding source?",
+    "opts": [
+      "Simple gastritis; unrelated findings",
+      "Portal hypertension from cirrhosis; esophageal varices most likely",
+      "Peptic ulcer disease alone",
+      "Mallory-Weiss tear, unrelated to imaging findings"
+    ],
+    "ans": 1,
+    "id": "q0169",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A patient with 'the worst headache of my life' has a normal non-contrast CT head within 6 hours of onset. Given high clinical suspicion, most appropriate next step?",
+    "opts": [
+      "Discharge, normal CT rules out serious pathology",
+      "Lumbar puncture to look for xanthochromia/RBCs",
+      "Repeat CT in one week",
+      "MRI brain without contrast only, no LP needed"
+    ],
+    "ans": 1,
+    "id": "q0170",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A young athlete has a positive anterior drawer and Lachman test after a knee injury. Which structure's tear do these tests most directly suggest?",
+    "opts": [
+      "Posterior cruciate ligament",
+      "Anterior cruciate ligament",
+      "Meniscus only",
+      "Medial collateral ligament"
+    ],
+    "ans": 1,
+    "id": "q0171",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A neonate born at 32 weeks on mechanical ventilation with high pressures develops a diffuse bubbly/cystic bilateral lung pattern on CXR, distinct from RDS's granular pattern. What does this represent?",
+    "opts": [
+      "Normal lung findings",
+      "Pulmonary interstitial emphysema from barotrauma",
+      "Meconium aspiration syndrome",
+      "Simple RDS pattern"
+    ],
+    "ans": 1,
+    "id": "q0172",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A breast cancer patient undergoing staging bone scan shows multiple areas of increased radiotracer uptake in the spine, pelvis, and ribs. What does this pattern most likely represent?",
+    "opts": [
+      "Normal physiological uptake, no action needed",
+      "Osteoblastic bone metastases (multifocal)",
+      "Osteoporosis alone",
+      "Simple arthritis"
+    ],
+    "ans": 1,
+    "id": "q0173",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A patient with suspected PE has a severe iodinated contrast allergy. Which imaging modality assesses for PE without requiring contrast?",
+    "opts": [
+      "Non-contrast CT chest alone is sufficient",
+      "Ventilation-perfusion (V/Q) scan",
+      "Plain chest X-ray alone can diagnose PE",
+      "No alternative exists"
+    ],
+    "ans": 1,
+    "id": "q0174",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient has acute right upper quadrant pain and fever; ultrasound shows a thickened gallbladder wall, pericholecystic fluid, positive sonographic Murphy's sign, and an impacted neck stone. What does this suggest, and what confirms an equivocal ultrasound?",
+    "opts": [
+      "Simple biliary colic; no further imaging needed",
+      "Acute cholecystitis; HIDA scan confirms if ultrasound is equivocal",
+      "Choledocholithiasis alone; MRCP is next, not HIDA",
+      "Pancreatitis; CT abdomen is more appropriate"
+    ],
+    "ans": 1,
+    "id": "q0175",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 6-year-old with a limp has pelvic X-ray showing an irregular, flattened, sclerotic femoral epiphysis on one side, normal joint space, no epiphyseal slippage. What radiographic feature helps stage this condition's progression over time?",
+    "opts": [
+      "Femoral neck-shaft angle only",
+      "Sequential femoral head shape/containment changes tracked on serial imaging",
+      "A single X-ray is sufficient, no follow-up needed",
+      "MRI is never useful in this condition"
+    ],
+    "ans": 1,
+    "id": "q0176",
+    "subject": "Orthopedics"
+  },
+  {
+    "q": "A 60-year-old man with untreated atrial fibrillation has sudden severe abdominal pain out of proportion to exam findings, with bloody diarrhea and markedly elevated lactate. Most likely diagnosis and mechanism?",
+    "opts": [
+      "Acute pancreatitis; unrelated to AF",
+      "Acute mesenteric ischemia (embolic, from AF)",
+      "Simple gastroenteritis",
+      "Diverticulitis"
+    ],
+    "ans": 1,
+    "id": "q0177",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 50-year-old woman has progressive dyspnea; echo shows a markedly dilated left atrium, a diastolic murmur, an early diastolic 'tumor plop,' and syncope related to position changes. Most likely diagnosis, distinguishing it from mitral stenosis?",
+    "opts": [
+      "Mitral stenosis; positional variation is not typical",
+      "Left atrial myxoma (obstructing mass)",
+      "Aortic stenosis",
+      "Constrictive pericarditis"
+    ],
+    "ans": 1,
+    "id": "q0178",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A type 1 diabetic on insulin has recurrent early-morning hypoglycemia followed by rebound hyperglycemia and ketosis by mid-morning; reducing evening insulin worsens fasting hyperglycemia. What phenomenon is this, and how is it managed?",
+    "opts": [
+      "Dawn phenomenon, requiring an insulin dose increase",
+      "Somogyi effect, requiring insulin dose reduction",
+      "Insulin resistance requiring dose escalation regardless",
+      "Normal glycemic variability, no intervention needed"
+    ],
+    "ans": 1,
+    "id": "q0179",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 40-year-old has progressive proximal muscle weakness, difficulty climbing stairs, a heliotrope rash around the eyes, and Gottron's papules over the knuckles, with markedly elevated CK. Most likely diagnosis, and what screening is particularly important?",
+    "opts": [
+      "Polymyositis; no additional screening needed",
+      "Dermatomyositis; age-appropriate occult malignancy screening is important",
+      "Myasthenia gravis; unrelated to malignancy screening",
+      "Guillain-Barre syndrome; no CK elevation expected"
+    ],
+    "ans": 1,
+    "id": "q0180",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A 55-year-old with chronic hepatitis B has right upper quadrant pain, weight loss, a new palpable liver mass, and markedly elevated AFP. Most likely diagnosis, and what surveillance could have detected this earlier?",
+    "opts": [
+      "Simple hepatic cyst; no surveillance relevant",
+      "Hepatocellular carcinoma; regular ultrasound ± AFP surveillance in high-risk patients",
+      "Metastatic disease from an unknown primary; surveillance wouldn't help",
+      "Focal nodular hyperplasia; benign, no surveillance needed"
+    ],
+    "ans": 1,
+    "id": "q0181",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 30-year-old woman has fatigue, joint pain, and a photosensitive facial rash, with pancytopenia, RBC casts, and proteinuria; renal biopsy shows diffuse proliferative changes. Which specific antibody correlates most with this pattern of renal activity?",
+    "opts": [
+      "Anti-Ro/SSA antibody",
+      "Anti-double-stranded DNA antibody",
+      "Anti-centromere antibody",
+      "Rheumatoid factor"
+    ],
+    "ans": 1,
+    "id": "q0182",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 65-year-old man with atrial fibrillation has acute expressive aphasia and right-sided weakness; non-contrast CT shows no hemorrhage, within the therapeutic window. Given his AF history, most important next step before thrombolysis?",
+    "opts": [
+      "Proceed with thrombolysis without any further check",
+      "Check current anticoagulation status/coagulation parameters",
+      "Wait 24 hours before any intervention",
+      "Perform an echocardiogram before considering thrombolysis"
+    ],
+    "ans": 1,
+    "id": "q0183",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A patient with poorly controlled hypertension has sudden severe headache, blurred vision, and confusion, with bilateral papilledema and flame hemorrhages; BP is 240/140. What is the appropriate approach to BP reduction, and why is rapid normalization dangerous?",
+    "opts": [
+      "Rapidly normalize BP to 120/80 within the first hour",
+      "Gradual controlled reduction (about 25% in the first hour) given disrupted cerebral autoregulation",
+      "Oral antihypertensives are preferred over IV in this emergency",
+      "No treatment needed until confirmed by MRI"
+    ],
+    "ans": 1,
+    "id": "q0184",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A woman has right upper quadrant pain worse after fatty meals; ultrasound confirms gallstones without cholecystitis. After laparoscopic cholecystectomy, she develops fever, jaundice, and worsening pain on postop day 3. What complication should be suspected, and what investigation is appropriate?",
+    "opts": [
+      "Normal postoperative recovery, no workup needed",
+      "Bile duct injury/leak; MRCP or HIDA scan",
+      "Simple wound infection; local wound care only",
+      "Pancreatitis unrelated to surgery"
+    ],
+    "ans": 1,
+    "id": "q0185",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A man has a groin swelling that increases with straining and reduces on lying down, extending into the scrotum; after reduction, pressure over the deep inguinal ring controls the swelling on standing. What type of hernia does this indicate?",
+    "opts": [
+      "Direct inguinal hernia",
+      "Indirect inguinal hernia",
+      "Femoral hernia",
+      "Umbilical hernia"
+    ],
+    "ans": 1,
+    "id": "q0186",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A man has sudden severe scrotal pain and swelling, with the affected testis high-riding and horizontal, absent cremasteric reflex, and absent Doppler flow. Most appropriate management, and the critical time window for testicular salvage?",
+    "opts": [
+      "Conservative management with antibiotics",
+      "Emergency surgical exploration and detorsion within about 6 hours",
+      "Elective surgery within a week",
+      "Observation only, will resolve spontaneously"
+    ],
+    "ans": 1,
+    "id": "q0187",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Five days after elective colonic cancer surgery, a patient develops fever, tachycardia, abdominal pain with peritonism, and feculent drain discharge. What complication is most likely, and what is the management approach?",
+    "opts": [
+      "Simple wound infection; local care only",
+      "Anastomotic leak; CT imaging, possible re-exploration/drainage/diversion",
+      "Normal postoperative ileus; observation only",
+      "Urinary tract infection; unrelated to the surgical site"
+    ],
+    "ans": 1,
+    "id": "q0188",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A man with a high-velocity gunshot abdominal wound has contaminated, devitalized bowel and is unstable with coagulopathy and hypothermia. What surgical strategy is most appropriate rather than immediate definitive repair?",
+    "opts": [
+      "Complete definitive repair in a single prolonged operation regardless of physiology",
+      "Damage control surgery (staged approach)",
+      "Discharge with outpatient follow-up",
+      "No surgical intervention needed"
+    ],
+    "ans": 1,
+    "id": "q0189",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Endoscopy in a man with GERD shows a hiatal hernia where the GE junction stays in normal position but a portion of the stomach herniates alongside the esophagus into the chest. What type of hernia is this, and why is it higher risk than a sliding hernia?",
+    "opts": [
+      "Sliding hiatal hernia (Type I); no additional risk",
+      "Paraesophageal (rolling) hernia; risk of gastric volvulus/strangulation",
+      "Both are equally low risk",
+      "This description doesn't correspond to a real hernia type"
+    ],
+    "ans": 1,
+    "id": "q0190",
+    "subject": "Surgery"
+  },
+  {
+    "q": "Five days after major orthopedic surgery, a patient has severe calf pain and swelling with a positive Homans' sign. Most likely diagnosis, and why shouldn't Homans' sign be relied on exclusively?",
+    "opts": [
+      "Cellulitis; unrelated to surgery",
+      "Deep vein thrombosis; Homans' sign is unreliable, ultrasound confirms",
+      "Simple muscle strain; no further workup needed",
+      "Arterial insufficiency; ABI would be diagnostic"
+    ],
+    "ans": 1,
+    "id": "q0191",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A man has a midline neck swelling that moves upward with tongue protrusion. What does this finding suggest about its origin, and most likely diagnosis?",
+    "opts": [
+      "Suggests a thyroglossal duct cyst, given its embryological connection to the foramen cecum",
+      "This finding is non-specific and doesn't help localize the swelling",
+      "It suggests a simple lipoma",
+      "It suggests a branchial cleft cyst, typically lateral not midline"
+    ],
+    "ans": 0,
+    "id": "q0192",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A woman at 39 weeks in labor has recurrent late decelerations with minimal variability, unresponsive to repositioning, oxygen, and IV fluid bolus. What does this suggest, and what is the appropriate next step?",
+    "opts": [
+      "Normal reassuring pattern; continue routine monitoring",
+      "Non-reassuring fetal status; expedite delivery, often emergency cesarean",
+      "Early decelerations; no action needed, benign finding",
+      "Variable decelerations; only requires position change"
+    ],
+    "ans": 1,
+    "id": "q0193",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "Immediately after placental delivery, a G3P2 woman has brisk vaginal bleeding with a soft, boggy, poorly-contracted uterine fundus. Most likely cause, and first-line management?",
+    "opts": [
+      "Genital tract trauma; requires surgical repair first",
+      "Uterine atony; uterine massage and uterotonic agents first-line",
+      "Retained placenta; requires manual removal only",
+      "Coagulopathy; requires only blood products"
+    ],
+    "ans": 1,
+    "id": "q0194",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A woman at 10 weeks by LMP has severe nausea, vomiting, and vaginal bleeding, with a uterus larger than dates and beta-hCG markedly higher than expected. Ultrasound shows a 'snowstorm' pattern with no identifiable fetus. Most likely diagnosis, and the most important immediate management given malignant potential?",
+    "opts": [
+      "Normal twin pregnancy; routine antenatal care",
+      "Complete hydatidiform mole; suction curettage plus serial hCG monitoring",
+      "Missed abortion; expectant management only",
+      "Ectopic pregnancy; requires laparoscopy"
+    ],
+    "ans": 1,
+    "id": "q0195",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A PCOS patient on clomiphene for ovulation induction develops abdominal pain, bloating, and rapid weight gain two weeks after her expected ovulation window. Ultrasound shows bilateral enlarged multicystic ovaries with ascites. Most likely complication, and its mechanism?",
+    "opts": [
+      "Normal response to treatment, no concern",
+      "Ovarian hyperstimulation syndrome, from increased vascular permeability with fluid shifts",
+      "Ovarian torsion; requires immediate surgery regardless of other findings",
+      "Ectopic pregnancy; requires immediate laparoscopy regardless"
+    ],
+    "ans": 1,
+    "id": "q0196",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "A woman at 6 weeks gestation has unilateral lower abdominal pain and light spotting; beta-hCG rises suboptimally over 48 hours, and TVS shows no intrauterine sac with a suspicious adnexal mass. Most likely diagnosis, and what does the hCG pattern support?",
+    "opts": [
+      "Normal intrauterine pregnancy; hCG pattern is reassuring",
+      "Ectopic pregnancy; suboptimal rise plus absent intrauterine sac strongly supports this",
+      "Complete miscarriage; hCG pattern is inconsistent with this",
+      "Molar pregnancy; hCG would typically be much higher"
+    ],
+    "ans": 1,
+    "id": "q0197",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A G4P3 woman with three prior cesareans has an ultrasound at 32 weeks showing placenta over the prior scar with loss of the myometrial-bladder interface and increased Doppler vascularity suggesting bladder wall invasion. Most likely diagnosis, and what does this specific finding indicate about invasion depth?",
+    "opts": [
+      "Simple placenta previa without invasion; no additional risk",
+      "Placenta percreta — invasion beyond the serosa into an adjacent organ, the most severe accreta spectrum form",
+      "Placenta accreta (superficial attachment only), the mildest form",
+      "Vasa previa; unrelated to prior cesarean history"
+    ],
+    "ans": 1,
+    "id": "q0198",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A 45-year-old woman has heavy prolonged menstrual bleeding and pelvic pressure, with an enlarged irregular non-tender uterus; ultrasound shows multiple hypoechoic myometrial masses. She desires future fertility. Most likely diagnosis, and the fertility-sparing treatment option?",
+    "opts": [
+      "Endometrial cancer; hysterectomy is mandatory regardless of fertility desire",
+      "Uterine fibroids; myomectomy preserves fertility, unlike hysterectomy",
+      "Adenomyosis; hysterectomy is the only effective treatment",
+      "Ovarian cyst; unrelated to the uterine findings described"
+    ],
+    "ans": 1,
+    "id": "q0199",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A twin pregnancy at 28 weeks shows significant amniotic fluid discordance — one twin with oligohydramnios ('stuck twin'), the other with polyhydramnios — both sharing a single placenta. Most likely diagnosis, and what does the shared placenta with fluid discordance suggest?",
+    "opts": [
+      "Simple discordant growth, unrelated to placental sharing",
+      "Twin-to-twin transfusion syndrome, from unbalanced flow through shared monochorionic vascular anastomoses",
+      "Twin anemia-polycythemia sequence is the only possible explanation",
+      "This pattern is not clinically significant in twin pregnancies"
+    ],
+    "ans": 1,
+    "id": "q0200",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "id": "q0201",
+    "q": "A 55-year-old man has crushing substernal chest pain for 2 hours. ECG shows ST elevation in II, III, aVF. In the ED he becomes hypotensive after sublingual nitroglycerin. Most likely explanation and next step?",
+    "opts": [
+      "Anterior MI extension; give more nitrates",
+      "Right ventricular infarction; avoid nitrates/diuretics, give fluids",
+      "Cardiogenic shock from LV failure; start diuretics",
+      "Vasovagal reaction; no further action needed"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0202",
+    "q": "A 60-year-old man with COPD on home oxygen becomes confused and lethargic after a well-meaning relative increases his oxygen flow rate. Most likely mechanism?",
+    "opts": [
+      "Oxygen toxicity to the lungs",
+      "Blunting of hypoxic respiratory drive causing CO2 retention",
+      "Acute pulmonary embolism",
+      "Oxygen-induced bronchospasm"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0203",
+    "q": "A 45-year-old woman has episodic pallor, cyanosis, then redness of the fingers on cold exposure, with no other symptoms and normal ANA. Most likely diagnosis?",
+    "opts": [
+      "Secondary Raynaud's from scleroderma",
+      "Primary Raynaud's phenomenon",
+      "Buerger's disease",
+      "Acrocyanosis"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0204",
+    "q": "A 70-year-old man has resting tremor, cogwheel rigidity, bradykinesia, and a shuffling gait that improved dramatically with levodopa. Most likely diagnosis and underlying neurotransmitter deficit?",
+    "opts": [
+      "Alzheimer's disease; acetylcholine deficit",
+      "Parkinson's disease; dopamine deficit in substantia nigra",
+      "Huntington's disease; GABA deficit",
+      "Multiple sclerosis; unrelated to neurotransmitters"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0205",
+    "q": "A 35-year-old man has recurrent epigastric pain relieved by food, worse at night, with a positive urea breath test. Endoscopy shows a duodenal ulcer. Most appropriate first-line treatment regimen?",
+    "opts": [
+      "PPI alone for 8 weeks",
+      "Triple therapy: PPI plus two antibiotics for H. pylori eradication",
+      "Antacids alone",
+      "Surgery as first-line"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0206",
+    "q": "A 50-year-old man with long-standing type 2 diabetes has decreased vibration sense in a stocking distribution, absent ankle reflexes, and a painless ulcer on the heel. Most likely underlying mechanism?",
+    "opts": [
+      "Autonomic neuropathy alone",
+      "Distal symmetric sensorimotor polyneuropathy",
+      "Acute mononeuropathy",
+      "Central cord syndrome"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0207",
+    "q": "A 28-year-old woman has 3 weeks of low-grade fever, oral ulcers, symmetric small joint arthritis, and a butterfly-shaped facial rash sparing the nasolabial folds. Which single test, if positive, is most sensitive (though not specific) for her likely diagnosis?",
+    "opts": [
+      "Anti-dsDNA antibody",
+      "Antinuclear antibody (ANA)",
+      "Anti-Smith antibody",
+      "Rheumatoid factor"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0208",
+    "q": "A 65-year-old man with CKD on hemodialysis develops sudden severe chest pain radiating to the back, with a pericardial friction rub. ECG shows diffuse ST elevation without reciprocal changes. Most likely diagnosis?",
+    "opts": [
+      "Acute myocardial infarction",
+      "Uremic pericarditis",
+      "Aortic dissection",
+      "Pulmonary embolism"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0209",
+    "q": "A 40-year-old man has episodic wheeze, nasal polyps, and bronchospasm specifically triggered by aspirin and NSAIDs. Which mechanism underlies this reaction?",
+    "opts": [
+      "IgE-mediated true allergy to aspirin",
+      "Leukotriene overproduction from COX-1 inhibition",
+      "Direct mast cell toxicity of NSAIDs",
+      "Complement-mediated anaphylactoid reaction"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0210",
+    "q": "A 58-year-old woman has progressive dyspnea, dry cough, and bibasilar fine end-inspiratory crackles with clubbing. HRCT shows a honeycombing pattern with subpleural, basal predominance. Most likely diagnosis?",
+    "opts": [
+      "Sarcoidosis",
+      "Idiopathic pulmonary fibrosis (UIP pattern)",
+      "Hypersensitivity pneumonitis, acute",
+      "Chronic bronchitis"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0211",
+    "q": "A 33-year-old man has episodic epigastric pain, diarrhea, and multiple refractory duodenal ulcers despite PPI therapy. Fasting gastrin is markedly elevated. Most likely diagnosis?",
+    "opts": [
+      "Simple peptic ulcer disease",
+      "Zollinger-Ellison syndrome (gastrinoma)",
+      "Chronic pancreatitis",
+      "Celiac disease"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0212",
+    "q": "A 60-year-old man has progressive fatigue with Hb 8, MCV 105, hypersegmented neutrophils, and glossitis. He has had a partial gastrectomy years ago. Most likely deficiency and mechanism?",
+    "opts": [
+      "Iron deficiency from chronic blood loss",
+      "Vitamin B12 deficiency from loss of intrinsic factor secretion",
+      "Folate deficiency from poor diet alone",
+      "Chronic disease anemia"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0213",
+    "q": "A 45-year-old woman has recurrent DVTs, two miscarriages, and a prolonged aPTT that does not correct on mixing study. Most likely diagnosis?",
+    "opts": [
+      "Hemophilia A",
+      "Antiphospholipid syndrome (lupus anticoagulant)",
+      "Von Willebrand disease",
+      "Vitamin K deficiency"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0214",
+    "q": "A 55-year-old man with alcohol use disorder has confusion, ataxia, and ophthalmoplegia. Before glucose is given, which is the most important immediate step to prevent precipitating worsening encephalopathy?",
+    "opts": [
+      "Give glucose first, then thiamine",
+      "Give thiamine before or with glucose",
+      "Give only IV fluids, no vitamins needed",
+      "Delay treatment until MRI confirms diagnosis"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0215",
+    "q": "A 26-year-old woman has intermittent double vision and ptosis worsening through the day, improving with rest. Repetitive nerve stimulation shows a decremental response. Most likely diagnosis?",
+    "opts": [
+      "Lambert-Eaton myasthenic syndrome",
+      "Myasthenia gravis",
+      "Guillain-Barre syndrome",
+      "Multiple sclerosis"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0216",
+    "q": "A 50-year-old man has recurrent syncope during exertion, a harsh crescendo-decrescendo systolic murmur radiating to the carotids, and a slow-rising pulse. Most likely diagnosis?",
+    "opts": [
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Hypertrophic cardiomyopathy",
+      "Aortic regurgitation"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0217",
+    "q": "A 62-year-old man has 8 kg weight loss, night sweats, and painless cervical lymphadenopathy. Node biopsy shows Reed-Sternberg cells in a background of reactive cells. Most likely diagnosis?",
+    "opts": [
+      "Non-Hodgkin lymphoma",
+      "Hodgkin lymphoma",
+      "Reactive lymphadenitis",
+      "Tuberculous lymphadenitis"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0218",
+    "q": "A 48-year-old woman has fatigue, weight gain, cold intolerance, and dry skin. TSH is markedly elevated with low free T4. Which additional feature, if present, would raise concern for myxedema coma requiring urgent care?",
+    "opts": [
+      "Mild constipation alone",
+      "Hypothermia and altered mental status",
+      "Slightly dry skin only",
+      "Mild weight gain alone"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0219",
+    "q": "A 30-year-old man has recurrent renal colic with radio-opaque stones. Urine analysis shows hexagonal crystals and a positive cyanide-nitroprusside test. Most likely underlying disorder?",
+    "opts": [
+      "Calcium oxalate stone disease",
+      "Cystinuria",
+      "Uric acid stone disease",
+      "Struvite stone disease"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0220",
+    "q": "A 55-year-old man has progressive dyspnea and bilateral pitting edema. Echo shows preserved ejection fraction with impaired relaxation and a restrictive filling pattern; endomyocardial biopsy shows amyloid deposits. Most likely diagnosis category?",
+    "opts": [
+      "Dilated cardiomyopathy",
+      "Restrictive cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy",
+      "Arrhythmogenic right ventricular cardiomyopathy"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0221",
+    "q": "A 6-year-old girl has fever, sore throat, and bilateral parotid swelling that is tender and elastic, with pain on eating sour foods. Most likely diagnosis and most feared complication in a post-pubertal male?",
+    "opts": [
+      "Bacterial parotitis; abscess formation",
+      "Mumps; orchitis in post-pubertal males",
+      "Sialolithiasis; recurrent stones",
+      "Sjogren's syndrome; dry mouth"
+    ],
+    "ans": 1,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0222",
+    "q": "A 4-year-old has fever, barky cough, and inspiratory stridor at rest, worse at night, with a chest X-ray showing subglottic narrowing (steeple sign). Most likely diagnosis and first-line treatment?",
+    "opts": [
+      "Epiglottitis; immediate intubation",
+      "Croup; nebulized epinephrine and dexamethasone",
+      "Bacterial tracheitis; IV antibiotics only",
+      "Foreign body aspiration; bronchoscopy"
+    ],
+    "ans": 1,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0223",
+    "q": "A newborn has a large tongue, umbilical hernia, and macrosomia, with neonatal hypoglycemia. Most likely diagnosis and the specific metabolic risk to monitor?",
+    "opts": [
+      "Down syndrome; congenital heart disease risk",
+      "Beckwith-Wiedemann syndrome; hypoglycemia and Wilms tumor risk",
+      "Turner syndrome; coarctation risk",
+      "Prader-Willi syndrome; obesity risk only"
+    ],
+    "ans": 1,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0224",
+    "q": "A 2-week-old exclusively breastfed infant has non-bilious projectile vomiting after feeds, remains hungry afterward, and has a palpable olive-shaped mass in the epigastrium. Most likely diagnosis and definitive treatment?",
+    "opts": [
+      "Malrotation with volvulus; emergency laparotomy",
+      "Hypertrophic pyloric stenosis; pyloromyotomy after correcting alkalosis",
+      "Duodenal atresia; duodenoduodenostomy",
+      "Gastroesophageal reflux; conservative management only"
+    ],
+    "ans": 1,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0225",
+    "q": "A 9-year-old has fever, migratory polyarthritis, and a new pansystolic murmur 3 weeks after an untreated sore throat. Which criteria set is used, and what is the immediate management priority?",
+    "opts": [
+      "Jones criteria; benzathine penicillin and anti-inflammatory therapy",
+      "Duke criteria; blood cultures only",
+      "Light's criteria; pleural fluid analysis",
+      "Ranson's criteria; supportive care only"
+    ],
+    "ans": 0,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0226",
+    "q": "A term infant has a scaphoid abdomen, respiratory distress at birth, and bowel sounds heard in the left hemithorax on auscultation. Most likely diagnosis and immediate management priority?",
+    "opts": [
+      "Congenital diaphragmatic hernia; avoid bag-mask ventilation, intubate and decompress stomach",
+      "Esophageal atresia; immediate surgical repair without stabilization",
+      "Simple pneumothorax; needle decompression only",
+      "Meconium aspiration; suction only"
+    ],
+    "ans": 0,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0227",
+    "q": "A 3-year-old has recurrent wheezing episodes triggered by viral infections and exercise, with a family history of atopy, and good response to salbutamol. Most likely diagnosis?",
+    "opts": [
+      "Bronchiolitis (single episode expected)",
+      "Asthma",
+      "Cystic fibrosis",
+      "Foreign body aspiration"
+    ],
+    "ans": 1,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0228",
+    "q": "A newborn has ambiguous genitalia, and on day 5 develops vomiting, dehydration, and hyponatremia with hyperkalemia. Most likely diagnosis and enzyme deficiency?",
+    "opts": [
+      "Congenital adrenal hyperplasia; 21-hydroxylase deficiency",
+      "Addison's disease; autoimmune adrenalitis",
+      "Conn's syndrome; aldosterone excess",
+      "Cushing syndrome; cortisol excess"
+    ],
+    "ans": 0,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0229",
+    "q": "A 5-year-old boy has waxing-and-waning abdominal pain, pallor, and behavioral changes; he lives in an older house being renovated. Peripheral smear shows basophilic stippling. Most likely diagnosis?",
+    "opts": [
+      "Iron deficiency anemia",
+      "Lead poisoning",
+      "Thalassemia major",
+      "Sickle cell disease"
+    ],
+    "ans": 1,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0230",
+    "q": "A preterm infant on prolonged parenteral nutrition develops abdominal distension, bloody stools, and pneumatosis intestinalis on X-ray. Most likely diagnosis and initial management?",
+    "opts": [
+      "Necrotizing enterocolitis; bowel rest, antibiotics, close monitoring for perforation",
+      "Simple constipation; laxatives",
+      "Intussusception; air enema",
+      "Malrotation; elective surgery"
+    ],
+    "ans": 0,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0231",
+    "q": "A 65-year-old man has a rapidly enlarging, painless neck mass and hoarseness over weeks. FNAC shows undifferentiated cells with marked pleomorphism and necrosis. Most likely diagnosis and prognosis?",
+    "opts": [
+      "Papillary thyroid carcinoma; excellent prognosis",
+      "Anaplastic thyroid carcinoma; very poor prognosis, rapidly fatal",
+      "Follicular adenoma; benign, no concern",
+      "Hashimoto's thyroiditis; autoimmune, chronic course"
+    ],
+    "ans": 1,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0232",
+    "q": "A 50-year-old man has hematuria and a renal mass. Histology shows cells with clear cytoplasm arranged in nests with a rich vascular network. Most likely diagnosis and cell of origin?",
+    "opts": [
+      "Wilms tumor; blastemal origin",
+      "Renal cell carcinoma (clear cell type); proximal tubule origin",
+      "Transitional cell carcinoma; urothelium origin",
+      "Renal lymphoma; lymphoid origin"
+    ],
+    "ans": 1,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0233",
+    "q": "A 60-year-old smoker has hematuria. Cystoscopy biopsy shows papillary fronds lined by multilayered urothelium with nuclear atypia, invading the lamina propria but not muscle. Most likely diagnosis and staging significance?",
+    "opts": [
+      "Non-invasive superficial disease; no further workup needed",
+      "Transitional cell carcinoma invading lamina propria; higher recurrence/progression risk than purely superficial disease",
+      "Squamous cell carcinoma; unrelated to smoking",
+      "Benign papilloma; no malignant potential"
+    ],
+    "ans": 1,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0234",
+    "q": "A lung biopsy from a smoker shows keratin pearls and intercellular bridges in a centrally located mass. Most likely histologic subtype and its typical location?",
+    "opts": [
+      "Adenocarcinoma; typically peripheral",
+      "Squamous cell carcinoma; typically central",
+      "Small cell carcinoma; typically peripheral",
+      "Large cell carcinoma; always cavitates"
+    ],
+    "ans": 1,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0235",
+    "q": "A 55-year-old man has a rapidly growing skin nodule with a central keratin-filled crater that grew over weeks then partially regressed. Most likely diagnosis?",
+    "opts": [
+      "Squamous cell carcinoma, classic pattern",
+      "Keratoacanthoma",
+      "Basal cell carcinoma",
+      "Malignant melanoma"
+    ],
+    "ans": 1,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0236",
+    "q": "A bone biopsy from a 15-year-old with a painful femoral mass shows small round blue cells with a characteristic chromosomal translocation t(11;22), and an 'onion-skin' periosteal reaction on X-ray. Most likely diagnosis?",
+    "opts": [
+      "Osteosarcoma",
+      "Ewing sarcoma",
+      "Osteochondroma",
+      "Chondrosarcoma"
+    ],
+    "ans": 1,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0237",
+    "q": "A 70-year-old man has bone pain, and X-ray shows a mixed lytic-sclerotic 'sunburst' pattern with Codman's triangle at the metaphysis of the distal femur. Most likely diagnosis?",
+    "opts": [
+      "Ewing sarcoma",
+      "Osteosarcoma",
+      "Giant cell tumor",
+      "Osteoid osteoma"
+    ],
+    "ans": 1,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0238",
+    "q": "A cervical Pap smear shows koilocytic changes with perinuclear halos and nuclear atypia. Which infectious agent is most strongly associated, and what is its oncogenic mechanism?",
+    "opts": [
+      "HSV; direct cytolysis",
+      "HPV; E6/E7 oncoproteins inactivating p53 and Rb",
+      "EBV; latent membrane protein activation",
+      "CMV; unrelated to cervical dysplasia"
+    ],
+    "ans": 1,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0239",
+    "q": "A 60-year-old woman has progressive abdominal distension, and biopsy of an ovarian mass shows signet ring cells; further workup reveals a primary gastric adenocarcinoma. What is this bilateral ovarian metastasis called?",
+    "opts": [
+      "Krukenberg tumor",
+      "Meigs syndrome",
+      "Brenner tumor",
+      "Sertoli-Leydig cell tumor"
+    ],
+    "ans": 0,
+    "subject": "Pathology"
+  },
+  {
+    "id": "q0240",
+    "q": "A 35-year-old man has fever with rigors every 72 hours, and blood smear shows enlarged infected RBCs with band forms and rosette-shaped merozoites. Most likely species?",
+    "opts": [
+      "Plasmodium falciparum",
+      "Plasmodium malariae",
+      "Plasmodium vivax",
+      "Plasmodium ovale"
+    ],
+    "ans": 1,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0241",
+    "q": "A patient with a deep puncture wound develops trismus, rigidity, and painful muscle spasms triggered by minor stimuli. Which toxin and mechanism explain this?",
+    "opts": [
+      "Tetanospasmin blocking inhibitory neurotransmitter release",
+      "Botulinum toxin blocking acetylcholine release",
+      "Diphtheria toxin inhibiting protein synthesis",
+      "Exfoliative toxin causing skin blistering"
+    ],
+    "ans": 0,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0242",
+    "q": "A canned food consumer develops descending flaccid paralysis, diplopia, and dysphagia without fever or sensory loss. Which organism and mechanism are responsible?",
+    "opts": [
+      "Clostridium tetani; blocks inhibitory neurons",
+      "Clostridium botulinum; blocks acetylcholine release at neuromuscular junction",
+      "Staphylococcus aureus; preformed enterotoxin causing vomiting",
+      "Clostridium perfringens; alpha toxin causing gas gangrene"
+    ],
+    "ans": 1,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0243",
+    "q": "A sexually active woman has a painless genital ulcer with a clean base and firm indurated edges, plus non-tender inguinal lymphadenopathy. Darkfield microscopy shows spirochetes. Most likely diagnosis and first-line treatment?",
+    "opts": [
+      "Chancroid; azithromycin",
+      "Primary syphilis; benzathine penicillin G",
+      "Genital herpes; acyclovir",
+      "Lymphogranuloma venereum; doxycycline"
+    ],
+    "ans": 1,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0244",
+    "q": "A patient with HIV and CD4 count 40 has progressive dyspnea, dry cough, and diffuse bilateral ground-glass infiltrates. Silver stain of BAL fluid shows cup-shaped cysts. Most likely organism and first-line treatment?",
+    "opts": [
+      "Aspergillus fumigatus; voriconazole",
+      "Pneumocystis jirovecii; cotrimoxazole (TMP-SMX)",
+      "Mycobacterium tuberculosis; RIPE regimen",
+      "Cryptococcus neoformans; amphotericin B"
+    ],
+    "ans": 1,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0245",
+    "q": "A returning traveler has fever, severe retro-orbital headache, myalgia, and a positive tourniquet test with a subsequent drop in platelets. Most likely diagnosis and the most concerning warning sign to monitor for?",
+    "opts": [
+      "Malaria; recurrent fever pattern",
+      "Dengue; warning signs include bleeding, plasma leakage, abdominal pain",
+      "Typhoid; rose spots",
+      "Chikungunya; chronic arthralgia only"
+    ],
+    "ans": 1,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0246",
+    "q": "A child has a barking cough with paroxysms followed by an inspiratory 'whoop' and post-tussive vomiting, unvaccinated. Most likely organism and the key toxin implicated?",
+    "opts": [
+      "Bordetella pertussis; pertussis toxin",
+      "Corynebacterium diphtheriae; diphtheria toxin",
+      "Mycoplasma pneumoniae; no exotoxin involved",
+      "Respiratory syncytial virus; no toxin involved"
+    ],
+    "ans": 0,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0247",
+    "q": "A man recently returned from a camping trip has an expanding erythematous rash with central clearing, followed weeks later by facial nerve palsy and joint pain. Most likely diagnosis and organism?",
+    "opts": [
+      "Rocky Mountain spotted fever; Rickettsia rickettsii",
+      "Lyme disease; Borrelia burgdorferi",
+      "Relapsing fever; Borrelia recurrentis",
+      "Tularemia; Francisella tularensis"
+    ],
+    "ans": 1,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0248",
+    "q": "A patient with liver abscess has 'anchovy paste' aspirate; stool microscopy shows trophozoites with ingested RBCs. Most likely organism and first-line treatment?",
+    "opts": [
+      "Giardia lamblia; metronidazole",
+      "Entamoeba histolytica; metronidazole followed by luminal agent",
+      "Cryptosporidium; nitazoxanide",
+      "Trichomonas vaginalis; metronidazole single dose"
+    ],
+    "ans": 1,
+    "subject": "Microbiology"
+  },
+  {
+    "id": "q0249",
+    "q": "A patient develops a painful, expanding necrotic ulcer with a violaceous undermined border after a minor abrasion, on a background of ulcerative colitis. Most likely diagnosis given the pathergy phenomenon?",
+    "opts": [
+      "Cellulitis",
+      "Pyoderma gangrenosum",
+      "Necrotizing fasciitis",
+      "Erythema nodosum"
+    ],
+    "ans": 1,
+    "subject": "Dermatology"
+  },
+  {
+    "id": "q0250",
+    "q": "An infant has honey-colored crusted lesions around the mouth and nose after a minor skin break, culture-positive for Staphylococcus aureus. Most likely diagnosis and treatment approach?",
+    "opts": [
+      "Bullous pemphigoid; systemic steroids",
+      "Impetigo; topical or oral antibiotics",
+      "Eczema herpeticum; acyclovir",
+      "Scarlet fever; penicillin"
+    ],
+    "ans": 1,
+    "subject": "Dermatology"
+  },
+  {
+    "id": "q0251",
+    "q": "A 25-year-old man has a well-demarcated annular scaly plaque with central clearing and an active raised border on the trunk, KOH prep shows branching hyphae. Most likely diagnosis and treatment?",
+    "opts": [
+      "Psoriasis; topical steroids",
+      "Tinea corporis; topical or oral antifungals",
+      "Pityriasis versicolor; selenium sulfide only",
+      "Nummular eczema; emollients only"
+    ],
+    "ans": 1,
+    "subject": "Dermatology"
+  },
+  {
+    "id": "q0252",
+    "q": "A 30-year-old woman has intensely itchy burrows in the finger webs and wrists, worse at night, with similar symptoms in family members. Most likely diagnosis and treatment?",
+    "opts": [
+      "Atopic dermatitis; topical steroids",
+      "Scabies; permethrin cream, treat close contacts",
+      "Contact dermatitis; avoid allergen",
+      "Lichen planus; topical steroids"
+    ],
+    "ans": 1,
+    "subject": "Dermatology"
+  },
+  {
+    "id": "q0253",
+    "q": "A newborn has multiple soft, sharply demarcated, bright red raised lesions that appeared in the first weeks of life and are now proliferating rapidly. Most likely diagnosis and expected natural course?",
+    "opts": [
+      "Port-wine stain; persists unchanged for life",
+      "Infantile hemangioma; proliferates then spontaneously involutes over years",
+      "Capillary malformation; requires immediate laser therapy",
+      "Neurofibroma; associated with NF1"
+    ],
+    "ans": 1,
+    "subject": "Dermatology"
+  },
+  {
+    "id": "q0254",
+    "q": "A construction worker has a changing pigmented lesion with asymmetry, irregular borders, color variegation, and a diameter over 6mm. Most important next step given malignant potential?",
+    "opts": [
+      "Reassurance and routine follow-up",
+      "Excisional biopsy with adequate margins",
+      "Cryotherapy for cosmetic removal",
+      "Topical steroid trial first"
+    ],
+    "ans": 1,
+    "subject": "Dermatology"
+  },
+  {
+    "id": "q0255",
+    "q": "A patient on chemotherapy has fever with an absolute neutrophil count of 300/mm3. Most appropriate immediate management?",
+    "opts": [
+      "Wait for culture results before starting antibiotics",
+      "Immediate empiric broad-spectrum IV antibiotics",
+      "Oral antibiotics only, outpatient management",
+      "Antipyretics alone, no antibiotics needed"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0256",
+    "q": "A patient develops acute dyspnea, hypotension, and wheezing minutes after starting a blood transfusion, with facial angioedema. Most likely mechanism and immediate management?",
+    "opts": [
+      "Febrile non-hemolytic reaction; slow the infusion",
+      "Anaphylactic transfusion reaction; stop transfusion immediately, give epinephrine",
+      "Acute hemolytic reaction; unrelated to IgA deficiency",
+      "TRALI; continue transfusion at slower rate"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0257",
+    "q": "A patient receiving a blood transfusion develops fever, flank pain, and dark urine within minutes, with hypotension. Most likely mechanism and immediate step?",
+    "opts": [
+      "Febrile non-hemolytic reaction; antipyretics and continue",
+      "Acute hemolytic transfusion reaction (ABO mismatch); stop transfusion immediately, aggressive IV fluids",
+      "TRALI; give diuretics",
+      "Delayed hemolytic reaction; observe only"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0258",
+    "q": "A trauma patient in hemorrhagic shock receives multiple units of packed RBCs without fresh frozen plasma or platelets, then develops diffuse oozing from IV sites. Most likely cause?",
+    "opts": [
+      "Disseminated intravascular coagulation only",
+      "Dilutional coagulopathy from massive transfusion",
+      "Vitamin K deficiency alone",
+      "Hemophilia unmasked by trauma"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0259",
+    "q": "A 55-year-old man with cirrhosis has worsening confusion, asterixis, and a fetor hepaticus after a large protein meal and constipation. Most appropriate first-line management?",
+    "opts": [
+      "Protein restriction indefinitely",
+      "Lactulose to reduce ammonia absorption, treat precipitating cause",
+      "Immediate liver transplant",
+      "Antibiotics alone, no lactulose"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0260",
+    "q": "A patient with long-standing rheumatoid arthritis develops proteinuria and nephrotic syndrome. Renal biopsy shows amorphous eosinophilic material with apple-green birefringence under polarized light after Congo red stain. Most likely diagnosis?",
+    "opts": [
+      "Diabetic nephropathy",
+      "AA amyloidosis secondary to chronic inflammation",
+      "Minimal change disease",
+      "Membranous nephropathy"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0261",
+    "q": "A 60-year-old man has progressive dysarthria, dysphagia, muscle weakness with both upper and lower motor neuron signs, but no sensory loss or bladder involvement. Most likely diagnosis?",
+    "opts": [
+      "Multiple sclerosis",
+      "Amyotrophic lateral sclerosis (ALS)",
+      "Guillain-Barre syndrome",
+      "Myasthenia gravis"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0262",
+    "q": "A 45-year-old man has recurrent epistaxis, telangiectasias on the lips and tongue, and a family history of similar findings plus GI bleeding. Most likely diagnosis?",
+    "opts": [
+      "Von Willebrand disease",
+      "Hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu)",
+      "Ehlers-Danlos syndrome",
+      "Henoch-Schonlein purpura"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0263",
+    "q": "A 50-year-old woman has progressive proximal muscle weakness without rash, markedly elevated CK, and muscle biopsy showing endomysial CD8+ T-cell infiltration surrounding non-necrotic fibers. Most likely diagnosis?",
+    "opts": [
+      "Dermatomyositis",
+      "Polymyositis",
+      "Inclusion body myositis",
+      "Myasthenia gravis"
+    ],
+    "ans": 1,
+    "subject": "Medicine"
+  },
+  {
+    "id": "q0264",
+    "q": "A 60-year-old man has jaundice, weight loss, and a palpable non-tender distended gallbladder. Most likely diagnosis suggested by this sign, and what does it typically indicate?",
+    "opts": [
+      "Gallstone-related cholecystitis (Charcot's sign)",
+      "Painless jaundice with palpable gallbladder (Courvoisier's sign), suggesting malignant biliary obstruction",
+      "Simple viral hepatitis",
+      "Hemolytic jaundice"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0265",
+    "q": "A patient with acute appendicitis has pain that shifted from periumbilical to the right iliac fossa, with tenderness at McBurney's point and positive Rovsing's sign. Most appropriate management?",
+    "opts": [
+      "Observation with antibiotics only, no surgery",
+      "Appendectomy (open or laparoscopic)",
+      "Colonoscopy first for diagnosis",
+      "Discharge with analgesics"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0266",
+    "q": "A 70-year-old man has left lower quadrant pain, fever, and a palpable tender mass; CT shows colonic wall thickening with pericolic fat stranding and a small abscess. Most likely diagnosis and initial management?",
+    "opts": [
+      "Acute appendicitis; appendectomy",
+      "Acute diverticulitis; antibiotics ± percutaneous drainage if abscess present",
+      "Colonic malignancy; immediate resection",
+      "Ischemic colitis; observation only"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0267",
+    "q": "A patient with a long history of GERD undergoes surgery; intraoperatively, the surgeon wraps the gastric fundus around the lower esophagus to reinforce the LES. What is this procedure called?",
+    "opts": [
+      "Heller myotomy",
+      "Nissen fundoplication",
+      "Whipple procedure",
+      "Billroth II reconstruction"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0268",
+    "q": "A 55-year-old man has dysphagia to both solids and liquids from the start, with regurgitation of undigested food. Barium swallow shows a dilated esophagus with a 'bird's beak' distal narrowing. Most likely diagnosis and underlying mechanism?",
+    "opts": [
+      "Esophageal cancer; mechanical obstruction",
+      "Achalasia; failure of LES relaxation due to loss of myenteric ganglion cells",
+      "Diffuse esophageal spasm; corkscrew pattern",
+      "Esophageal web; iron deficiency related"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0269",
+    "q": "A patient develops sudden severe abdominal pain and a board-like rigid abdomen after an NSAID binge; erect chest X-ray shows free air under the diaphragm. Most likely diagnosis and management?",
+    "opts": [
+      "Acute pancreatitis; conservative management",
+      "Perforated peptic ulcer; emergency laparotomy",
+      "Acute cholecystitis; antibiotics only",
+      "Bowel obstruction; nasogastric decompression only"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0270",
+    "q": "A 65-year-old man has crampy abdominal pain, distension, and obstipation; X-ray shows a dilated sigmoid loop with a 'coffee bean' sign. Most likely diagnosis and initial management?",
+    "opts": [
+      "Small bowel obstruction; surgery first-line",
+      "Sigmoid volvulus; endoscopic decompression first if no signs of ischemia",
+      "Ileus; observation only",
+      "Diverticulitis; antibiotics alone"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0271",
+    "q": "A patient with hyperparathyroidism has recurrent kidney stones, bone pain, and abdominal pain. Labs show elevated calcium, low phosphate, and elevated PTH. Most appropriate definitive management for symptomatic primary hyperparathyroidism?",
+    "opts": [
+      "Lifelong calcium restriction only",
+      "Parathyroidectomy",
+      "Bisphosphonates alone, no surgery",
+      "Observation only regardless of symptoms"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0272",
+    "q": "A 40-year-old woman has recurrent right upper quadrant pain after fatty meals, with normal ultrasound and no gallstones, but a HIDA scan shows a gallbladder ejection fraction of 20%. Most likely diagnosis and management?",
+    "opts": [
+      "Acute cholecystitis; emergency surgery",
+      "Biliary dyskinesia (functional gallbladder disorder); elective cholecystectomy considered",
+      "Choledocholithiasis; ERCP first",
+      "Normal variant; no treatment needed"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0273",
+    "q": "A neonate has failure to pass meconium within 48 hours, abdominal distension, and explosive stool release on rectal exam. Rectal biopsy shows absence of ganglion cells. Most likely diagnosis?",
+    "opts": [
+      "Meconium ileus",
+      "Hirschsprung disease",
+      "Anal atresia",
+      "Intestinal malrotation"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0274",
+    "q": "A 45-year-old man post motorcycle accident has blood at the urethral meatus, a high-riding prostate on rectal exam, and inability to void. Most appropriate next step before attempting catheterization?",
+    "opts": [
+      "Immediate blind Foley catheter insertion",
+      "Retrograde urethrogram before any catheterization attempt",
+      "Suprapubic catheter without any imaging",
+      "Encourage voiding despite symptoms"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0275",
+    "q": "A 55-year-old woman has right flank pain, fever, and pyuria with a staghorn calculus visible on imaging filling the renal pelvis, culture growing Proteus. Most likely stone composition and its association?",
+    "opts": [
+      "Calcium oxalate; associated with hyperoxaluria",
+      "Struvite (magnesium ammonium phosphate); associated with urease-producing organisms",
+      "Uric acid; associated with gout",
+      "Cystine; associated with cystinuria"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0276",
+    "q": "A man has a slow urinary stream, nocturia, and incomplete emptying; DRE shows a smoothly enlarged, non-tender prostate, PSA mildly elevated for age. Most likely diagnosis versus the key differential?",
+    "opts": [
+      "Prostate cancer; DRE would show nodularity/induration, unlike this smooth finding",
+      "Benign prostatic hyperplasia; smooth symmetric enlargement typical",
+      "Prostatitis; would present with fever/pain typically",
+      "Bladder cancer; would present with hematuria typically"
+    ],
+    "ans": 1,
+    "subject": "Surgery"
+  },
+  {
+    "id": "q0277",
+    "q": "A 28-year-old woman on isotretinoin for severe cystic acne must have which specific monitoring given its major teratogenic risk?",
+    "opts": [
+      "Regular thyroid function tests only",
+      "Monthly pregnancy tests and strict contraception counseling",
+      "Renal function monitoring only",
+      "No specific monitoring required"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0278",
+    "q": "A patient on ACE inhibitors develops a persistent dry cough. Which mechanism explains this, and what is an appropriate alternative?",
+    "opts": [
+      "Direct bronchospasm; switch to beta-blocker",
+      "Bradykinin accumulation from ACE inhibition; switch to an ARB",
+      "Allergic reaction requiring permanent avoidance of all antihypertensives",
+      "Cough is unrelated to the drug, unrelated workup needed"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0279",
+    "q": "A patient started on rifampicin for TB notices orange discoloration of urine and tears, and is counseled about reduced efficacy of which co-administered drug class due to enzyme induction?",
+    "opts": [
+      "Oral contraceptives, due to CYP450 induction",
+      "Antacids, no interaction relevant",
+      "NSAIDs, no interaction relevant",
+      "Antihistamines, no interaction relevant"
+    ],
+    "ans": 0,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0280",
+    "q": "A patient on long-term lithium for bipolar disorder develops polyuria and polydipsia unresponsive to desmopressin. Most likely mechanism?",
+    "opts": [
+      "Central diabetes insipidus from pituitary damage",
+      "Nephrogenic diabetes insipidus from lithium-induced ADH receptor resistance",
+      "Primary polydipsia unrelated to lithium",
+      "Diabetes mellitus from lithium-induced insulin resistance"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0281",
+    "q": "A patient started on a statin develops muscle pain with markedly elevated CK and dark urine. Most likely diagnosis and immediate management?",
+    "opts": [
+      "Simple myalgia; continue statin, reassure",
+      "Statin-induced rhabdomyolysis; stop statin, aggressive IV hydration",
+      "Normal statin side effect; no action needed",
+      "Myocardial infarction; urgent catheterization"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0282",
+    "q": "A patient on long-term phenytoin for seizures develops gum overgrowth, coarsened facial features, and hirsutism. Which class of side effect is this, and what monitoring is relevant?",
+    "opts": [
+      "Acute toxicity; requires immediate drug discontinuation",
+      "Chronic cosmetic side effects; consider alternative AEDs if bothersome, monitor levels",
+      "Life-threatening allergic reaction; requires ICU admission",
+      "Normal aging changes unrelated to the drug"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0283",
+    "q": "A patient on heparin develops a sudden drop in platelet count with new thrombosis 5 days after starting therapy. Most likely diagnosis and appropriate management?",
+    "opts": [
+      "Simple heparin-induced thrombocytopenia type I; continue heparin",
+      "Heparin-induced thrombocytopenia type II (immune-mediated); stop heparin, start alternative anticoagulant",
+      "Normal platelet consumption; no action needed",
+      "Disseminated intravascular coagulation unrelated to heparin"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0284",
+    "q": "A patient on chronic opioid therapy for cancer pain develops constipation. Which class of side effects does this represent regarding tolerance development?",
+    "opts": [
+      "Tolerance develops equally to all opioid effects including constipation",
+      "Tolerance develops to analgesia/sedation but not to constipation, requiring ongoing laxative use",
+      "Constipation resolves spontaneously without intervention",
+      "Opioids never cause constipation"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0285",
+    "q": "A patient develops sudden severe hypertension after eating aged cheese while on a specific antidepressant class. Which drug class and mechanism explain this?",
+    "opts": [
+      "SSRIs; serotonin syndrome from tyramine",
+      "MAO inhibitors; tyramine-induced hypertensive crisis due to blocked tyramine metabolism",
+      "Tricyclic antidepressants; anticholinergic crisis",
+      "Benzodiazepines; unrelated to diet"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0286",
+    "q": "A pregnant woman is prescribed an antibiotic for a UTI in the third trimester and develops concern about kernicterus risk in the newborn. Which antibiotic class is most associated with this risk near term?",
+    "opts": [
+      "Penicillins; no such risk",
+      "Sulfonamides; displace bilirubin from albumin, risk of kernicterus",
+      "Nitrofurantoin at term; no bilirubin displacement risk",
+      "Cephalosporins; no such risk"
+    ],
+    "ans": 1,
+    "subject": "Pharmacology"
+  },
+  {
+    "id": "q0287",
+    "q": "A 6-year-old with fever and productive cough has a chest X-ray showing a lobar consolidation. Sputum Gram stain shows gram-positive diplococci. Most likely organism and empiric first-line treatment?",
+    "opts": [
+      "Mycoplasma pneumoniae; azithromycin",
+      "Streptococcus pneumoniae; amoxicillin",
+      "Staphylococcus aureus; vancomycin first-line",
+      "Haemophilus influenzae; ceftriaxone always first-line"
+    ],
+    "ans": 1,
+    "subject": "Pediatrics"
+  },
+  {
+    "id": "q0288",
+    "q": "A 30-year-old woman has 3 months of amenorrhea, weight loss, lanugo hair, and a BMI of 15, with an intense fear of weight gain despite being underweight. Most likely diagnosis and initial management priority?",
+    "opts": [
+      "Hyperthyroidism; start antithyroid drugs",
+      "Anorexia nervosa; medical stabilization and multidisciplinary care, cautious refeeding",
+      "Normal dieting; no intervention needed",
+      "Malabsorption syndrome; GI workup only"
+    ],
+    "ans": 1,
+    "subject": "Psychiatry"
+  },
+  {
+    "id": "q0289",
+    "q": "A 22-year-old man has recurrent binge eating followed by self-induced vomiting, with normal body weight, dental enamel erosion, and calluses on the knuckles. Most likely diagnosis and the sign named after this finding?",
+    "opts": [
+      "Anorexia nervosa; Russell's sign present",
+      "Bulimia nervosa; Russell's sign (knuckle calluses from induced vomiting)",
+      "Binge eating disorder without purging; no physical signs expected",
+      "Pica; unrelated physical findings"
+    ],
+    "ans": 1,
+    "subject": "Psychiatry"
+  },
+  {
+    "id": "q0290",
+    "q": "A 35-year-old man re-experiences intrusive memories, nightmares, and hypervigilance for 8 months after a severe road traffic accident, with avoidance of related triggers, causing significant impairment. Most likely diagnosis?",
+    "opts": [
+      "Acute stress disorder (under 1 month)",
+      "Post-traumatic stress disorder (over 1 month, with functional impairment)",
+      "Adjustment disorder",
+      "Generalized anxiety disorder"
+    ],
+    "ans": 1,
+    "subject": "Psychiatry"
+  },
+  {
+    "id": "q0291",
+    "q": "A 45-year-old man has chronic excessive alcohol use; he now has confabulation, severe anterograde amnesia, and an inability to form new memories, with preserved procedural memory. Most likely diagnosis?",
+    "opts": [
+      "Delirium tremens",
+      "Korsakoff syndrome (following untreated Wernicke's)",
+      "Alcoholic hallucinosis",
+      "Simple alcohol intoxication"
+    ],
+    "ans": 1,
+    "subject": "Psychiatry"
+  },
+  {
+    "id": "q0292",
+    "q": "A 10-year-old boy has persistent inattention, hyperactivity, and impulsivity across home and school for over 6 months, affecting academic performance. Most likely diagnosis and first-line management approach?",
+    "opts": [
+      "Autism spectrum disorder; behavioral therapy only",
+      "ADHD; behavioral intervention ± stimulant medication depending on severity",
+      "Conduct disorder; punitive discipline",
+      "Oppositional defiant disorder; medication is first-line"
+    ],
+    "ans": 1,
+    "subject": "Psychiatry"
+  },
+  {
+    "id": "q0293",
+    "q": "A postpartum woman at 2 weeks has tearfulness, poor sleep unrelated to the baby's schedule, guilt, and thoughts of the baby being better off without her. Most likely diagnosis versus normal postpartum blues, and management urgency?",
+    "opts": [
+      "Normal postpartum blues; reassurance only, self-limiting",
+      "Postpartum depression with possible risk; requires prompt evaluation and treatment, screen for safety",
+      "Postpartum psychosis; always requires involuntary hospitalization regardless of severity",
+      "Normal adjustment; no follow-up needed"
+    ],
+    "ans": 1,
+    "subject": "Psychiatry"
+  },
+  {
+    "id": "q0294",
+    "q": "A patient in the ICU on multiple sedatives develops waxy flexibility, mutism, and posturing that persists on exam. Most likely diagnosis and first-line treatment?",
+    "opts": [
+      "Simple sedation effect; no treatment needed",
+      "Catatonia; lorazepam challenge is first-line",
+      "Psychotic depression; antipsychotics first-line",
+      "Locked-in syndrome; unrelated to catatonia"
+    ],
+    "ans": 1,
+    "subject": "Psychiatry"
+  },
+  {
+    "id": "q0295",
+    "q": "A 40-year-old man on long-term antipsychotics develops repetitive, involuntary lip-smacking and tongue movements. Most likely diagnosis and appropriate approach?",
+    "opts": [
+      "Acute dystonia; anticholinergics reverse it",
+      "Tardive dyskinesia; consider switching to lower-risk agents, may be irreversible",
+      "Akathisia; unrelated movement pattern",
+      "Parkinsonism; would show tremor and rigidity instead"
+    ],
+    "ans": 1,
+    "subject": "Psychiatry"
+  },
+  {
+    "id": "q0296",
+    "q": "A 55-year-old woman has progressive resting tremor and rigidity; brain MRI is normal, but DAT scan shows reduced dopamine transporter uptake. Which structure is primarily affected in this disease?",
+    "opts": [
+      "Hippocampus",
+      "Substantia nigra pars compacta",
+      "Cerebellum",
+      "Corpus callosum"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0297",
+    "q": "During a carotid endarterectomy, the surgeon must be careful to avoid injuring a nerve that runs close to the carotid bifurcation, controlling tongue movement. Which nerve is at risk?",
+    "opts": [
+      "Glossopharyngeal nerve",
+      "Hypoglossal nerve",
+      "Vagus nerve",
+      "Facial nerve"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0298",
+    "q": "A patient has loss of pain and temperature sensation on the contralateral side of the body but preserved touch, following a lesion of a specific spinal tract. Which tract is affected?",
+    "opts": [
+      "Dorsal column-medial lemniscus pathway",
+      "Lateral spinothalamic tract",
+      "Corticospinal tract",
+      "Spinocerebellar tract"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0299",
+    "q": "A patient after a stroke has weakness of the lower face on one side only, with forehead sparing (able to raise both eyebrows). Which type of facial nerve lesion does this suggest, and why does the forehead escape?",
+    "opts": [
+      "Lower motor neuron (Bell's palsy) lesion; forehead is always spared in LMN lesions",
+      "Upper motor neuron lesion; forehead has bilateral cortical representation, sparing it",
+      "Both UMN and LMN lesions spare the forehead equally",
+      "This pattern is not localizing"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0300",
+    "q": "A patient has weakness of shoulder abduction beyond the first 15 degrees, sensory loss over the deltoid ('regimental badge' area), following an anterior shoulder dislocation. Which nerve is injured, and which muscle is affected in the reduced abduction?",
+    "opts": [
+      "Suprascapular nerve; supraspinatus",
+      "Axillary nerve; deltoid",
+      "Radial nerve; triceps",
+      "Musculocutaneous nerve; biceps"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0301",
+    "q": "A patient develops loss of sensation over the lateral three and a half fingers and weakness of thumb opposition after a wrist laceration. Which nerve is injured, and what sign helps confirm this on exam?",
+    "opts": [
+      "Ulnar nerve; Froment's sign",
+      "Median nerve; positive Tinel's sign at the wrist, weak thenar muscles",
+      "Radial nerve; wrist drop",
+      "Musculocutaneous nerve; weak elbow flexion"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0302",
+    "q": "During inguinal hernia repair, the surgeon identifies the spermatic cord contents. Injury to which structure during dissection would most directly compromise testicular blood supply?",
+    "opts": [
+      "Ilioinguinal nerve",
+      "Testicular artery",
+      "Genital branch of genitofemoral nerve",
+      "Cremasteric fascia"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0303",
+    "q": "A patient with a lesion at the pontine level has ipsilateral facial weakness and contralateral limb weakness. This crossed pattern most specifically localizes the lesion to which level?",
+    "opts": [
+      "Cerebral cortex",
+      "Brainstem (pons)",
+      "Spinal cord",
+      "Peripheral nerve"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0304",
+    "q": "A pregnant woman receives epidural anesthesia for labor; the needle passes through several layers before reaching the epidural space. Which layer, if punctured accidentally, causes a post-dural puncture headache?",
+    "opts": [
+      "Ligamentum flavum",
+      "Dura mater",
+      "Supraspinous ligament",
+      "Interspinous ligament"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0305",
+    "q": "A patient has a lesion affecting the medial longitudinal fasciculus, causing impaired adduction of one eye on lateral gaze with nystagmus in the abducting eye. Most likely diagnosis given this classic finding?",
+    "opts": [
+      "Third nerve palsy",
+      "Internuclear ophthalmoplegia (often from multiple sclerosis)",
+      "Sixth nerve palsy",
+      "Horner syndrome"
+    ],
+    "ans": 1,
+    "subject": "Anatomy"
+  },
+  {
+    "id": "q0306",
+    "q": "A researcher studies how insulin lowers blood glucose. Which cellular mechanism best describes insulin's effect on skeletal muscle glucose uptake?",
+    "opts": [
+      "Direct diffusion increase without transporter involvement",
+      "GLUT4 transporter translocation to the cell membrane",
+      "Inhibition of glycogen synthase",
+      "Decreased hexokinase activity"
+    ],
+    "ans": 1,
+    "subject": "Physiology"
+  },
+  {
+    "id": "q0307",
+    "q": "During strenuous exercise, a person's muscles rely increasingly on anaerobic glycolysis. What is the fate of the pyruvate produced under these low-oxygen conditions?",
+    "opts": [
+      "Converted to acetyl-CoA and enters the TCA cycle normally",
+      "Converted to lactate to regenerate NAD+",
+      "Directly excreted unchanged in urine",
+      "Converted to glucose immediately within the muscle"
+    ],
+    "ans": 1,
+    "subject": "Physiology"
+  },
+  {
+    "id": "q0308",
+    "q": "A patient with severe vomiting develops metabolic alkalosis. What is the expected respiratory compensation, and its limitation?",
+    "opts": [
+      "Hyperventilation to blow off CO2, unlimited compensation possible",
+      "Hypoventilation to retain CO2, but limited by resulting hypoxia",
+      "No respiratory compensation occurs for metabolic alkalosis",
+      "Immediate renal compensation only, no respiratory involvement"
+    ],
+    "ans": 1,
+    "subject": "Physiology"
+  },
+  {
+    "id": "q0309",
+    "q": "A person moves from sea level to high altitude. Initially, ventilation increases due to hypoxia sensed by peripheral chemoreceptors. Which structure is primarily responsible for this initial hypoxic drive?",
+    "opts": [
+      "Central chemoreceptors in the medulla",
+      "Peripheral chemoreceptors in the carotid and aortic bodies",
+      "Baroreceptors in the carotid sinus",
+      "Stretch receptors in the lung"
+    ],
+    "ans": 1,
+    "subject": "Physiology"
+  },
+  {
+    "id": "q0310",
+    "q": "In the renin-angiotensin-aldosterone system, a drop in renal perfusion pressure triggers renin release. What is the net physiological effect of the resulting cascade on blood pressure and volume?",
+    "opts": [
+      "Decreased blood volume and vasodilation, lowering blood pressure further",
+      "Vasoconstriction and sodium/water retention, raising blood pressure",
+      "No effect on blood pressure, purely a renal filtration mechanism",
+      "Decreased aldosterone release, causing natriuresis"
+    ],
+    "ans": 1,
+    "subject": "Physiology"
+  },
+  {
+    "id": "q0311",
+    "q": "A patient's ECG shows a prolonged PR interval that remains constant, with an occasional dropped QRS complex following a P wave without progressive PR prolongation. What type of heart block does this represent?",
+    "opts": [
+      "Mobitz type I (Wenckebach)",
+      "Mobitz type II second-degree AV block",
+      "Complete (third-degree) heart block",
+      "First-degree AV block"
+    ],
+    "ans": 1,
+    "subject": "Physiology"
+  },
+  {
+    "id": "q0312",
+    "q": "During the cardiac cycle, isovolumetric contraction occurs between which two events?",
+    "opts": [
+      "Mitral valve opening and aortic valve opening",
+      "Mitral valve closure and aortic valve opening",
+      "Aortic valve closure and mitral valve opening",
+      "Atrial systole and mitral valve closure"
+    ],
+    "ans": 1,
+    "subject": "Physiology"
+  },
+  {
+    "id": "q0313",
+    "q": "A patient has chronic hypoxemia from high-altitude living, resulting in increased red cell mass. Which hormone, and from which primary source, mediates this adaptive response?",
+    "opts": [
+      "Aldosterone from the adrenal cortex",
+      "Erythropoietin, primarily from renal peritubular cells",
+      "Thrombopoietin from the liver",
+      "Cortisol from the adrenal cortex"
+    ],
+    "ans": 1,
+    "subject": "Physiology"
+  },
+  {
+    "id": "q0314",
+    "q": "A study reports that a new drug reduces mortality with a number needed to treat (NNT) of 20. What does this specifically mean?",
+    "opts": [
+      "20 patients must be treated to cause one adverse event",
+      "20 patients need to be treated for one additional patient to benefit",
+      "The drug is effective in 20% of patients only",
+      "20 is the sample size of the study"
+    ],
+    "ans": 1,
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "id": "q0315",
+    "q": "A district health program screens for hypertension in all adults over 30, regardless of symptoms. This exemplifies which type of screening approach?",
+    "opts": [
+      "Opportunistic screening",
+      "Mass (population-based) screening",
+      "Selective screening of high-risk groups only",
+      "Diagnostic testing, not screening"
+    ],
+    "ans": 1,
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "id": "q0316",
+    "q": "A cohort study follows smokers and non-smokers over 20 years to assess lung cancer incidence. What are the appropriate measures of association and study strengths this design offers over case-control?",
+    "opts": [
+      "Odds ratio; cannot calculate true incidence",
+      "Relative risk and incidence; can directly measure disease incidence over time",
+      "Prevalence ratio only; cross-sectional by nature",
+      "No appropriate measures exist for cohort studies"
+    ],
+    "ans": 1,
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "id": "q0317",
+    "q": "India's Universal Immunization Programme includes BCG at birth. What is the primary rationale for the very early timing of this vaccine?",
+    "opts": [
+      "To protect against poliomyelitis specifically",
+      "To provide early protection against severe forms of childhood tuberculosis",
+      "To prevent neonatal tetanus",
+      "To boost maternal antibody transfer"
+    ],
+    "ans": 1,
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "id": "q0318",
+    "q": "A community health worker calculates the infant mortality rate for a district. Which is the correct definition of this indicator?",
+    "opts": [
+      "Deaths under 5 years per 1000 live births",
+      "Deaths under 1 year per 1000 live births in a given year",
+      "Deaths in the first week per 1000 live births",
+      "Stillbirths per 1000 total births"
+    ],
+    "ans": 1,
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "id": "q0319",
+    "q": "A researcher wants to study a rare disease with a long latency period efficiently, minimizing cost and follow-up time. Which study design is most efficient for this specific scenario?",
+    "opts": [
+      "Prospective cohort study",
+      "Case-control study",
+      "Randomized controlled trial",
+      "Ecological study"
+    ],
+    "ans": 1,
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "id": "q0320",
+    "q": "A public health program in a flood-affected area prioritizes safe drinking water and sanitation to prevent cholera outbreaks before any cases occur. This represents which level of prevention?",
+    "opts": [
+      "Secondary prevention",
+      "Primary prevention",
+      "Tertiary prevention",
+      "Quaternary prevention"
+    ],
+    "ans": 1,
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "id": "q0321",
+    "q": "A test for a disease has 99% specificity but is applied to a very low-prevalence population for mass screening. What key problem arises despite the high specificity?",
+    "opts": [
+      "High false negative rate dominates, missing most cases",
+      "Even with high specificity, absolute number of false positives can be substantial in a large low-prevalence population, lowering PPV",
+      "No problem arises with high specificity regardless of prevalence",
+      "Sensitivity becomes irrelevant to interpretation"
+    ],
+    "ans": 1,
+    "subject": "PSM (Community Medicine)"
+  },
+  {
+    "id": "q0322",
+    "q": "A body found in water for 2 weeks shows extensive bloating, skin slippage, and marbling with a strong odor, precluding visual identification. Which identification method becomes most reliable at this stage?",
+    "opts": [
+      "Visual identification by family members",
+      "Fingerprint and dental/DNA-based identification",
+      "Estimating age from external appearance alone",
+      "Identification is impossible regardless of method"
+    ],
+    "ans": 1,
+    "subject": "Forensic Medicine"
+  },
+  {
+    "id": "q0323",
+    "q": "An autopsy of a suspected poisoning death shows cherry-red lividity and a bitter almond odor from the stomach contents. Most likely poison implicated?",
+    "opts": [
+      "Organophosphate poisoning",
+      "Cyanide poisoning",
+      "Carbon monoxide poisoning (odor differs)",
+      "Arsenic poisoning"
+    ],
+    "ans": 1,
+    "subject": "Forensic Medicine"
+  },
+  {
+    "id": "q0324",
+    "q": "A road traffic accident victim has a fracture pattern and injury distribution suggesting the pedestrian was struck from behind while walking. What forensic principle helps reconstruct the mechanism and direction of impact?",
+    "opts": [
+      "Only witness testimony can determine this, not injury pattern",
+      "Pattern injury analysis (bumper fracture height, direction of fracture lines) helps reconstruct mechanism",
+      "Injury patterns provide no useful reconstruction information",
+      "Time of death alone determines the mechanism"
+    ],
+    "ans": 1,
+    "subject": "Forensic Medicine"
+  },
+  {
+    "id": "q0325",
+    "q": "A body shows patchy dark red-purple discoloration on the dependent parts that blanches on pressure within a few hours of death but becomes fixed later. What is this finding, and what does its fixation help estimate?",
+    "opts": [
+      "Rigor mortis; estimates time since death via muscle stiffness",
+      "Livor mortis (postmortem lividity); fixation time helps estimate the post-mortem interval",
+      "Adipocere formation; occurs only after months",
+      "Decomposition; unrelated to timing estimation"
+    ],
+    "ans": 1,
+    "subject": "Forensic Medicine"
+  },
+  {
+    "id": "q0326",
+    "q": "A person is found with carbon monoxide poisoning after a house fire, with cherry-red lividity and elevated carboxyhemoglobin. What is the mechanism of toxicity?",
+    "opts": [
+      "Direct cellular toxin unrelated to oxygen transport",
+      "CO binds hemoglobin with much higher affinity than oxygen, causing tissue hypoxia",
+      "CO causes direct lung tissue destruction only",
+      "CO has no effect on oxygen-carrying capacity"
+    ],
+    "ans": 1,
+    "subject": "Forensic Medicine"
+  },
+  {
+    "id": "q0327",
+    "q": "A woman presents seeking termination of an unwanted pregnancy at 10 weeks gestation. Under India's MTP Act framework, what is the general legal position?",
+    "opts": [
+      "Termination is illegal at any gestational age under any circumstance",
+      "Termination is legally permitted within the specified gestational limits under the MTP Act with required conditions met",
+      "Requires court approval regardless of gestational age",
+      "Only permitted if the pregnancy resulted from rape"
+    ],
+    "ans": 1,
+    "subject": "Forensic Medicine"
+  },
+  {
+    "id": "q0328",
+    "q": "An examining physician suspects a patient has ingested an unknown poison based on pinpoint pupils, excessive salivation, and muscle fasciculations. Most likely class of poison and antidote?",
+    "opts": [
+      "Anticholinergic poisoning; physostigmine",
+      "Organophosphate poisoning; atropine and pralidoxime",
+      "Opioid poisoning; naloxone only, no atropine needed",
+      "Benzodiazepine poisoning; flumazenil"
+    ],
+    "ans": 1,
+    "subject": "Forensic Medicine"
+  },
+  {
+    "id": "q0329",
+    "q": "A 55-year-old man has sudden severe eye pain and reduced vision after being struck by a blunt object; exam shows blood layering in the anterior chamber. Most likely diagnosis and key management concern?",
+    "opts": [
+      "Corneal abrasion; topical antibiotics only",
+      "Hyphema; risk of rebleeding and raised intraocular pressure, needs close monitoring",
+      "Retinal detachment; unrelated to blunt trauma",
+      "Conjunctival hemorrhage; no concern, self-limiting"
+    ],
+    "ans": 1,
+    "subject": "Ophthalmology"
+  },
+  {
+    "id": "q0330",
+    "q": "A diabetic patient has sudden painless monocular vision loss with a fundus exam showing a 'blood and thunder' appearance with widespread hemorrhages and dilated tortuous veins. Most likely diagnosis?",
+    "opts": [
+      "Central retinal artery occlusion",
+      "Central retinal vein occlusion",
+      "Vitreous hemorrhage from proliferative retinopathy",
+      "Retinal detachment"
+    ],
+    "ans": 1,
+    "subject": "Ophthalmology"
+  },
+  {
+    "id": "q0331",
+    "q": "A patient has sudden eye redness, severe pain, and photophobia with a dendritic corneal ulcer staining with fluorescein. Most likely diagnosis and treatment approach regarding steroids?",
+    "opts": [
+      "Bacterial keratitis; topical steroids indicated first-line",
+      "Herpes simplex keratitis; topical steroids are contraindicated without antiviral cover",
+      "Allergic conjunctivitis; steroids are first-line and safe",
+      "Fungal keratitis; steroids improve outcomes"
+    ],
+    "ans": 1,
+    "subject": "Ophthalmology"
+  },
+  {
+    "id": "q0332",
+    "q": "A 40-year-old with long-standing untreated hypertension has fundoscopy showing arteriovenous nicking, flame hemorrhages, cotton wool spots, and papilledema. What does papilledema in this context suggest about severity?",
+    "opts": [
+      "Mild hypertensive retinopathy, no urgency",
+      "Malignant/severe hypertension with elevated intracranial pressure risk, requires urgent BP control",
+      "Normal finding unrelated to hypertension severity",
+      "Diabetic retinopathy, unrelated to blood pressure"
+    ],
+    "ans": 1,
+    "subject": "Ophthalmology"
+  },
+  {
+    "id": "q0333",
+    "q": "A newborn has a dense white cataract detected on red reflex screening at birth, with a history of maternal rash and fever in the first trimester. Most likely underlying cause?",
+    "opts": [
+      "Genetic cataract unrelated to pregnancy events",
+      "Congenital rubella syndrome",
+      "Down syndrome-related cataract only",
+      "Retinopathy of prematurity"
+    ],
+    "ans": 1,
+    "subject": "Ophthalmology"
+  },
+  {
+    "id": "q0334",
+    "q": "A patient has chronic progressive peripheral visual field loss ('tunnel vision') with normal central vision initially, elevated intraocular pressure, and cupping of the optic disc. Most likely diagnosis?",
+    "opts": [
+      "Acute angle-closure glaucoma",
+      "Primary open-angle glaucoma",
+      "Cataract",
+      "Macular degeneration"
+    ],
+    "ans": 1,
+    "subject": "Ophthalmology"
+  },
+  {
+    "id": "q0335",
+    "q": "A child has recurrent epistaxis and one-sided nasal obstruction; nasal endoscopy shows a vascular mass in the nasopharynx, most common in adolescent males. Most likely diagnosis and key management consideration?",
+    "opts": [
+      "Simple nasal polyp; medical management sufficient",
+      "Juvenile nasopharyngeal angiofibroma; highly vascular, needs careful surgical planning with possible embolization",
+      "Nasopharyngeal carcinoma; primarily radiotherapy",
+      "Antrochoanal polyp; simple avulsion sufficient"
+    ],
+    "ans": 1,
+    "subject": "ENT"
+  },
+  {
+    "id": "q0336",
+    "q": "A patient has sudden unilateral facial weakness including the forehead, with ear pain and vesicles in the ear canal. Most likely diagnosis and organism?",
+    "opts": [
+      "Bell's palsy; idiopathic, no vesicles expected",
+      "Ramsay Hunt syndrome; varicella-zoster virus reactivation",
+      "Stroke; would spare the forehead",
+      "Otitis media; would not cause facial weakness typically"
+    ],
+    "ans": 1,
+    "subject": "ENT"
+  },
+  {
+    "id": "q0337",
+    "q": "A child has recurrent episodes of ear pain, fever, and a bulging erythematous tympanic membrane on otoscopy. Most likely diagnosis and first-line treatment?",
+    "opts": [
+      "Otitis externa; topical antibiotics",
+      "Acute otitis media; oral amoxicillin first-line",
+      "Cholesteatoma; surgery required immediately",
+      "Mastoiditis; requires mastoidectomy first-line"
+    ],
+    "ans": 1,
+    "subject": "ENT"
+  },
+  {
+    "id": "q0338",
+    "q": "A 50-year-old smoker and heavy alcohol user has a persistent hoarse voice for 6 weeks with a visible vocal cord lesion on laryngoscopy. Most important next step given the risk profile?",
+    "opts": [
+      "Reassurance and voice rest only",
+      "Biopsy to rule out laryngeal carcinoma given the risk factors",
+      "Empirical PPI trial only, no further workup",
+      "Speech therapy alone"
+    ],
+    "ans": 1,
+    "subject": "ENT"
+  },
+  {
+    "id": "q0339",
+    "q": "A patient has hearing loss; Rinne test shows bone conduction greater than air conduction in the affected ear, and Weber test lateralizes to the same ear. Most likely type of hearing loss?",
+    "opts": [
+      "Sensorineural hearing loss",
+      "Conductive hearing loss",
+      "Mixed hearing loss",
+      "Normal hearing"
+    ],
+    "ans": 1,
+    "subject": "ENT"
+  },
+  {
+    "id": "q0340",
+    "q": "A patient has hearing loss with Weber lateralizing away from the affected ear and Rinne showing air conduction greater than bone conduction bilaterally, but reduced overall. Most likely type of hearing loss?",
+    "opts": [
+      "Conductive hearing loss",
+      "Sensorineural hearing loss",
+      "Normal hearing",
+      "Mixed hearing loss with conductive predominance"
+    ],
+    "ans": 1,
+    "subject": "ENT"
+  },
+  {
+    "id": "q0341",
+    "q": "A patient with a peritonsillar abscess has trismus, muffled 'hot potato' voice, and uvular deviation away from the affected side. Most appropriate management?",
+    "opts": [
+      "Oral antibiotics alone, no drainage needed",
+      "Needle aspiration or incision and drainage plus antibiotics",
+      "Immediate tonsillectomy in the acute setting always",
+      "Observation only, will resolve spontaneously"
+    ],
+    "ans": 1,
+    "subject": "ENT"
+  },
+  {
+    "id": "q0342",
+    "q": "A 70-year-old woman has severe deformity of the hip joint with loss of joint space, osteophytes, and subchondral sclerosis on X-ray, worse with activity and better with rest, without significant morning stiffness. Most likely diagnosis?",
+    "opts": [
+      "Rheumatoid arthritis",
+      "Osteoarthritis",
+      "Septic arthritis",
+      "Gout"
+    ],
+    "ans": 1,
+    "subject": "Orthopedics"
+  },
+  {
+    "id": "q0343",
+    "q": "A 30-year-old man has sudden severe pain and swelling of the first MTP joint at night, with joint fluid showing needle-shaped negatively birefringent crystals. Most appropriate first-line acute treatment?",
+    "opts": [
+      "Allopurinol started immediately during the acute attack",
+      "NSAIDs or colchicine for the acute attack; urate-lowering therapy started later",
+      "Long-term allopurinol only, no acute treatment needed",
+      "Antibiotics, assuming septic arthritis"
+    ],
+    "ans": 1,
+    "subject": "Orthopedics"
+  },
+  {
+    "id": "q0344",
+    "q": "A patient has a spiral fracture of the tibia with an open wound less than 1cm, minimal contamination, and adequate soft tissue coverage. Which Gustilo-Anderson classification applies, and what does it guide?",
+    "opts": [
+      "Type III; requires extensive debridement and often flap coverage",
+      "Type I; guides lower-risk antibiotic and management protocol",
+      "Closed fracture; classification does not apply",
+      "Type II; always requires amputation"
+    ],
+    "ans": 1,
+    "subject": "Orthopedics"
+  },
+  {
+    "id": "q0345",
+    "q": "A child has knee pain and a limp; X-ray shows a lytic lesion in the metaphysis with a thin sclerotic rim, no aggressive features, incidentally found. Most likely diagnosis given benign features?",
+    "opts": [
+      "Osteosarcoma; aggressive malignant lesion",
+      "Simple (unicameral) bone cyst; benign",
+      "Ewing sarcoma; aggressive with onion-skinning",
+      "Osteomyelitis; would show more aggressive destruction"
+    ],
+    "ans": 1,
+    "subject": "Orthopedics"
+  },
+  {
+    "id": "q0346",
+    "q": "A newborn has asymmetric thigh folds and a positive Ortolani/Barlow test on hip exam. Most likely diagnosis and importance of early detection?",
+    "opts": [
+      "Normal newborn variant; no follow-up needed",
+      "Developmental dysplasia of the hip; early detection allows conservative treatment (e.g., Pavlik harness), avoiding later surgery",
+      "Septic arthritis of the hip; requires emergency drainage",
+      "Legg-Calve-Perthes disease; presents later in childhood, not at birth"
+    ],
+    "ans": 1,
+    "subject": "Orthopedics"
+  },
+  {
+    "id": "q0347",
+    "q": "A patient has acute monoarticular joint swelling, warmth, and severe pain with fever; joint aspiration shows turbid fluid with a very high WBC count and gram-positive cocci. Most appropriate immediate management?",
+    "opts": [
+      "Oral antibiotics and outpatient follow-up",
+      "Urgent joint drainage/washout plus IV antibiotics, given risk of cartilage destruction",
+      "NSAIDs alone, no antibiotics needed",
+      "Observation only, will resolve spontaneously"
+    ],
+    "ans": 1,
+    "subject": "Orthopedics"
+  },
+  {
+    "id": "q0348",
+    "q": "A 55-year-old woman with postmenopausal osteoporosis on bisphosphonate therapy is counseled about rare but serious risks. Which specific complication is associated with long-term bisphosphonate use?",
+    "opts": [
+      "Increased fracture risk immediately after starting",
+      "Osteonecrosis of the jaw and atypical femur fractures with long-term use",
+      "No significant risks with long-term use",
+      "Immediate hypercalcemia"
+    ],
+    "ans": 1,
+    "subject": "Orthopedics"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "neet-pg-mock-test",
+  "version": "1.0.0",
+  "description": "NEET PG full-length mock test — static site (vanilla HTML/CSS/JS)",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes serve -l 5500 .",
+    "start": "npx --yes serve -l 5500 ."
+  },
+  "license": "UNLICENSED"
+}
