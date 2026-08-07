@@ -112,7 +112,6 @@ function renderIntro() {
       <h2>Before you start</h2>
       <ul>
         <li><strong>${TEST_LENGTH} questions</strong> across ${SECTION_COUNT} sections (A&ndash;E), ${SECTION_SIZE} each &mdash; same as the real exam.</li>
-        <li>Randomly drawn this session from a bank of <strong>${POOL_SIZE} questions</strong>. Every attempt is a fresh, different paper.</li>
         <li><strong>3 hours 30 minutes</strong> total. The timer runs continuously once you start.</li>
         <li>Marking: <strong>+4</strong> for correct, <strong>&minus;1</strong> for wrong, <strong>0</strong> for unattempted.</li>
         <li>You can move freely between sections and questions, and change answers any time before submitting.</li>
