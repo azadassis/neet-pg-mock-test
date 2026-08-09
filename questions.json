@@ -201,7 +201,8 @@
     ],
     "ans": 2,
     "id": "q0017",
-    "subject": "Radiology"
+    "subject": "Radiology",
+    "img": "images/real/double_bubble_sign.jpg"
   },
   {
     "q": "A 42-year-old woman has right upper quadrant pain, fever, and jaundice. Ultrasound shows a dilated CBD with a distal stone. She is started on IV antibiotics, but 6 hours later develops hypotension and altered mental status. Most appropriate immediate management?",
@@ -513,7 +514,8 @@
     ],
     "ans": 3,
     "id": "q0043",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "img": "images/real/papillary_thyroid_histology.jpg"
   },
   {
     "q": "A 50-year-old alcoholic man has jaundice and abdominal distension. Liver biopsy shows hepatocyte ballooning, Mallory-Denk bodies, neutrophilic infiltrate, and early bridging fibrosis. Most appropriate description of this stage?",
@@ -1485,7 +1487,8 @@
     ],
     "ans": 1,
     "id": "q0124",
-    "subject": "Orthopedics"
+    "subject": "Orthopedics",
+    "img": "images/real/perthes_disease_xray.jpg"
   },
   {
     "q": "After a supracondylar humerus fracture is reduced, the hand is pale, pulseless, with severe pain on passive finger extension. Most appropriate immediate action?",
@@ -1641,7 +1644,8 @@
     ],
     "ans": 0,
     "id": "q0137",
-    "subject": "Ophthalmology"
+    "subject": "Ophthalmology",
+    "img": "images/real/crao_cherry_red_spot.jpg"
   },
   {
     "q": "A diabetic woman has gradually worsening vision. Fundoscopy shows microaneurysms, dot-blot hemorrhages, and fragile new vessels on the optic disc. What stage does neovascularization indicate, and what is appropriate treatment?",
@@ -2541,7 +2545,8 @@
       "Folate deficiency from poor diet alone"
     ],
     "ans": 1,
-    "subject": "Medicine"
+    "subject": "Medicine",
+    "img": "images/real/hypersegmented_neutrophil.png"
   },
   {
     "id": "q0213",
@@ -2601,7 +2606,8 @@
       "Hodgkin lymphoma"
     ],
     "ans": 3,
-    "subject": "Medicine"
+    "subject": "Medicine",
+    "img": "images/real/reed_sternberg_cell.jpg"
   },
   {
     "id": "q0218",
@@ -2853,7 +2859,8 @@
       "EBV; latent membrane protein activation"
     ],
     "ans": 2,
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "img": "images/real/koilocytes_pap_smear.jpg"
   },
   {
     "id": "q0239",
@@ -4281,7 +4288,8 @@
       "Hereditary spherocytosis; would be Coombs negative"
     ],
     "ans": 0,
-    "subject": "Medicine"
+    "subject": "Medicine",
+    "img": "images/real/spherocytosis_smear.jpg"
   },
   {
     "id": "q0358",
@@ -6933,7 +6941,8 @@
       "Achalasia"
     ],
     "ans": 1,
-    "subject": "Medicine"
+    "subject": "Medicine",
+    "img": "images/real/zenker_diverticulum_barium.gif"
   },
   {
     "id": "q0579",
@@ -7929,7 +7938,8 @@
       "Consider exchange transfusion in severe acute chest syndrome, along with antibiotics and supportive care given the risk of rapid deterioration"
     ],
     "ans": 3,
-    "subject": "Medicine"
+    "subject": "Medicine",
+    "img": "images/real/sickle_cell_smear.jpg"
   },
   {
     "id": "q0662",
@@ -8841,7 +8851,8 @@
       "This finding indicates active splenic infection requiring treatment"
     ],
     "ans": 0,
-    "subject": "Medicine"
+    "subject": "Medicine",
+    "img": "images/real/howell_jolly_smear.jpg"
   },
   {
     "id": "q0738",
@@ -8865,7 +8876,8 @@
       "Simple autoimmune hemolytic anemia; would not typically show schistocytes or thrombocytopenia in this combined pattern"
     ],
     "ans": 1,
-    "subject": "Medicine"
+    "subject": "Medicine",
+    "img": "images/real/schistocytes_maha.jpg"
   },
   {
     "id": "q0740",
@@ -11853,7 +11865,8 @@
     ],
     "ans": 2,
     "id": "q0988",
-    "subject": "Pathology"
+    "subject": "Pathology",
+    "img": "images/real/auer_rod_myeloblast.jpg"
   },
   {
     "q": "The Philadelphia chromosome, resulting from t(9;22) translocation and producing the BCR-ABL fusion gene, is characteristic of which malignancy?",
@@ -25867,7 +25880,8 @@
     ],
     "ans": 0,
     "id": "q2155",
-    "subject": "Radiology"
+    "subject": "Radiology",
+    "img": "images/real/miliary_tb_cxr.jpg"
   },
   {
     "q": "An infant presents with painful symmetric hand/foot swelling (dactylitis) as the first sign of a hemoglobinopathy. This suggests:",
@@ -35923,7 +35937,8 @@
     ],
     "ans": 3,
     "id": "q2993",
-    "subject": "Microbiology"
+    "subject": "Microbiology",
+    "img": "images/real/malaria_ring_forms.jpg"
   },
   {
     "q": "Recurrent painful vesicles/crusted sores at the mouth corner, preceded by burning. Most likely cause?",
