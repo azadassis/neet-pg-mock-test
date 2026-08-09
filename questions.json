@@ -42088,5 +42088,305 @@
     "ans": 0,
     "id": "q3505",
     "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Endoscopy shows a bleeding vascular lesion (angiodysplasia) in the colon. What is the management?",
+    "opts": [
+      "Stenting",
+      "Balloon dilatation",
+      "Endoscopic fulguration (electrocoagulation)",
+      "Internal urethrotomy (unrelated to a GI lesion)"
+    ],
+    "ans": 2,
+    "id": "q3506",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A young patient has recurrent colicky abdominal pain; urine microscopy shows crystals and RBCs. What is the diagnosis?",
+    "opts": [
+      "Calcium oxalate stone",
+      "Polycystic kidney disease",
+      "Cystine stones",
+      "Glomerulonephritis"
+    ],
+    "ans": 0,
+    "id": "q3507",
+    "subject": "Surgery"
+  },
+  {
+    "q": "Upper GI endoscopy in a cirrhotic patient shows tortuous, dilated, bluish submucosal veins in the distal esophagus. What is the finding?",
+    "opts": [
+      "Barrett's esophagus",
+      "Esophageal varices",
+      "Gastric erosion",
+      "Mallory-Weiss tear"
+    ],
+    "ans": 1,
+    "id": "q3508",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A 12-year-old has sudden severe scrotal pain 6 hours after a history of trauma. Intraoperative exploration reveals a twisted spermatic cord with a black, non-viable testis. What is the diagnosis?",
+    "opts": [
+      "Torsion testis with gangrene",
+      "Testicular hematoma",
+      "Torsion testis (viable)",
+      "Gangrene of the testis without torsion"
+    ],
+    "ans": 0,
+    "id": "q3509",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A 40-year-old woman has a 5x6 cm breast lump. Histopathology shows a well-circumscribed biphasic tumor with compressed, elongated ('staghorn') glandular epithelium surrounded by cellular stroma. What is the likely diagnosis?",
+    "opts": [
+      "Fibroadenoma (a giant fibroadenoma, given the size)",
+      "Phyllodes tumor",
+      "Breast carcinoma",
+      "Fat necrosis"
+    ],
+    "ans": 0,
+    "id": "q3510",
+    "subject": "Surgery"
+  },
+  {
+    "q": "What is the typical negative pressure setting used in vacuum-assisted closure (VAC) dressing?",
+    "opts": [
+      "60-90 mmHg",
+      "90-100 mmHg",
+      "120-130 mmHg",
+      "130-150 mmHg"
+    ],
+    "ans": 2,
+    "id": "q3511",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A patient with severe GERD undergoes surgery in which the gastric fundus is wrapped a full 360 degrees around the distal esophagus. Which surgery was performed?",
+    "opts": [
+      "Nissen fundoplication",
+      "Dor fundoplication (an anterior 180-degree wrap)",
+      "Toupet fundoplication (a posterior 270-degree wrap)",
+      "Heller myotomy (used for achalasia, not GERD)"
+    ],
+    "ans": 0,
+    "id": "q3512",
+    "subject": "Surgery"
+  },
+  {
+    "q": "During repair of a congenital inguinal hernia in an infant, a structure coursing within the spermatic cord, superior and lateral to the vas deferens, is identified and preserved. What is this structure?",
+    "opts": [
+      "Femoral vein",
+      "Obturator vein",
+      "Testicular vein",
+      "Inferior epigastric vein"
+    ],
+    "ans": 2,
+    "id": "q3513",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A chronic non-healing ulcer with a raised, everted edge is suspected to be malignant. Which type of biopsy is most appropriate?",
+    "opts": [
+      "Excisional biopsy",
+      "Incisional biopsy from the ulcer base",
+      "Biopsy from the ulcer edge",
+      "Fine-needle aspiration"
+    ],
+    "ans": 2,
+    "id": "q3514",
+    "subject": "Surgery"
+  },
+  {
+    "q": "How does a skin graft primarily derive its nutrition on day 3 after grafting (before full neovascularization at day 4-5)?",
+    "opts": [
+      "Plasma imbibition (the mechanism for the first ~48 hours)",
+      "Inosculation (linkage of graft and recipient-bed vessels)",
+      "Neovascularization (ingrowth of new vessels, dominant later)",
+      "The graft receives no nutrition until day 5"
+    ],
+    "ans": 1,
+    "id": "q3515",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A gaiter-area leg ulcer has irregular margins, exudate, surrounding hemosiderin pigmentation, and lipodermatosclerosis, in a patient with varicose veins. What type of ulcer is this?",
+    "opts": [
+      "Arterial ulcer",
+      "Venous ulcer",
+      "Trophic (neuropathic) ulcer",
+      "Diabetic foot ulcer"
+    ],
+    "ans": 1,
+    "id": "q3516",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A 30-year-old woman has a thyroid swelling in the neck. What is the next step in evaluation?",
+    "opts": [
+      "Radioactive iodine uptake (I-131) scan",
+      "Fine-needle aspiration cytology",
+      "TSH and free T4",
+      "FSH level"
+    ],
+    "ans": 2,
+    "id": "q3517",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A 5-year-old girl becomes unconscious after exposure to a shampoo containing rotenone. Which mitochondrial complex is inhibited by this chemical?",
+    "opts": [
+      "Complex I (NADH dehydrogenase)",
+      "Complex II (succinate dehydrogenase)",
+      "Complex III (cytochrome c reductase)",
+      "Complex IV (cytochrome c oxidase)"
+    ],
+    "ans": 0,
+    "id": "q3518",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "An infant has cardiomyopathy, hypotonia (a 'floppy baby'), and hepatomegaly. What is the most likely diagnosis?",
+    "opts": [
+      "Pompe's disease (acid alpha-glucosidase deficiency)",
+      "Von Gierke's disease (typically causes fasting hypoglycemia without cardiomyopathy)",
+      "Ebstein anomaly (a structural cardiac malformation, not a metabolic disease)",
+      "McArdle disease (causes exercise intolerance in older children/adults, not infantile floppy baby)"
+    ],
+    "ans": 0,
+    "id": "q3519",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A 15-year-old has exercise-induced difficulty with impaired oxidation of long-chain fatty acids; muscle biopsy shows fat vacuoles. What is the diagnosis?",
+    "opts": [
+      "Carnitine deficiency",
+      "Fatty acid synthase defect",
+      "Lipoprotein lipase defect",
+      "LDL receptor defect"
+    ],
+    "ans": 0,
+    "id": "q3520",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A farmer whose staple diet is maize develops a photosensitive rash on the face, neck, and hands. Which vitamin should be given?",
+    "opts": [
+      "Niacin",
+      "Thiamine",
+      "Riboflavin",
+      "Vitamin C"
+    ],
+    "ans": 0,
+    "id": "q3521",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A patient on methotrexate develops mouth ulcers. Since methotrexate inhibits dihydrofolate reductase and blocks thymidylate synthesis, which nucleotide is decreased?",
+    "opts": [
+      "UMP",
+      "TMP (thymidine monophosphate)",
+      "CMP",
+      "GMP"
+    ],
+    "ans": 1,
+    "id": "q3522",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "An enzyme reaction shows an increased Km with an unchanged Vmax in the presence of an inhibitor. What type of inhibition is this?",
+    "opts": [
+      "Competitive inhibition",
+      "Noncompetitive inhibition",
+      "Uncompetitive inhibition",
+      "Mixed inhibition"
+    ],
+    "ans": 0,
+    "id": "q3523",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A drug given for hyperlipidemia causes facial flushing, mediated by prostaglandin release in the skin. Which drug causes this side effect?",
+    "opts": [
+      "Nicotinic acid (niacin)",
+      "A statin (HMG-CoA reductase inhibitor)",
+      "A fibrate",
+      "Ezetimibe"
+    ],
+    "ans": 0,
+    "id": "q3524",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Markedly increased chylomicrons and grossly lipemic serum are seen in deficiency of which enzyme?",
+    "opts": [
+      "Lipoprotein lipase",
+      "Hormone-sensitive lipase",
+      "Hepatic lipase",
+      "LCAT (lecithin-cholesterol acyltransferase)"
+    ],
+    "ans": 0,
+    "id": "q3525",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Which micronutrient deficiency causes anemia, gum bleeding, and a 'white line' (Frankel's line) on the metaphyseal X-ray, classic for scurvy?",
+    "opts": [
+      "Vitamin C",
+      "Copper",
+      "Iron (does not cause gum bleeding or Frankel's line)",
+      "Zinc"
+    ],
+    "ans": 0,
+    "id": "q3526",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A patient with phenylketonuria has persistently elevated phenylalanine despite normal phenylalanine hydroxylase activity. Which enzyme is deficient (a BH4 cofactor-recycling defect)?",
+    "opts": [
+      "Dihydropteridine reductase",
+      "Phenylalanine hydroxylase itself (stated as normal here)",
+      "Tyrosine aminotransferase",
+      "Homogentisate oxidase"
+    ],
+    "ans": 0,
+    "id": "q3527",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Tall stature, long digits, a long arm span, and lens subluxation are seen in a defect of which protein?",
+    "opts": [
+      "Fibrillin-1",
+      "Type I collagen",
+      "Elastin",
+      "Lysyl oxidase"
+    ],
+    "ans": 0,
+    "id": "q3528",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A male patient has pallor, weakness, and easy fatigability, with MCV 53 fL and increased TIBC. What is the diagnosis?",
+    "opts": [
+      "Iron deficiency anemia",
+      "Anemia of chronic disease (TIBC is typically decreased, not increased)",
+      "Thalassemia trait (TIBC is typically normal)",
+      "Sideroblastic anemia (TIBC is typically normal or decreased)"
+    ],
+    "ans": 0,
+    "id": "q3529",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Methanol poisoning produces which toxic metabolites, responsible for its clinical toxicity?",
+    "opts": [
+      "Formic acid and lactic acid",
+      "Acetic acid alone",
+      "Oxalic acid and glycolic acid (these are ethylene glycol metabolites)",
+      "Glyoxylic acid and formic acid"
+    ],
+    "ans": 0,
+    "id": "q3530",
+    "subject": "Forensic Medicine"
   }
 ]
