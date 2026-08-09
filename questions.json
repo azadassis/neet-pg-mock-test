@@ -38762,5 +38762,2407 @@
     "ans": 0,
     "id": "q3228",
     "subject": "Microbiology"
+  },
+  {
+    "q": "A patient from Delhi has fever, arthralgia, and an extensive petechial rash for 3 days. Hb 9 g/dL, WBC 9000/mm3, platelets 20,000/mm3, prolonged bleeding time, normal clotting time. What is the most likely diagnosis?",
+    "opts": [
+      "Dengue",
+      "Malaria",
+      "Scrub typhus",
+      "Typhoid"
+    ],
+    "ans": 0,
+    "id": "q3229",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Which statement is true regarding Trichomonas vaginalis?",
+    "opts": [
+      "It cannot be cultured",
+      "Twitching (jerky) motility is seen on a wet saline mount",
+      "Cysts are seen on wet saline mount of vaginal secretions",
+      "It is not sexually transmitted"
+    ],
+    "ans": 1,
+    "id": "q3230",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A woman from West Rajasthan has an ulcer surrounded by erythema on the leg. Biopsy from the ulcer edge shows organisms with dark-staining nuclei and a kinetoplast. What is the most likely causative agent?",
+    "opts": [
+      "Leishmania tropica",
+      "Babesia",
+      "Trypanosoma",
+      "Histoplasma"
+    ],
+    "ans": 0,
+    "id": "q3231",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A child has fever and a rash. Urine microscopy shows cells with an 'owl's eye' inclusion appearance. What is the most likely diagnosis?",
+    "opts": [
+      "Cytomegalovirus",
+      "Epstein-Barr virus",
+      "Herpes simplex virus",
+      "Toxoplasma gondii"
+    ],
+    "ans": 0,
+    "id": "q3232",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Infection with Clonorchis sinensis is associated with an increased risk of which malignancy?",
+    "opts": [
+      "Cervical cancer",
+      "Cholangiocarcinoma",
+      "Gastric carcinoma",
+      "Bladder carcinoma"
+    ],
+    "ans": 1,
+    "id": "q3233",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "An HIV-positive patient poorly adherent to ART has persistent cough and weight loss with a negative sputum fungal culture. Gomori methenamine silver stain shows darkly stained, crescent-shaped cysts. What is the most likely organism?",
+    "opts": [
+      "Paracoccidioides brasiliensis",
+      "Histoplasma capsulatum",
+      "Coccidioides immitis",
+      "Pneumocystis jirovecii"
+    ],
+    "ans": 3,
+    "id": "q3234",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A sewage worker has abdominal pain, jaundice, conjunctival injection, and hematuria for 5 days. Which investigation confirms leptospirosis?",
+    "opts": [
+      "Widal test",
+      "Microscopic agglutination test",
+      "Weil-Felix reaction",
+      "Paul-Bunnell (heterophile antibody) test"
+    ],
+    "ans": 1,
+    "id": "q3235",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Which laboratory test is used to diagnose rotavirus diarrhea?",
+    "opts": [
+      "Antigen detection in a stool sample",
+      "Antigen detection in blood",
+      "Antibody detection in serum",
+      "Light microscopy of the stool specimen"
+    ],
+    "ans": 0,
+    "id": "q3236",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A boy has fever and chills; a rapid diagnostic test is positive for the HRP-2 antigen. Which Plasmodium species is most likely responsible?",
+    "opts": [
+      "Plasmodium falciparum",
+      "Plasmodium malariae",
+      "Plasmodium vivax",
+      "Plasmodium ovale"
+    ],
+    "ans": 0,
+    "id": "q3237",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A child has high fever, seizures, headache, and neck rigidity. CSF shows low glucose, high protein, and many polymorphs, with pleomorphic gram-negative bacilli on culture. Which statement about the causative organism (Haemophilus influenzae) is true?",
+    "opts": [
+      "It is bacitracin-sensitive",
+      "It produces non-lactose-fermenting colonies on MacConkey agar",
+      "It exhibits satellitism around Staphylococcus aureus colonies",
+      "It shows alpha-hemolysis on sheep blood agar"
+    ],
+    "ans": 2,
+    "id": "q3238",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A man has dysuria and urethral discharge after unprotected intercourse. Gram stain of the discharge shows numerous gram-negative intracellular diplococci within neutrophils. What is the treatment of choice?",
+    "opts": [
+      "Erythromycin",
+      "Azithromycin",
+      "Ceftriaxone",
+      "Penicillin G"
+    ],
+    "ans": 2,
+    "id": "q3239",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A 2-month-old has had a parietal swelling since birth. X-ray shows a well-defined subperiosteal soft-tissue swelling that is sharply limited by the suture lines of the parietal bone. What is the diagnosis?",
+    "opts": [
+      "Subgaleal hematoma",
+      "Cephalhematoma",
+      "Caput succedaneum",
+      "Encephalocele"
+    ],
+    "ans": 1,
+    "id": "q3240",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A patient has abdominal pain and sterile pyuria; X-ray shows diffuse, dense calcification replacing the renal parenchyma, consistent with autonephrectomy from renal tuberculosis. What is the diagnosis?",
+    "opts": [
+      "Putty kidney",
+      "Nephrocalcinosis",
+      "Staghorn calculus",
+      "Psoas calcification"
+    ],
+    "ans": 0,
+    "id": "q3241",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A direct inguinal hernia protrudes through a defect in the floor of Hesselbach's triangle. Which structure forms this floor?",
+    "opts": [
+      "Internal oblique",
+      "External oblique",
+      "Parietal peritoneum",
+      "Fascia transversalis"
+    ],
+    "ans": 3,
+    "id": "q3242",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A student's jaw locks while yawning (TMJ dislocation). Which muscle attaches to the articular disc of the temporomandibular joint and is implicated in this?",
+    "opts": [
+      "Lateral pterygoid",
+      "Temporalis",
+      "Medial pterygoid",
+      "Masseter"
+    ],
+    "ans": 0,
+    "id": "q3243",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A renal histology section shows a tuft of capillary loops surrounded by parietal epithelium forming Bowman's capsule, with podocytes lining the visceral layer. What structure is this?",
+    "opts": [
+      "Leydig cells of the testis",
+      "Pancreatic islet cells",
+      "Hassall's corpuscles",
+      "Glomerulus"
+    ],
+    "ans": 3,
+    "id": "q3244",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Failure of involution of which embryonic aortic arch artery results in a patent ductus arteriosus?",
+    "opts": [
+      "4th arch, right",
+      "4th arch, left",
+      "6th arch, right",
+      "6th arch, left"
+    ],
+    "ans": 3,
+    "id": "q3245",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The urachus, connecting the fetal bladder to the allantois, obliterates after birth to form which structure?",
+    "opts": [
+      "Medial umbilical ligament",
+      "Median umbilical ligament",
+      "Meckel's diverticulum (a remnant of the vitelline duct, not the urachus)",
+      "Ligamentum teres (a remnant of the umbilical vein)"
+    ],
+    "ans": 1,
+    "id": "q3246",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A patient with portal hypertension develops jaundice and abdominal pain. Anastomosis between which veins forms esophageal varices?",
+    "opts": [
+      "Left colic vein and middle colic vein",
+      "Esophageal veins (systemic, azygos) and left gastric vein (portal)",
+      "Superior rectal vein and phrenic veins",
+      "Sigmoid vein and superior rectal vein"
+    ],
+    "ans": 1,
+    "id": "q3247",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Gamma-glutamyl carboxylase, which requires vitamin K as a cofactor, activates which clotting factors?",
+    "opts": [
+      "Factors II, VIII, IX, X",
+      "Factors II, VII, IX, and X",
+      "Factors II, VII, IX, XI",
+      "Factors II, VIII, X, XI"
+    ],
+    "ans": 1,
+    "id": "q3248",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A patient has diarrhea, dermatitis, and dementia (the '3 D's'). Which vitamin deficiency should be suspected?",
+    "opts": [
+      "Vitamin B3 (niacin) deficiency (pellagra)",
+      "Vitamin B1 deficiency",
+      "Vitamin B6 deficiency",
+      "Vitamin B12 deficiency"
+    ],
+    "ans": 0,
+    "id": "q3249",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A boy has hypoglycemia and muscle cramps on exertion that resolve with rest, with decreased serum lactate during episodes (impaired glycolysis). Which disease is most likely?",
+    "opts": [
+      "McArdle disease (myophosphorylase deficiency)",
+      "Hers disease (liver phosphorylase deficiency)",
+      "Cori's disease (debranching enzyme deficiency)",
+      "Andersen disease (branching enzyme deficiency)"
+    ],
+    "ans": 0,
+    "id": "q3250",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A family eating only polished (white) rice is at risk of which vitamin deficiency and associated enzyme defect?",
+    "opts": [
+      "Riboflavin - glutathione reductase",
+      "Thiamine - transketolase",
+      "Thiamine - transaminase",
+      "Riboflavin - transketolase"
+    ],
+    "ans": 1,
+    "id": "q3251",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A chronic alcoholic presents with confusion, ataxia, and painful eye movements (ophthalmoplegia). Which vitamin deficiency is responsible (Wernicke encephalopathy)?",
+    "opts": [
+      "Vitamin B1 (thiamine) deficiency",
+      "Vitamin A deficiency",
+      "Vitamin D deficiency",
+      "Vitamin C deficiency"
+    ],
+    "ans": 0,
+    "id": "q3252",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A 4-year-old has easy fatigability and increased hunger between meals that is relieved by eating; liver examination reveals no glycogen stores. Which enzyme is most likely deficient?",
+    "opts": [
+      "Glycogen phosphorylase",
+      "Glycogen synthase",
+      "Debranching enzyme",
+      "Glucose-6-phosphatase"
+    ],
+    "ans": 1,
+    "id": "q3253",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A child has pedal edema, cheilosis, and cardiomegaly ('wet' beriberi-like picture). Which vitamin deficiency is associated with this presentation?",
+    "opts": [
+      "Riboflavin",
+      "Thiamine",
+      "Pyridoxine",
+      "Niacin"
+    ],
+    "ans": 1,
+    "id": "q3254",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A chronic alcoholic is diagnosed with gouty arthritis. Which biochemical changes are expected from alcohol-induced lactic acidosis reducing renal urate excretion?",
+    "opts": [
+      "Decreased NADH/NAD+ ratio",
+      "Increased urea and urate levels",
+      "Increased urate and lactate levels",
+      "Increased alkaline phosphatase level"
+    ],
+    "ans": 2,
+    "id": "q3255",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A child has erythematous scaly patches around the mouth, mucosal ulcers, and impaired epithelial wound healing. Which mineral deficiency is most likely?",
+    "opts": [
+      "Iron deficiency",
+      "Zinc deficiency",
+      "Calcium deficiency",
+      "Copper deficiency"
+    ],
+    "ans": 1,
+    "id": "q3256",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A patient with bleeding gums and easy bruising is diagnosed with scurvy. What is the underlying mechanism?",
+    "opts": [
+      "Low serum calcium",
+      "Defective collagen formation (impaired prolyl/lysyl hydroxylation)",
+      "Inhibition of clotting factor synthesis",
+      "Increased keratinization of the epithelium"
+    ],
+    "ans": 1,
+    "id": "q3257",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Which of the following is activated in a low insulin-to-glucagon ratio (the fasting state)?",
+    "opts": [
+      "Lipoprotein lipase",
+      "Glycogen synthase",
+      "Phosphofructokinase-1",
+      "Hormone-sensitive lipase"
+    ],
+    "ans": 3,
+    "id": "q3258",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "An infant's urine turns black on standing. Which metabolic disorder is likely?",
+    "opts": [
+      "Phenylketonuria",
+      "Alkaptonuria",
+      "Homocystinuria",
+      "Maple syrup urine disease"
+    ],
+    "ans": 1,
+    "id": "q3259",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A child who regularly eats raw eggs (containing avidin, which binds this vitamin) has thinning hair and scalp scaling. Which vitamin deficiency explains this?",
+    "opts": [
+      "Niacin",
+      "Pyridoxine",
+      "Biotin",
+      "Thiamine"
+    ],
+    "ans": 2,
+    "id": "q3260",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A child has mental retardation, bone pain, and inability to walk, with a cherry-red spot on fundoscopy but no organomegaly. What is the most likely diagnosis?",
+    "opts": [
+      "Tay-Sachs disease",
+      "Niemann-Pick disease",
+      "Hurler syndrome",
+      "Gaucher disease"
+    ],
+    "ans": 0,
+    "id": "q3261",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A woman has vision loss in the right halves of both visual fields (right homonymous hemianopia). Where is the causative lesion located?",
+    "opts": [
+      "Left optic tract",
+      "Optic radiation",
+      "Optic chiasm",
+      "Right optic tract"
+    ],
+    "ans": 0,
+    "id": "q3262",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 65-year-old diabetic woman has painless vision loss; slit-lamp exam shows a partially opaque lens with residual clear cortex, with fundus details still partly visible. What is the diagnosis and management?",
+    "opts": [
+      "Zonular cataract and lensectomy",
+      "Rosette cataract and sugar control",
+      "Sunflower cataract and lesion extraction",
+      "Immature senile cataract and phacoemulsification with IOL"
+    ],
+    "ans": 3,
+    "id": "q3263",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 5-year-old boy has a well-defined, yellowish-white, solid nodule at the inferotemporal limbus, present since early childhood. What is the diagnosis?",
+    "opts": [
+      "Pterygium",
+      "Pinguecula",
+      "Dermolipoma",
+      "Limbal dermoid"
+    ],
+    "ans": 3,
+    "id": "q3264",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 20-year-old male has a golden-brown ring at the corneal periphery (Kayser-Fleischer ring). Which investigation confirms the suspected diagnosis (Wilson disease)?",
+    "opts": [
+      "Alpha-1-antitrypsin",
+      "Alpha-fetoprotein",
+      "Serum iron",
+      "Serum ceruloplasmin"
+    ],
+    "ans": 3,
+    "id": "q3265",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "Which dye and filter combination is used to diagnose corneal ulcers/epithelial defects?",
+    "opts": [
+      "Lissamine green dye viewed under a green filter",
+      "Lissamine green dye viewed under a cobalt blue filter",
+      "Fluorescein dye viewed under a green filter",
+      "Fluorescein dye viewed under a cobalt blue filter"
+    ],
+    "ans": 3,
+    "id": "q3266",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 55-year-old man has verrucous carcinoma around the glans penis, with no palpable inguinal lymphadenopathy. What is the appropriate management?",
+    "opts": [
+      "Total penectomy",
+      "CO2 laser excision",
+      "Topical 5-fluorouracil",
+      "Partial penectomy"
+    ],
+    "ans": 3,
+    "id": "q3267",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A needle is inserted into the proximal tibial marrow cavity to establish emergency vascular access in a child in whom peripheral IV access has failed. What is this procedure called?",
+    "opts": [
+      "Intraosseous cannula for pain relief",
+      "Bone marrow aspiration (a diagnostic procedure)",
+      "Intraosseous route access for giving IV fluids",
+      "Intraosseous abscess drainage"
+    ],
+    "ans": 2,
+    "id": "q3268",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A diabetic man has sudden perineal pain with foul-smelling discharge and necrotic tissue (Fournier's gangrene). Which statement is true regarding this condition?",
+    "opts": [
+      "Anti-gas gangrene serum is indicated in all cases",
+      "Urinary diversion is the necessary next step in all cases",
+      "Bilateral orchidectomy must always be performed",
+      "It is typically a mixed aerobic and anaerobic infection"
+    ],
+    "ans": 3,
+    "id": "q3269",
+    "subject": "Surgery"
+  },
+  {
+    "q": "During abdominoperineal resection for rectal carcinoma, ligation of the inferior mesenteric artery near its origin risks injury to the hypogastric (sympathetic) nerves. What complication results?",
+    "opts": [
+      "Parasympathetic injury causing bladder dysfunction and retrograde ejaculation",
+      "Sympathetic injury causing bladder dysfunction and impotence",
+      "Sympathetic injury causing retrograde ejaculation and bladder dysfunction",
+      "Sympathetic injury causing impotence and loss of perineal cutaneous sensation"
+    ],
+    "ans": 2,
+    "id": "q3270",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A year after a traumatic chest injury, a patient develops a raised, firm, pink-purple plaque extending beyond the original wound margins at the scar site. What is the diagnosis?",
+    "opts": [
+      "Hemangioma",
+      "Hypertrophic scar",
+      "Keloid",
+      "Neurofibroma"
+    ],
+    "ans": 2,
+    "id": "q3271",
+    "subject": "Surgery"
+  },
+  {
+    "q": "After bilateral laparoscopic inguinal hernia repair, a man develops right thigh pain. Entrapment of which nerve is responsible?",
+    "opts": [
+      "Ilioinguinal nerve",
+      "Iliohypogastric nerve",
+      "Femoral nerve",
+      "Lateral cutaneous nerve of the thigh"
+    ],
+    "ans": 3,
+    "id": "q3272",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A trauma patient opens his eyes to a painful stimulus, speaks inappropriate words, and withdraws his limbs from a painful stimulus. What is his GCS score?",
+    "opts": [
+      "E2V2M3",
+      "E3V3M3",
+      "E2V3M4",
+      "E3V2M2"
+    ],
+    "ans": 1,
+    "id": "q3273",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A patient has fever, abdominal pain, and jaundice. Imaging shows a well-defined hepatic cyst with multiple internal daughter cysts. Which statement is true regarding this condition?",
+    "opts": [
+      "Surgery is mandatory in every case",
+      "Fine-needle aspiration cytology is the diagnostic procedure of choice",
+      "Angioembolization is the treatment of choice",
+      "Echinococcus species is implicated in the etiology"
+    ],
+    "ans": 3,
+    "id": "q3274",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A patient with alcohol dependence has unintentional weight loss, ALP 240 IU/L, direct bilirubin 1 mg/dL, AST/ALT ratio 0.5, and alpha-fetoprotein 600 ng/mL. What is the most likely diagnosis?",
+    "opts": [
+      "Hepatic adenoma",
+      "Cholangiocarcinoma",
+      "Hepatocellular carcinoma",
+      "Alcoholic hepatitis"
+    ],
+    "ans": 2,
+    "id": "q3275",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A woman develops an itchy, eczematous skin reaction on the scalp margin after using a hair dye. Which chemical is responsible?",
+    "opts": [
+      "Pollen",
+      "Chromates",
+      "Balsam of Peru",
+      "p-Phenylenediamine"
+    ],
+    "ans": 3,
+    "id": "q3276",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A woman's acne fails to resolve with oral isotretinoin and antibiotics. What is the next best investigation?",
+    "opts": [
+      "Look for dietary triggers",
+      "Evaluate for hyperandrogenism",
+      "Check for antibiotic resistance",
+      "Look for drug triggers"
+    ],
+    "ans": 1,
+    "id": "q3277",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "To open the airway of an unresponsive, non-trauma patient, one hand tilts the forehead back while two fingers of the other hand lift the bony part of the chin. What is this maneuver called?",
+    "opts": [
+      "Head tilt, chin lift",
+      "Jaw thrust",
+      "Head extension alone",
+      "In-line manual stabilization"
+    ],
+    "ans": 0,
+    "id": "q3278",
+    "subject": "Anaesthesia"
+  },
+  {
+    "q": "A patient has chronic pancreatitis with recurrent attacks, a 10 mm dilated pancreatic duct, and intraductal calculi. What is the surgery of choice?",
+    "opts": [
+      "Pancreaticoduodenectomy (Whipple procedure)",
+      "Longitudinal pancreaticojejunostomy (Puestow procedure)",
+      "ERCP and sphincterotomy alone",
+      "Coring of the pancreatic head"
+    ],
+    "ans": 1,
+    "id": "q3279",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A young woman has a painless genital ulcer with non-tender inguinal lymphadenopathy. What is the most likely diagnosis?",
+    "opts": [
+      "Chancroid (painful ulcer, tender nodes)",
+      "Syphilis",
+      "Herpes genitalis (painful ulcers)",
+      "Granuloma inguinale"
+    ],
+    "ans": 1,
+    "id": "q3280",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A large (>20 cm), hairy, hyperpigmented congenital melanocytic nevus is present on a newborn's back. This lesion carries a lifetime increased risk of which malignancy?",
+    "opts": [
+      "Cataract (not a malignancy)",
+      "Glaucoma (not a malignancy)",
+      "Malignant melanoma",
+      "Basal cell carcinoma"
+    ],
+    "ans": 2,
+    "id": "q3281",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "Which drug is preferred for preoperative antibiotic prophylaxis in cardiac surgery?",
+    "opts": [
+      "Penicillin G",
+      "Erythromycin",
+      "Azithromycin",
+      "Cefazolin"
+    ],
+    "ans": 3,
+    "id": "q3282",
+    "subject": "Anaesthesia"
+  },
+  {
+    "q": "A 30-year-old man has nonaxial proptosis of the left eye, 15 years after a road traffic accident. CT shows an expansile, well-defined lesion in the frontal sinus eroding into the orbit. What is the most likely diagnosis?",
+    "opts": [
+      "Frontal mucocele",
+      "Frontal meningioma",
+      "Juvenile nasopharyngeal angiofibroma",
+      "Orbital pseudotumor"
+    ],
+    "ans": 0,
+    "id": "q3283",
+    "subject": "ENT"
+  },
+  {
+    "q": "A woman has a BIRADS-5 breast lesion. Which of the following is a good prognostic factor?",
+    "opts": [
+      "BRCA-1 positivity",
+      "p53 positivity",
+      "Estrogen receptor (ER) positivity",
+      "High Ki-67 proliferation index"
+    ],
+    "ans": 2,
+    "id": "q3284",
+    "subject": "Surgery"
+  },
+  {
+    "q": "After surgery for laryngeal carcinoma, a patient now breathes permanently through a stoma in the lower neck, with no connection between the airway and the mouth or esophagus. Which surgery was performed?",
+    "opts": [
+      "Partial laryngectomy",
+      "Percutaneous tracheostomy",
+      "Standard tracheostomy",
+      "Total laryngectomy"
+    ],
+    "ans": 3,
+    "id": "q3285",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient has sudden chest pain radiating to the neck and interscapular region; X-ray shows a widened mediastinum, and BP differs between the two arms (110/90 right, 160/100 left). What is the most likely diagnosis?",
+    "opts": [
+      "Acute coronary syndrome",
+      "Acute pulmonary embolism",
+      "Acute aortic dissection",
+      "Esophageal rupture"
+    ],
+    "ans": 2,
+    "id": "q3286",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A patient with hearing loss is Rinne-negative at 256 Hz and 512 Hz but Rinne-positive at 1024 Hz. What air-bone conduction gap does this indicate?",
+    "opts": [
+      "30-45 dB",
+      "15-30 dB",
+      "45-60 dB",
+      ">60 dB"
+    ],
+    "ans": 0,
+    "id": "q3287",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient with right hypochondriac pain and diarrhea a week earlier has a 25 cc liver abscess on CT. What is the next step in management?",
+    "opts": [
+      "PAIR (percutaneous aspiration, injection, re-aspiration)",
+      "Surgery",
+      "Medical (antiamoebic) therapy",
+      "Percutaneous drainage"
+    ],
+    "ans": 2,
+    "id": "q3288",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A child has bony deformities including bowing of the long bones, widened wrists, and a rachitic rosary. Deficiency of which vitamin is responsible?",
+    "opts": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin K",
+      "Vitamin C"
+    ],
+    "ans": 1,
+    "id": "q3289",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A 50-year-old on treatment for alcohol dependence (last drink 2 weeks ago) has confusion and ataxia a week after head trauma. CT shows a crescent-shaped extra-axial collection crossing suture lines. What is the diagnosis?",
+    "opts": [
+      "Extradural hemorrhage",
+      "Subdural hemorrhage",
+      "Intraparenchymal hemorrhage",
+      "Subarachnoid hemorrhage"
+    ],
+    "ans": 1,
+    "id": "q3290",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A patient develops a rapidly spreading, foul-smelling, necrotizing skin and subcutaneous infection with undermined violaceous borders following minor trauma (Meleney's/synergistic necrotizing gangrene). Which statement is FALSE about this condition?",
+    "opts": [
+      "Repeated radical debridement every 24 hours may be required",
+      "This is a form of synergistic (Meleney's) gangrene",
+      "It is caused by hemolytic streptococcus and may be polymicrobial",
+      "Hyperbaric oxygen has no adjunctive role in treatment"
+    ],
+    "ans": 3,
+    "id": "q3291",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A bronchial asthma patient on inhaled steroids develops white patchy lesions on the tongue and buccal mucosa (oral candidiasis). Which drug treats this?",
+    "opts": [
+      "Clotrimazole",
+      "Griseofulvin",
+      "Terbinafine",
+      "Flucytosine"
+    ],
+    "ans": 0,
+    "id": "q3292",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A direct inguinal hernia is diagnosed. Weakness in which structure most likely causes this?",
+    "opts": [
+      "Pectineal ligament",
+      "Conjoint tendon",
+      "Reflected part of the inguinal ligament",
+      "Lacunar ligament"
+    ],
+    "ans": 1,
+    "id": "q3293",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A pregnant woman with bronchial asthma is in the third stage of labor. Which uterotonic should be avoided for postpartum hemorrhage due to bronchospasm risk?",
+    "opts": [
+      "Carboprost (a prostaglandin F2-alpha analog that can bronchospasm)",
+      "Oxytocin",
+      "Dinoprostone",
+      "Methylergometrine"
+    ],
+    "ans": 0,
+    "id": "q3294",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A cock-up (dorsiflexion) splint, which holds the wrist extended while leaving the fingers free, compensates for wrist drop. In which nerve injury is this used?",
+    "opts": [
+      "Radial nerve",
+      "Median nerve",
+      "Ulnar nerve",
+      "Injury causing Volkmann's ischemic contracture"
+    ],
+    "ans": 0,
+    "id": "q3295",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A drug simultaneously inhibits neprilysin (which degrades natriuretic peptides) and angiotensin-converting enzyme. What is this class of drug called?",
+    "opts": [
+      "Sacubitril (a neprilysin inhibitor alone, combined with an ARB, not ACE-I)",
+      "Omapatrilat (a vasopeptidase inhibitor)",
+      "Losartan",
+      "Nesiritide"
+    ],
+    "ans": 1,
+    "id": "q3296",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A patient has chronic knee pain with no history of trauma. X-ray shows a smoothly corticated separate ossicle at the superolateral pole of the patella. What is the diagnosis and management?",
+    "opts": [
+      "Patellar avulsion fracture, tension band wiring",
+      "Bipartite patella, X-ray of the other knee (often bilateral, no treatment needed)",
+      "Fracture of the upper pole of the patella, cylindrical cast",
+      "Avulsion fracture, interfragmentary screw fixation"
+    ],
+    "ans": 1,
+    "id": "q3297",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A construction worker who has used vibrating drills and machinery for 20 years develops episodes of white fingers (vibration white finger/Raynaud phenomenon). What is the etiology?",
+    "opts": [
+      "Candidal infection from water exposure",
+      "Exposure to thinners and paints",
+      "Continuous exposure to cement and concrete",
+      "Continuous exposure to vibrating drills and machinery"
+    ],
+    "ans": 3,
+    "id": "q3298",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A patient on long-term therapy after myocardial infarction and ventricular arrhythmia develops fatigue, dyspnea, weight gain, and pulmonary fibrosis. Which drug is responsible?",
+    "opts": [
+      "Amiodarone",
+      "Atenolol",
+      "Aspirin",
+      "Spironolactone"
+    ],
+    "ans": 0,
+    "id": "q3299",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A 5-year-old has a prolapsing rectal mass with painless bleeding; histology shows enlarged, inflamed glands filled with mucin. What is the likely diagnosis (juvenile polyp)?",
+    "opts": [
+      "Adenoma",
+      "Choristoma",
+      "Hamartoma",
+      "Carcinoma"
+    ],
+    "ans": 2,
+    "id": "q3300",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A young woman presents after consuming 100 aspirin tablets (severe salicylate overdose). What is the next step in management?",
+    "opts": [
+      "N-acetylcysteine to replenish glutathione (used for paracetamol, not aspirin)",
+      "Pralidoxime (used for organophosphate poisoning)",
+      "Glucagon for bradycardia and hypoglycemia (used for beta-blocker overdose)",
+      "Sodium bicarbonate to alkalinize the urine and enhance salicylate elimination"
+    ],
+    "ans": 3,
+    "id": "q3301",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A smoker stops taking clonidine (used for smoking cessation) and develops a headache with elevated blood pressure. What is the mechanism?",
+    "opts": [
+      "Postural hypotension",
+      "Receptor upregulation alone",
+      "Rebound hypertension from abrupt alpha-2 agonist withdrawal",
+      "Receptor hypersensitivity alone"
+    ],
+    "ans": 2,
+    "id": "q3302",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A patient with peripheral neuropathy (e.g., diabetic or leprosy) has a painless, punched-out ulcer with surrounding callus over a pressure point on the sole. What type of ulcer is this?",
+    "opts": [
+      "Venous ulcer",
+      "Malignant ulcer",
+      "Arterial ulcer",
+      "Trophic (neuropathic) ulcer"
+    ],
+    "ans": 3,
+    "id": "q3303",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A patient with recurrent gout attacks improves on a drug that inhibits uric acid synthesis. Which drug was started?",
+    "opts": [
+      "Probenecid (increases uric acid excretion, doesn't inhibit synthesis)",
+      "Colchicine (anti-inflammatory, doesn't affect synthesis)",
+      "Diclofenac (anti-inflammatory only)",
+      "Allopurinol (xanthine oxidase inhibitor)"
+    ],
+    "ans": 3,
+    "id": "q3304",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A cancer patient has reduced platelet counts after a chemotherapy cycle. Which drug can be used to raise platelet counts?",
+    "opts": [
+      "Oprelvekin (recombinant IL-11)",
+      "Filgrastim (stimulates neutrophils, not platelets)",
+      "Erythropoietin (stimulates red cells, not platelets)",
+      "Amifostine (a cytoprotective agent, not a growth factor)"
+    ],
+    "ans": 0,
+    "id": "q3305",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Which statement about angiotensin receptor blockers and their dosing/mechanism is true?",
+    "opts": [
+      "Telmisartan dose should be reduced in renal failure but not hepatic failure",
+      "Irbesartan dose should be reduced in mild-moderate hepatic and renal failure",
+      "Candesartan dose should be reduced in mild-moderate liver failure but not renal failure",
+      "Losartan's active metabolite has additional thromboxane A2 receptor antagonist activity, inhibiting platelet aggregation"
+    ],
+    "ans": 3,
+    "id": "q3306",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A patient has nighttime numbness and tingling in the lateral 3.5 digits of the hand, relieved by hanging the arm off the bed. Which condition and provocative test fit this presentation?",
+    "opts": [
+      "Guyon's canal syndrome, Froment's test",
+      "Carpal tunnel syndrome, Froment's test",
+      "Guyon's canal syndrome, Durkan's test",
+      "Carpal tunnel syndrome, Durkan's (carpal compression) test"
+    ],
+    "ans": 3,
+    "id": "q3307",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A child has a lower-limb deformity with hyperpigmented skin macules; X-ray of the thigh shows a lucent lesion with a ground-glass matrix and a shepherd's-crook deformity of the proximal femur. What is the diagnosis?",
+    "opts": [
+      "Non-ossifying fibroma",
+      "Fibrous dysplasia (McCune-Albright syndrome)",
+      "Paget's disease",
+      "Osteogenesis imperfecta"
+    ],
+    "ans": 1,
+    "id": "q3308",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A schizophrenic patient who failed to respond to haloperidol and thioridazine is started on drug A, and now has excessive salivation, hyperglycemia, and hyperlipidemia. What is drug A?",
+    "opts": [
+      "Ziprasidone",
+      "Risperidone",
+      "Clozapine",
+      "Aripiprazole"
+    ],
+    "ans": 2,
+    "id": "q3309",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 22-year-old woman's knee X-ray shows an eccentric, lytic, 'soap-bubble' lesion abutting the articular surface of the distal femur, without periosteal reaction. What is the probable diagnosis?",
+    "opts": [
+      "Chondroblastoma",
+      "Osteochondroma",
+      "Giant cell tumor of bone",
+      "Aneurysmal bone cyst"
+    ],
+    "ans": 2,
+    "id": "q3310",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "Which lung volume represents the air remaining in the lungs at the end of a normal, passive expiration (the sum of expiratory reserve volume and residual volume)?",
+    "opts": [
+      "Functional residual capacity",
+      "Tidal volume",
+      "Expiratory reserve volume",
+      "Inspiratory (or expiratory) capacity"
+    ],
+    "ans": 0,
+    "id": "q3311",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient with varicose veins has eczema in the affected region. What CEAP clinical stage does this represent?",
+    "opts": [
+      "C2 (varicose veins)",
+      "C3 (edema)",
+      "C4a (pigmentation or eczema)",
+      "C4b (lipodermatosclerosis or atrophie blanche)"
+    ],
+    "ans": 2,
+    "id": "q3312",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A patient with severe headache and BP 160/100 has a CT-confirmed subarachnoid hemorrhage. What is the next best step in management?",
+    "opts": [
+      "Nimodipine alone as definitive management",
+      "Cerebral angiography to localize the aneurysm",
+      "Immediate surgery before any imaging workup",
+      "Fibrinolytic therapy (contraindicated in hemorrhage)"
+    ],
+    "ans": 1,
+    "id": "q3313",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A man collapses while working outdoors, with a temperature of 105°F and decreased skin turgor (classic heat stroke). Which of the following would NOT be seen?",
+    "opts": [
+      "Tachypnea",
+      "Hypotension",
+      "Sweating (thermoregulatory sweating typically fails in heat stroke)",
+      "Hot, dry, flushed skin"
+    ],
+    "ans": 2,
+    "id": "q3314",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which of the following correctly ranks four renally handled substances by their clearance, from lowest to highest: a freely filtered and completely reabsorbed substance (glucose), a filtered and variably reabsorbed substance (bicarbonate), a filtered-only marker (inulin, equal to GFR), and a filtered-and-actively-secreted substance (PAH)?",
+    "opts": [
+      "Glucose < PAH < Bicarbonate < Inulin",
+      "Glucose < Bicarbonate < Inulin < PAH",
+      "PAH < Inulin < Glucose < Bicarbonate",
+      "Inulin < Glucose < Bicarbonate < PAH"
+    ],
+    "ans": 1,
+    "id": "q3315",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A 20-year-old woman ingests a cleaning product containing 90% sodium hydroxide and has complete dysphagia from severe corrosive esophageal injury. What is the best step in management?",
+    "opts": [
+      "Esophagojejunostomy (a later reconstructive option, not immediate)",
+      "Esophageal stent placement (risky in acute severe corrosive injury)",
+      "Feeding jejunostomy for nutritional support",
+      "Gastrojejunostomy"
+    ],
+    "ans": 2,
+    "id": "q3316",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A 23-year-old man has a midline neck swelling that moves with swallowing and tongue protrusion. What is the likely diagnosis?",
+    "opts": [
+      "Branchial cyst",
+      "Thyroglossal cyst",
+      "Plunging ranula",
+      "Dermoid cyst"
+    ],
+    "ans": 1,
+    "id": "q3317",
+    "subject": "Surgery"
+  },
+  {
+    "q": "On a nerve action potential trace, the interval from the peak of depolarization until the membrane potential returns close to, but has not yet reached, resting potential is termed the:",
+    "opts": [
+      "The threshold point alone",
+      "A period of maximal excitability",
+      "Rapid Na+ channel opening with K+ channel closure",
+      "The relative and absolute refractory period"
+    ],
+    "ans": 3,
+    "id": "q3318",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient with 5 days of fever has BP 90/60, PR 120, RR 24, GCS 10, leukocytosis with neutrophilia, and creatinine 2.6 mg/dL. Which three variables comprise the quick SOFA (qSOFA) score used to predict sepsis prognosis?",
+    "opts": [
+      "Blood pressure, respiratory rate, and complete blood count",
+      "Creatinine, pulse rate, and blood pressure",
+      "Respiratory rate, body temperature, and pulse rate",
+      "Systolic BP, respiratory rate, and GCS score"
+    ],
+    "ans": 3,
+    "id": "q3319",
+    "subject": "Surgery"
+  },
+  {
+    "q": "Glucose crosses the cell membrane via GLUT transporter proteins, moving down its concentration gradient without direct ATP consumption. What type of transport is this?",
+    "opts": [
+      "Simple diffusion",
+      "Facilitated diffusion",
+      "Primary active transport",
+      "Secondary active transport"
+    ],
+    "ans": 1,
+    "id": "q3320",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient has a pansystolic murmur loudest at the apex, radiating to the axilla. Which valvular condition does this indicate?",
+    "opts": [
+      "Mitral regurgitation",
+      "Aortic regurgitation",
+      "Aortic stenosis",
+      "Mitral stenosis"
+    ],
+    "ans": 0,
+    "id": "q3321",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A woman 5 days postpartum has brief episodes of tearfulness and mood lability that are expected to resolve spontaneously within about two weeks, without functional impairment. What is this called?",
+    "opts": [
+      "Postpartum depression",
+      "Postpartum blues",
+      "Postpartum psychosis",
+      "Postpartum anxiety disorder"
+    ],
+    "ans": 1,
+    "id": "q3322",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A woman has recurrent episodes of anxiety, palpitations, sweating, breathlessness, chest pain, and a sense of impending doom, each lasting 20-30 minutes, over the past 6 months. What is the likely diagnosis?",
+    "opts": [
+      "Depression",
+      "Panic disorder",
+      "Generalized anxiety disorder",
+      "A specific phobia"
+    ],
+    "ans": 1,
+    "id": "q3323",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A young man has early-morning backache and stiffness that improves with exercise, persistent red eyes, and reduced chest expansion (<3 cm). X-ray of the sacroiliac joints shows bilateral sacroiliitis with sclerosis. What is the most probable diagnosis?",
+    "opts": [
+      "Ankylosing spondylitis",
+      "Paget's disease",
+      "Healed tuberculosis",
+      "Osteopetrosis"
+    ],
+    "ans": 0,
+    "id": "q3324",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient with hyperkalemia and uremia undergoes dialysis; toward the end of the session she becomes drowsy, has a seizure, and is hypotensive (dialysis disequilibrium syndrome). What is the treatment?",
+    "opts": [
+      "Bumetanide",
+      "Ethacrynic acid",
+      "Nesiritide",
+      "IV mannitol"
+    ],
+    "ans": 3,
+    "id": "q3325",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A woman with known bronchial asthma has severe restlessness, palpitations, tremors, a swollen neck, elevated blood pressure, tachycardia, and atrial fibrillation on ECG (thyroid storm). Which drug is used for immediate rate control given her asthma?",
+    "opts": [
+      "Diltiazem",
+      "Propranolol (relatively contraindicated in asthma, but classically preferred in thyroid storm for its additional anti-thyroid peripheral T4-to-T3 conversion blockade)",
+      "Esmolol",
+      "Propylthiouracil (treats the underlying cause, not immediate rate control)"
+    ],
+    "ans": 0,
+    "id": "q3326",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A preterm baby born at 28 weeks develops respiratory distress syndrome from surfactant deficiency. What happens to alveolar surface tension and lung compliance?",
+    "opts": [
+      "Surface tension decreased, compliance increased",
+      "Surface tension increased, compliance decreased",
+      "Both surface tension and compliance decreased",
+      "Both surface tension and compliance increased"
+    ],
+    "ans": 1,
+    "id": "q3327",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A middle-aged man complains of very early (premature) ejaculation. What non-pharmacological technique can be advised?",
+    "opts": [
+      "Cognitive behavioral therapy alone",
+      "Exposure and response prevention therapy (used for OCD)",
+      "The squeeze technique",
+      "Sensate focus therapy (used more broadly for sexual dysfunction)"
+    ],
+    "ans": 2,
+    "id": "q3328",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A 30-year-old man is HBsAg and HBeAg positive with chronic hepatitis B, a viral load of 2x10^5, and doubled SGPT. What is the appropriate management?",
+    "opts": [
+      "Lamivudine for 30+ weeks",
+      "Tenofovir for >40 weeks",
+      "Pegylated interferon for 52 weeks",
+      "Combined pegylated interferon with lamivudine"
+    ],
+    "ans": 1,
+    "id": "q3329",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 25-year-old man has palpitations, sweating, restlessness, and sweaty palms, with bilateral exophthalmos, lid retraction, and a diffusely enlarged, non-tender thyroid on examination. Which diagnostic test confirms Graves' disease?",
+    "opts": [
+      "Anti-thyroglobulin antibody",
+      "Anti-thyroid peroxidase antibody",
+      "TSH-receptor antibody (TRAb/TSI)",
+      "Elevated ultrasensitive TSH (TSH is suppressed in Graves')"
+    ],
+    "ans": 2,
+    "id": "q3330",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 50-year-old HIV patient has multiple painless violaceous (purple-brown) papules and plaques on the skin. What is the most likely diagnosis?",
+    "opts": [
+      "Basal cell carcinoma",
+      "Kaposi sarcoma",
+      "Malignant melanoma",
+      "Squamous cell carcinoma"
+    ],
+    "ans": 1,
+    "id": "q3331",
+    "subject": "Medicine"
+  },
+  {
+    "q": "After a road traffic accident with severe muscle injury (rhabdomyolysis), a patient's serum K+ is 5.5 mEq/L. What happens to the resting membrane potential?",
+    "opts": [
+      "No change",
+      "It becomes more negative (hyperpolarized)",
+      "It becomes more positive (depolarized, closer to threshold)",
+      "It first becomes more positive, then more negative"
+    ],
+    "ans": 2,
+    "id": "q3332",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A newborn with chest retractions, dyspnea, and lethargy is diagnosed with respiratory distress syndrome. This occurs due to deficiency of which surfactant component?",
+    "opts": [
+      "Dipalmitoyl inositol",
+      "Dipalmitoylphosphatidylcholine (lecithin)",
+      "Sphingomyelin",
+      "Dipalmitoylphosphatidylethanolamine"
+    ],
+    "ans": 1,
+    "id": "q3333",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A man's wife reports he has difficulty expressing emotions and has withdrawn from daily activities; examination shows resting tremor and rigidity (Parkinsonism). Which brain region is affected?",
+    "opts": [
+      "Basal ganglia",
+      "Hippocampus",
+      "Cerebellum",
+      "Premotor cortex"
+    ],
+    "ans": 0,
+    "id": "q3334",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 45-year-old HIV-positive man has persistent cough, weight loss, and umbilicated papules and nodules on the face, trunk, and upper limbs, with bilateral nodular infiltrates on chest X-ray. Sputum CBNAAT for TB is negative and CD4 count is low. What is the probable diagnosis?",
+    "opts": [
+      "HIV with disseminated histoplasmosis",
+      "HIV with disseminated cryptococcosis",
+      "HIV with molluscum contagiosum (typically small umbilicated papules without systemic/pulmonary disease)",
+      "HIV with tuberculosis"
+    ],
+    "ans": 0,
+    "id": "q3335",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A cervical spine fracture fragment pierces the lateral aspect of the dorsal columns, where the fasciculus cuneatus (carrying upper-limb proprioceptive fibers) is located. What deficit results?",
+    "opts": [
+      "Absence of ipsilateral lower-limb proprioception",
+      "Absence of fine motor movement of the fingers (a corticospinal, not dorsal column, deficit)",
+      "Absence of ipsilateral arm proprioception",
+      "Absence of contralateral lower-limb proprioception"
+    ],
+    "ans": 2,
+    "id": "q3336",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A man has seizures with fever, headache, and confusion; MRI shows inflammation involving the bitemporal lobes. What is the most likely etiology?",
+    "opts": [
+      "Cytomegalovirus",
+      "Toxoplasma gondii",
+      "Herpes simplex virus",
+      "Mycobacterium tuberculosis"
+    ],
+    "ans": 2,
+    "id": "q3337",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Which mechanism produces the plateau phase of the ventricular myocardial action potential?",
+    "opts": [
+      "Opening of fast Na+ channels with closure of fast K+ channels",
+      "Slow, prolonged opening of L-type Ca2+ channels balanced by outward K+ current",
+      "Closure of Na+ channels with opening of slow K+ channels alone",
+      "Na+/K+ ATPase activity"
+    ],
+    "ans": 1,
+    "id": "q3338",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A man has sensory loss and limb weakness for 3 months, with angular stomatitis, loss of proprioception and vibration sense, upper motor neuron signs in the legs, and absent ankle reflexes. What is the most probable diagnosis?",
+    "opts": [
+      "Extradural cord compression",
+      "Amyotrophic lateral sclerosis",
+      "Multiple sclerosis",
+      "Subacute combined degeneration of the cord (vitamin B12 deficiency)"
+    ],
+    "ans": 3,
+    "id": "q3339",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 10-year-old, 30 kg child has 2 days of loose stools with severe dehydration; RBS 550 mg/dL, pH 7.01, Na+ 158 mEq/L, urine glucose 3+ (diabetic ketoacidosis). What is the initial management per DKA guidelines?",
+    "opts": [
+      "Manage ABC, normal saline 20 mL/kg, and start insulin after 1 hour",
+      "Manage ABC, normal saline 20 mL/kg, with insulin 0.1 IU/kg/hr started immediately",
+      "Manage ABC, normal saline 10 mL/kg, with insulin 0.1 IU/kg/hr started immediately",
+      "Manage ABC, normal saline 10 mL/kg, and start insulin after 1 hour"
+    ],
+    "ans": 0,
+    "id": "q3340",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "For an infant with a birth weight of 2.8 kg, what is the best sign of adequate growth?",
+    "opts": [
+      "An increase in length of about 25 cm in the first year",
+      "Weight gain of exactly 300 grams per month until 1 year (growth rate actually slows over the year)",
+      "Anterior fontanelle closure by 6 months of age (usually closes by 12-18 months)",
+      "Weight under the 75th percentile and height under the 25th percentile"
+    ],
+    "ans": 0,
+    "id": "q3341",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A 40-year-old woman has chest pain, palpitations, and shortness of breath, with a mid-diastolic murmur and a prominent 'a' wave on JVP. What is the most likely diagnosis?",
+    "opts": [
+      "Mitral stenosis",
+      "Tricuspid stenosis",
+      "Mitral regurgitation",
+      "Tricuspid regurgitation"
+    ],
+    "ans": 1,
+    "id": "q3342",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 3-month-old has deafness, cataract, and patent ductus arteriosus. What is the most likely diagnosis?",
+    "opts": [
+      "Congenital herpes simplex infection",
+      "Congenital toxoplasmosis",
+      "Congenital cytomegalovirus infection",
+      "Congenital rubella syndrome"
+    ],
+    "ans": 3,
+    "id": "q3343",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "Farmers in a village who eat only rice and pulses (no fruits or vegetables) develop joint/bone pain leading to an abnormal, stick-assisted gait. Supplementing which vitamin could have prevented this?",
+    "opts": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin B-complex"
+    ],
+    "ans": 2,
+    "id": "q3344",
+    "subject": "PSM"
+  },
+  {
+    "q": "Researchers compare bladder cancer incidence in aniline dye workers versus office clerks in the same industry over >20 years of occupational records, tracking forward from exposure status recorded in the past. What type of study is this?",
+    "opts": [
+      "Retrospective cohort study",
+      "Prospective cohort study",
+      "Case-control study",
+      "An intervention (experimental) study"
+    ],
+    "ans": 0,
+    "id": "q3345",
+    "subject": "PSM"
+  },
+  {
+    "q": "Elevated chloride level in sweat is used to diagnose which disease?",
+    "opts": [
+      "Phenylketonuria",
+      "Cystic fibrosis",
+      "Gaucher's disease",
+      "Osteogenesis imperfecta"
+    ],
+    "ans": 1,
+    "id": "q3346",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A child has fever and a rash spreading from the face and behind the ears to the rest of the body, with Koplik's spots on the buccal mucosa. What is the diagnosis?",
+    "opts": [
+      "Measles",
+      "Rubella",
+      "Varicella",
+      "Mumps"
+    ],
+    "ans": 0,
+    "id": "q3347",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "In a population followed from childhood to adulthood, those with lower blood pressure in childhood tend to have lower BP as adults, and vice versa. What is this phenomenon called?",
+    "opts": [
+      "Rule of halves",
+      "Tracking of blood pressure",
+      "STEPwise approach",
+      "Primordial prevention approach"
+    ],
+    "ans": 1,
+    "id": "q3348",
+    "subject": "PSM"
+  },
+  {
+    "q": "A 3-week-old has cough and paroxysms followed by apnea, with a total leukocyte count >50,000/uL (suggesting pertussis). Which drug should be prescribed?",
+    "opts": [
+      "Azithromycin",
+      "Amoxicillin",
+      "Cotrimoxazole",
+      "Clarithromycin"
+    ],
+    "ans": 0,
+    "id": "q3349",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A primigravida at 30 weeks has night blindness and has been avoiding papaya and mango, believing them to cause miscarriage. Whose primary duty is it to counsel her about safe nutrition in pregnancy?",
+    "opts": [
+      "Auxiliary nurse midwife (ANM)",
+      "Anganwadi worker (AWW)",
+      "Trained birth attendant",
+      "ASHA (Accredited Social Health Activist) worker"
+    ],
+    "ans": 3,
+    "id": "q3350",
+    "subject": "PSM"
+  },
+  {
+    "q": "Which pharyngeal recess, located posterior and superior to the torus tubarius (the opening of the Eustachian tube), is the most common site of origin of nasopharyngeal carcinoma?",
+    "opts": [
+      "Fossa of Rosenmuller",
+      "Tubal tonsil",
+      "Opening of the Eustachian tube itself",
+      "Adenoid"
+    ],
+    "ans": 0,
+    "id": "q3351",
+    "subject": "ENT"
+  },
+  {
+    "q": "A woman with minimal vaginal discharge and cervical erosions on speculum exam presents to an STI clinic. Under India's syndromic management color-coded kits, which kit is given for cervical discharge/erosion syndrome?",
+    "opts": [
+      "Green kit",
+      "Red kit",
+      "Grey kit",
+      "Yellow kit"
+    ],
+    "ans": 2,
+    "id": "q3352",
+    "subject": "PSM"
+  },
+  {
+    "q": "Years of potential life lost (YPLL) is a measure primarily attributable to which of the following?",
+    "opts": [
+      "Years lost to morbidity",
+      "Years lost due to premature death",
+      "Years lost to disability",
+      "Years lost to poor quality of life"
+    ],
+    "ans": 1,
+    "id": "q3353",
+    "subject": "PSM"
+  },
+  {
+    "q": "An oropharyngeal (Guedel) airway is inserted in an unconscious patient to keep the tongue from obstructing the airway. For which of the following is this device NOT used?",
+    "opts": [
+      "Airway toileting (guiding suction)",
+      "Upper airway examination (a laryngoscope is used for this, not this device)",
+      "Relieving acute nasopharyngeal obstruction from a falling tongue",
+      "Prolonged mechanical ventilation is NOT achieved with this device either"
+    ],
+    "ans": 1,
+    "id": "q3354",
+    "subject": "ENT"
+  },
+  {
+    "q": "In a 10-year-old school child, which vaccine is given as part of the school immunization program?",
+    "opts": [
+      "Measles vaccine",
+      "Rotavirus vaccine",
+      "TT/Td vaccine",
+      "Hepatitis B vaccine"
+    ],
+    "ans": 2,
+    "id": "q3355",
+    "subject": "PSM"
+  },
+  {
+    "q": "A 10-year-old with recurrent tonsillitis has throat pain, fever, and referred ear pain. Which nerve carries this referred otalgia?",
+    "opts": [
+      "Tympanic branch of the glossopharyngeal nerve (Jacobson's nerve)",
+      "Greater auricular nerve",
+      "Auriculotemporal nerve",
+      "Auricular branch of the vagus nerve"
+    ],
+    "ans": 0,
+    "id": "q3356",
+    "subject": "ENT"
+  },
+  {
+    "q": "Which statement is true about cancer treatment support under the Colombo Plan?",
+    "opts": [
+      "It helped provide PET scan units for cancer diagnosis",
+      "It focused on human resource strengthening alone",
+      "It helped set up chemotherapy units",
+      "It helped set up cobalt (radiotherapy) therapy units"
+    ],
+    "ans": 3,
+    "id": "q3357",
+    "subject": "PSM"
+  },
+  {
+    "q": "A farmer with repeated crop failures who has been eating grass pea (Lathyrus sativus) develops progressive spastic paraparesis and gait instability (lathyrism). Which toxin is responsible?",
+    "opts": [
+      "Aflatoxin",
+      "Beta-oxalyl-amino-alanine (BOAA)",
+      "Ergot alkaloids",
+      "A Fusarium mycotoxin"
+    ],
+    "ans": 1,
+    "id": "q3358",
+    "subject": "PSM"
+  },
+  {
+    "q": "A man has a clean-cut wound without bleeding; he completed a full tetanus vaccination course 10 years ago. What is the best management?",
+    "opts": [
+      "Human tetanus immunoglobulin plus a full vaccine course",
+      "Human tetanus immunoglobulin alone",
+      "A single booster dose of tetanus toxoid",
+      "A full course of tetanus toxoid"
+    ],
+    "ans": 2,
+    "id": "q3359",
+    "subject": "PSM"
+  },
+  {
+    "q": "During an outbreak investigation, how should a water sample be collected for bacteriological examination from a tap?",
+    "opts": [
+      "Collect from an already leaking tap",
+      "Let the water flow for at least 1 minute before collecting",
+      "Keep the sample container close to the tap to avoid spillage (risks contamination)",
+      "Collect from a gentle, steady stream to avoid splashing, using aseptic technique"
+    ],
+    "ans": 3,
+    "id": "q3360",
+    "subject": "PSM"
+  },
+  {
+    "q": "A boys' hostel has an outbreak of fever, headache, and a pleomorphic rash sparing the palms and soles, suggestive of chickenpox/meningococcemia-type presentation requiring isolation. What is the next best step for suspected contacts?",
+    "opts": [
+      "Isolate for 6 days after acyclovir, with VZIG within 72 hours of exposure for susceptible contacts",
+      "Isolate for 12 days after acyclovir, with VZIG within 48 hours of exposure",
+      "Isolate for 6 days without further prophylaxis",
+      "Give VZIG only, without isolation"
+    ],
+    "ans": 0,
+    "id": "q3361",
+    "subject": "PSM"
+  },
+  {
+    "q": "A hypertensive patient on multiple antihypertensives has an ECG showing tall, peaked T waves with a shortened QT interval, consistent with hyperkalemia. Which of his medications is responsible?",
+    "opts": [
+      "Prazosin",
+      "Metoprolol",
+      "Hydrochlorothiazide (causes hypokalemia, not hyperkalemia)",
+      "Spironolactone (a potassium-sparing diuretic)"
+    ],
+    "ans": 3,
+    "id": "q3362",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 78-year-old woman has progressive functional decline with visual hallucinations and fluctuating cognition; pathology shows Lewy bodies within neurons. What is the most probable diagnosis?",
+    "opts": [
+      "Dementia with Lewy bodies / Parkinson's disease dementia",
+      "Prion disease",
+      "Huntington's chorea",
+      "Alzheimer's disease"
+    ],
+    "ans": 0,
+    "id": "q3363",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A man has polyuria after total hypophysectomy, with Na+ 155 mEq/L and urine osmolarity 200 mOsm/L (central diabetes insipidus). What is the definitive management?",
+    "opts": [
+      "DDAVP for 2 weeks only, then discontinue",
+      "Lifelong DDAVP supplementation",
+      "No treatment is required, as receptors will reset",
+      "Thiazides for 2 weeks only"
+    ],
+    "ans": 1,
+    "id": "q3364",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 65-year-old smoker has upper chest discomfort, a drooping eyelid (ptosis), pain radiating to the upper arm, and tingling in the 4th and 5th digits of the left hand. Chest X-ray shows an apical lung mass with local rib destruction. What is the most likely diagnosis?",
+    "opts": [
+      "Pancoast tumor",
+      "Upper lobe pneumonia",
+      "Superior vena cava obstruction",
+      "Aspergilloma"
+    ],
+    "ans": 0,
+    "id": "q3365",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A chronic alcoholic has acute pain and swelling of the great toe with no trauma history; synovial fluid shows raised leukocytes, but serum uric acid is normal. What is the most likely diagnosis?",
+    "opts": [
+      "Pseudogout",
+      "Acute gout (serum uric acid can be normal during an acute attack)",
+      "Reactive arthritis",
+      "Septic arthritis"
+    ],
+    "ans": 1,
+    "id": "q3366",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A chronic alcoholic has confusion, ataxia, painful eye movements, and sixth cranial nerve involvement. What is the likely diagnosis?",
+    "opts": [
+      "Wernicke's encephalopathy",
+      "Korsakoff psychosis",
+      "Delirium tremens",
+      "De Clerambault syndrome"
+    ],
+    "ans": 0,
+    "id": "q3367",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "A patient on digoxin has nausea and vomiting; serum digoxin is 4 mg/dL against a therapeutic range of 1 mg/dL, with a half-life of 40 hours. Roughly how many half-lives (and hours) are needed to fall from 4x to within therapeutic range?",
+    "opts": [
+      "40 hours (one half-life)",
+      "80 hours (two half-lives, roughly halving twice)",
+      "120 hours (three half-lives)",
+      "140-180 hours (four-plus half-lives)"
+    ],
+    "ans": 1,
+    "id": "q3368",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A patient with organophosphate poisoning is started on atropine infusion and pralidoxime; after 2 hours he develops a sudden rise in temperature. What is the likely cause of the fever?",
+    "opts": [
+      "Atropine toxicity (anticholinergic effect impairing sweating)",
+      "A side effect of pralidoxime",
+      "Direct effect of the organophosphate itself",
+      "An idiopathic, unrelated cause"
+    ],
+    "ans": 0,
+    "id": "q3369",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A laboring woman's cervicograph crosses the action line on the partogram despite adequate oxytocin augmentation, indicating arrest of labor. How should she be managed?",
+    "opts": [
+      "Forceps-assisted delivery",
+      "Vacuum-assisted delivery",
+      "Continue oxytocin infusion",
+      "Cesarean section"
+    ],
+    "ans": 3,
+    "id": "q3370",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "What is the mechanism of action of tissue plasminogen activator (tPA)?",
+    "opts": [
+      "Inhibits the extrinsic coagulation pathway",
+      "Inhibits platelet aggregation",
+      "Enhances fibrin degradation by converting plasminogen to plasmin",
+      "Directly inhibits clot (thrombus) formation"
+    ],
+    "ans": 2,
+    "id": "q3371",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A woman at 36 weeks has breathlessness and abdominal distension, with normal fetal movements but poorly felt fetal parts, a muffled fetal heartbeat, and symphysis-fundal height of 41 cm. The abdomen is tense but non-tender. What is the most likely diagnosis?",
+    "opts": [
+      "Abruptio placentae",
+      "Fetal hydrocephalus",
+      "Polyhydramnios",
+      "Fetal-maternal ascites"
+    ],
+    "ans": 2,
+    "id": "q3372",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "For which of the following gynecological conditions is hysteroscopy the preferred procedure?",
+    "opts": [
+      "Tubal ligation",
+      "Asherman syndrome (intrauterine adhesions)",
+      "Endocervical polyp removal alone (usually done via simple avulsion, not necessarily hysteroscopy)",
+      "Subserosal fibroid (better approached laparoscopically)"
+    ],
+    "ans": 1,
+    "id": "q3373",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A primigravida at 7 weeks gestation has a hemoglobin of 9 g/dL. When should iron supplementation ideally be started?",
+    "opts": [
+      "10 to 12 weeks",
+      "8 to 10 weeks",
+      "After 14 weeks",
+      "After 20 weeks"
+    ],
+    "ans": 1,
+    "id": "q3374",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A 23-year-old woman has been trying to conceive with regular intercourse for 6 months without success. What is the next best step?",
+    "opts": [
+      "Semen analysis for the husband",
+      "Reassure and review the couple after 6 more months (infertility workup starts after 12 months, or 6 months if age >35)",
+      "Hysterolaparoscopy",
+      "Diagnostic hysteroscopy"
+    ],
+    "ans": 1,
+    "id": "q3375",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "The recovery (lateral) position, with the head tilted to keep the airway open and the upper leg flexed for stability, is used in which clinical situation?",
+    "opts": [
+      "Unconsciousness with pulse and breathing absent (requires CPR, not recovery position)",
+      "Unconsciousness with pulse present and breathing absent (requires rescue breaths, not recovery position)",
+      "Unconsciousness with pulse and breathing both present",
+      "Unconsciousness with pulse absent and breathing present (requires CPR)"
+    ],
+    "ans": 2,
+    "id": "q3376",
+    "subject": "Anaesthesia"
+  },
+  {
+    "q": "A 50-year-old woman has foul-smelling bloody vaginal discharge with a necrotizing cervical growth involving the lateral parametrium (stage IIIB). What is the management?",
+    "opts": [
+      "Chemotherapy alone",
+      "Brachytherapy alone",
+      "Concurrent chemoradiation",
+      "Radical surgery"
+    ],
+    "ans": 2,
+    "id": "q3377",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A 28-year-old woman with multiple sexual partners has lower abdominal pain for a month, minimal discharge, and intermenstrual bleeding. What is the most likely cause?",
+    "opts": [
+      "Herpes simplex",
+      "Genital tuberculosis",
+      "Candida infection",
+      "Neisseria gonorrhoeae"
+    ],
+    "ans": 1,
+    "id": "q3378",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A woman is scheduled for total laparoscopic hysterectomy and asks about disadvantages compared to open surgery. What is a key disadvantage of the laparoscopic approach?",
+    "opts": [
+      "Prolonged recovery time (actually usually shorter than open surgery)",
+      "The full extent of thermal energy-related tissue injury may not be immediately apparent",
+      "Increased intraoperative bleeding (usually less than open surgery)",
+      "Increased postoperative pain (usually less than open surgery)"
+    ],
+    "ans": 1,
+    "id": "q3379",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A 27-year-old G3P2L2 woman at 36+6 weeks has a transverse lie on ultrasound, with adequate liquor, normal placenta, no risk factors, and two prior normal vaginal deliveries. How should she be managed?",
+    "opts": [
+      "Cesarean section",
+      "External cephalic version",
+      "Expectant management (await spontaneous version, given her favorable multiparous history)",
+      "Induction of labor"
+    ],
+    "ans": 1,
+    "id": "q3380",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A woman with 6 weeks amenorrhea has vaginal bleeding, mild abdominal pain, beta-hCG 2800 IU/L, and a 3x2.5 cm left adnexal mass; she is hemodynamically stable (unruptured ectopic pregnancy). How should she be managed?",
+    "opts": [
+      "Oral methotrexate",
+      "Single-dose intramuscular methotrexate injection",
+      "Serial methotrexate with leucovorin rescue (used for higher-risk/persistent cases)",
+      "Salpingectomy (surgery reserved for ruptured or methotrexate-ineligible cases)"
+    ],
+    "ans": 1,
+    "id": "q3381",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A woman on human menopausal gonadotropin for infertility develops sudden abdominal pain, nausea, vomiting, and breathlessness; ultrasound shows bilaterally enlarged ovaries with multiple large theca-lutein cysts and free abdominal fluid. What is the most likely diagnosis?",
+    "opts": [
+      "Ovarian hyperstimulation syndrome",
+      "Polycystic ovarian syndrome",
+      "Isolated theca lutein cysts",
+      "Granulosa cell tumor"
+    ],
+    "ans": 0,
+    "id": "q3382",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "During hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL is noted from the distension medium. What is the immediate concerning complication?",
+    "opts": [
+      "Acute tubular necrosis",
+      "Disseminated intravascular coagulation",
+      "Pulmonary edema from fluid overload",
+      "Thromboembolism"
+    ],
+    "ans": 2,
+    "id": "q3383",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A woman with multiple sexual partners has perineal pain and swelling, difficulty walking and sitting, with a tender, red swelling on the labia. What is the most likely diagnosis?",
+    "opts": [
+      "Chlamydial infection",
+      "Bartholin's gland abscess",
+      "Genital tuberculosis",
+      "Herpes infection"
+    ],
+    "ans": 1,
+    "id": "q3384",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A 54-year-old woman is diagnosed with advanced cervical cancer. She has a 14-year-old daughter. What advice would you give regarding the daughter's cancer prevention?",
+    "opts": [
+      "Advise HPV vaccination",
+      "Screen for a BRCA mutation (relevant to breast/ovarian, not cervical, cancer)",
+      "Screen for a PTEN mutation (relevant to Cowden syndrome, not cervical cancer)",
+      "Perform a cervical biopsy on the daughter now (not indicated in an asymptomatic teenager)"
+    ],
+    "ans": 0,
+    "id": "q3385",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A 17-year-old girl has primary amenorrhea with no breast, pubic, or axillary hair development, height 155 cm, weight 48 kg, bilateral inguinal masses, and an absent uterus, fallopian tubes, and ovaries on ultrasound. What is the most likely diagnosis?",
+    "opts": [
+      "Complete androgen insensitivity syndrome (which typically retains breast development)",
+      "Hypergonadotropic hypogonadism from gonadal dysgenesis (fitting the complete absence of secondary sexual characteristics)",
+      "Turner syndrome (typically has a uterus present, and short stature/webbed neck features)",
+      "Polycystic ovary syndrome"
+    ],
+    "ans": 1,
+    "id": "q3386",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A woman with stage IIA cervical cancer is given chemotherapy before radical surgery. What does this neoadjuvant approach mean?",
+    "opts": [
+      "Chemotherapy given together with radiation",
+      "Chemotherapy given during the surgery itself",
+      "Chemotherapy given before radical surgery to shrink tumor bulk",
+      "Chemotherapy given after radical surgery for micrometastases"
+    ],
+    "ans": 2,
+    "id": "q3387",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A 16-year-old with monthly cyclical pelvic pain has not reached menarche; a suprapubic bulge is seen, and rectal exam reveals a bulging anterior swelling. What is the most likely diagnosis?",
+    "opts": [
+      "Transverse vaginal septum above the vagina",
+      "Vaginal atresia",
+      "Imperforate hymen",
+      "Cervical agenesis"
+    ],
+    "ans": 2,
+    "id": "q3388",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A pregnant woman already has twins delivered vaginally. What is the correct representation of her current obstetric score?",
+    "opts": [
+      "G3P2",
+      "G3P1",
+      "G2P1",
+      "G2P2"
+    ],
+    "ans": 2,
+    "id": "q3389",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A patient on aspirin for arthritis, with occasional alcohol use and occasional abdominal pain, has sudden hematemesis with no abdominal mass or tenderness. What is the likely diagnosis?",
+    "opts": [
+      "Mallory-Weiss tear",
+      "Esophagitis",
+      "Peptic ulcer disease (aspirin-induced)",
+      "Esophageal varices"
+    ],
+    "ans": 2,
+    "id": "q3390",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A woman at 36 weeks feels lightheaded and dizzy when lying on her back, relieved by lying on her side or walking. What is the most likely reason?",
+    "opts": [
+      "Increased intracranial pressure",
+      "Inferior vena cava compression by the gravid uterus (supine hypotensive syndrome)",
+      "Heavy meals",
+      "Excessive venous pooling in the feet"
+    ],
+    "ans": 1,
+    "id": "q3391",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A 40-year-old man has a slowly enlarging swelling over 2 years, of variable consistency and fully mobile on examination. What is the most likely diagnosis?",
+    "opts": [
+      "Dermoid cyst",
+      "Parotid tumor",
+      "Sebaceous cyst",
+      "Cervical lymph node"
+    ],
+    "ans": 1,
+    "id": "q3392",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A woman with endometrial carcinoma is undergoing radiotherapy. Which statement is true?",
+    "opts": [
+      "Radiation intensity is inversely proportional to the square of the distance from the source",
+      "Small blood vessels are the most radioresistant tissue",
+      "Rapidly proliferating cells are the most radioresistant (they are actually the most radiosensitive)",
+      "Small intestinal mucosa is the most radioresistant tissue (it is actually highly radiosensitive)"
+    ],
+    "ans": 0,
+    "id": "q3393",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A child eats fruit from the garden and develops high fever, confusion, photophobia, and urinary retention (anticholinergic toxidrome). What is the likely causative plant and antidote?",
+    "opts": [
+      "Datura, pralidoxime",
+      "Datura, physostigmine",
+      "Yellow oleander, pralidoxime",
+      "Yellow oleander, physostigmine"
+    ],
+    "ans": 1,
+    "id": "q3394",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A patient has fever, cough, and crepitations for 3-5 days. Chest X-ray shows a triangular opacity abutting and obliterating the right heart border, while the right hemidiaphragm remains clearly visible (positive silhouette sign). Which lobe is consolidated?",
+    "opts": [
+      "Apical segment of the right lower lobe",
+      "Right middle lobe",
+      "Posterior segment of the right lower lobe",
+      "A loculated pleural effusion"
+    ],
+    "ans": 1,
+    "id": "q3395",
+    "subject": "Radiology"
+  },
+  {
+    "q": "Injury to which nerve, classically compressed at the neck of the fibula, causes foot drop (failure of dorsiflexion)?",
+    "opts": [
+      "Common peroneal (fibular) nerve",
+      "Tibial nerve",
+      "Superficial peroneal nerve alone",
+      "Deep peroneal nerve alone (a branch of the common peroneal)"
+    ],
+    "ans": 0,
+    "id": "q3396",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A patient has a painful swelling just below the left ear lobule. Pain here classically involves which cutaneous nerve, which crosses the parotid region?",
+    "opts": [
+      "Facial nerve (motor, not the typical source of cutaneous pain here)",
+      "Greater auricular nerve",
+      "Auriculotemporal nerve",
+      "Investing layer of deep cervical fascia (not a nerve)"
+    ],
+    "ans": 1,
+    "id": "q3397",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A child has bone pain and hepatosplenomegaly; bone marrow trephine biopsy shows macrophages with fibrillary, 'crumpled tissue paper' cytoplasm (Gaucher cells). Which enzyme is deficient?",
+    "opts": [
+      "Hexosaminidase",
+      "Glucocerebrosidase",
+      "Sphingomyelinase",
+      "Alpha-1,4-glucosidase"
+    ],
+    "ans": 1,
+    "id": "q3398",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Which autopsy technique removes all organs from the tongue to the pelvis en masse as a single block?",
+    "opts": [
+      "Virchow technique (organ-by-organ removal)",
+      "Rokitansky technique (in-situ dissection)",
+      "Ghon technique (organs removed in three groups)",
+      "Letulle technique"
+    ],
+    "ans": 3,
+    "id": "q3399",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A 42-year-old HIV-positive patient dies. Which autopsy technique is preferred to minimize the risk of infection to the prosector?",
+    "opts": [
+      "Ghon technique",
+      "Letulle technique (en masse, minimizes handling)",
+      "Virchow technique",
+      "Rokitansky technique"
+    ],
+    "ans": 1,
+    "id": "q3400",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A patient with fever, altered sensorium, headache, neck rigidity, and seizures is diagnosed with HSV encephalitis. Which test confirms the diagnosis?",
+    "opts": [
+      "IgM in CSF",
+      "Tzanck smear of CSF (not applicable to CSF)",
+      "CSF PCR for viral DNA",
+      "CSF culture on chick embryo cell lines"
+    ],
+    "ans": 2,
+    "id": "q3401",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A patient has fever and a positive filarial antigen test. What is the next appropriate step?",
+    "opts": [
+      "Bone marrow biopsy",
+      "DEC provocation test",
+      "Detection of microfilariae in a nocturnal blood smear",
+      "Scrotal ultrasound"
+    ],
+    "ans": 2,
+    "id": "q3402",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A 10-year-old boy has difficulty walking and perianal pain after suspected sexual assault. A specimen from the perianal region produces yellow, needle-shaped rhombic crystals with picric acid. What test is this?",
+    "opts": [
+      "Barberio test (detects spermine in semen)",
+      "Florence test (detects choline crystals in semen)",
+      "Teichmann test (detects hemin crystals in blood)",
+      "Acid phosphatase test"
+    ],
+    "ans": 0,
+    "id": "q3403",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "On the fan-and-block (clock-dial) chart test, a patient sees certain radiating lines sharply focused while perpendicular lines remain blurred, indicating unequal corneal curvature in different meridians. Which refractive error is this?",
+    "opts": [
+      "Presbyopia",
+      "Astigmatism",
+      "Hypermetropia",
+      "Myopia"
+    ],
+    "ans": 1,
+    "id": "q3404",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "Which statement is true regarding the Mendelian mode of inheritance among genetic disorders?",
+    "opts": [
+      "Every 10th patient has a Y-linked disorder",
+      "One-third of Mendelian disorders are autosomal recessive",
+      "Every 5th patient has an X-linked recessive disorder",
+      "About two-thirds of Mendelian disorders are autosomal dominant"
+    ],
+    "ans": 3,
+    "id": "q3405",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A patient has recurrent seizures while remaining conscious between episodes, with arching of the back during episodes (opisthotonus), after taking herbal medicine. What is the likely cause?",
+    "opts": [
+      "Strychnine poisoning",
+      "Ricinus (castor bean/ricin) poisoning",
+      "Nerium odorum (oleander) poisoning",
+      "Datura poisoning"
+    ],
+    "ans": 0,
+    "id": "q3406",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "An infant has excessive watering, photophobia, and an enlarged, hazy cornea (buphthalmos). What is the likely diagnosis?",
+    "opts": [
+      "Congenital glaucoma",
+      "Congenital cataract",
+      "Mucopolysaccharidosis",
+      "Ophthalmia neonatorum (typically presents with purulent discharge, not corneal enlargement)"
+    ],
+    "ans": 0,
+    "id": "q3407",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A 60-year-old has decreased distance vision but no longer needs reading glasses (second sight of the elderly). Slit-lamp exam shows a densely sclerotic, yellow-brown lens nucleus increasing the lens's refractive index. What type of myopia is this?",
+    "opts": [
+      "Index myopia",
+      "Axial myopia",
+      "Curvatural myopia",
+      "Positional myopia"
+    ],
+    "ans": 0,
+    "id": "q3408",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A child has respiratory distress and biphasic stridor; AP neck X-ray shows subglottic narrowing producing a 'steeple sign.' What is the diagnosis?",
+    "opts": [
+      "Acute epiglottitis",
+      "Acute laryngotracheobronchitis (croup)",
+      "Foreign body aspiration",
+      "Laryngomalacia"
+    ],
+    "ans": 1,
+    "id": "q3409",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A child has intermittent jaundice and splenomegaly, with a similar history in an elder sibling. Peripheral smear shows small, densely staining spherocytes lacking central pallor. How should this be investigated?",
+    "opts": [
+      "Osmotic fragility test, for hereditary spherocytosis",
+      "Coombs test, for autoimmune hemolytic anemia",
+      "G6PD genetic testing",
+      "Flow cytometry, for paroxysmal nocturnal hemoglobinuria"
+    ],
+    "ans": 0,
+    "id": "q3410",
+    "subject": "Pathology",
+    "img": "images/real/spherocytosis_smear.jpg"
+  },
+  {
+    "q": "A 3-month-old has jaundice and clay-colored stools, with conjugated hyperbilirubinemia; liver biopsy shows periductal fibrous proliferation. What is the most likely diagnosis?",
+    "opts": [
+      "Crigler-Najjar syndrome",
+      "Rotor syndrome",
+      "Dubin-Johnson syndrome",
+      "Biliary atresia"
+    ],
+    "ans": 3,
+    "id": "q3411",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "Section 314 of the Indian Penal Code deals with which offense?",
+    "opts": [
+      "Causing miscarriage with the mother's consent",
+      "Causing miscarriage without the mother's consent",
+      "Death of the mother caused by an act done with intent to cause miscarriage",
+      "Causing the death of a quick unborn child by an act amounting to culpable homicide"
+    ],
+    "ans": 2,
+    "id": "q3412",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "An African child has a jaw mass; biopsy shows sheets of intermediate-sized lymphoid cells with a high mitotic rate and tingible-body macrophages ('starry sky' pattern), with t(8;14) translocation. What is the diagnosis?",
+    "opts": [
+      "Acute myeloid leukemia",
+      "Follicular lymphoma",
+      "Multiple myeloma",
+      "Burkitt lymphoma"
+    ],
+    "ans": 3,
+    "id": "q3413",
+    "subject": "Pathology"
+  },
+  {
+    "q": "An infant has hepatosplenomegaly and thrombocytopenia; CT shows periventricular calcifications. What is the most likely diagnosis?",
+    "opts": [
+      "Congenital rubella syndrome",
+      "Congenital herpes simplex infection",
+      "Congenital toxoplasmosis (classically causes diffuse, not periventricular, calcifications)",
+      "Congenital cytomegalovirus infection"
+    ],
+    "ans": 3,
+    "id": "q3414",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A deceased person's body temperature is found to be 39°C (elevated, i.e., slow to cool). What is the most probable reason?",
+    "opts": [
+      "Cyanide poisoning",
+      "Septicemia (fever prior to death, delaying postmortem cooling)",
+      "Corrosive poisoning",
+      "Intra-abdominal hemorrhage"
+    ],
+    "ans": 1,
+    "id": "q3415",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A child has cola-colored urine, hypertension, and periorbital puffiness, with creatinine 2.5 mg/dL, rising to 4.5 mg/dL over 3 weeks despite treatment (rapidly progressive glomerulonephritis). Which electron microscopic finding is expected?",
+    "opts": [
+      "Subendothelial deposits (typical of the initiating disease, e.g., lupus or PSGN)",
+      "Subepithelial deposits (typical of membranous nephropathy, not RPGN)",
+      "Crescent formation",
+      "Mesangial deposits (typical of IgA nephropathy)"
+    ],
+    "ans": 2,
+    "id": "q3416",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A homeless man has a 1-month history of fever, cough, and weight loss, with negative sputum smears but a chest X-ray suggestive of TB. Per NTEP guidelines, what is the next best step?",
+    "opts": [
+      "Repeat sputum smears",
+      "Send the sample for CBNAAT (rapid molecular testing)",
+      "Send for line probe assay (used for drug-resistance testing after diagnosis)",
+      "Wait for TB culture results before starting ATT"
+    ],
+    "ans": 1,
+    "id": "q3417",
+    "subject": "PSM"
+  },
+  {
+    "q": "A farmer sleeping in a field feels a sting on the leg, sees something moving away, then becomes drowsy; the bite site bleeds profusely and develops redness with blisters. What is the most likely cause?",
+    "opts": [
+      "Viper bite",
+      "Cobra bite (typically causes neurotoxic paralysis, not local bleeding)",
+      "Wasp sting",
+      "Scorpion sting"
+    ],
+    "ans": 0,
+    "id": "q3418",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A patient transfused 4 units of blood 2 hours ago now has chest discomfort; X-ray shows bilateral fissural thickening and cardiomegaly-type changes. What is the most probable cause?",
+    "opts": [
+      "ABO incompatibility reaction",
+      "Fluid (circulatory) overload (TACO)",
+      "Hypocalcemia from citrate toxicity",
+      "Transfusion-associated graft-versus-host disease"
+    ],
+    "ans": 1,
+    "id": "q3419",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Which of the following is considered a sensitive indicator of the availability, utilization, and effectiveness of healthcare in a community?",
+    "opts": [
+      "Infant mortality rate",
+      "Maternal mortality rate",
+      "Immunization coverage",
+      "Disability-adjusted life years"
+    ],
+    "ans": 0,
+    "id": "q3420",
+    "subject": "PSM"
+  },
+  {
+    "q": "A 48-year-old man with prior hepatitis B infection has facial puffiness, frothy urine, hypertension, and microscopic hematuria; kidney biopsy shows a 'spike and dome' pattern on electron microscopy. What is the diagnosis?",
+    "opts": [
+      "Minimal change disease",
+      "Membranous nephropathy",
+      "Focal segmental glomerulosclerosis",
+      "Post-streptococcal glomerulonephritis-associated disease"
+    ],
+    "ans": 1,
+    "id": "q3421",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A 5-year-old has fever, fatigue, and left ventricular dysfunction; endomyocardial biopsy shows an interstitial lymphocytic infiltrate with myocyte necrosis, without granulomas. What is the probable diagnosis?",
+    "opts": [
+      "Acute rheumatic fever",
+      "Chagas disease",
+      "Pyogenic (bacterial) myocarditis",
+      "Lymphocytic (viral) myocarditis"
+    ],
+    "ans": 3,
+    "id": "q3422",
+    "subject": "Pathology"
+  },
+  {
+    "q": "An elderly male smoker has chronic cough, weight loss, fatigue, and elevated serum calcium. Lung biopsy shows nests of malignant squamous epithelial cells with keratin pearls and intercellular bridges. What is the probable diagnosis (a cause of paraneoplastic hypercalcemia via PTHrP)?",
+    "opts": [
+      "Large cell neuroendocrine tumor",
+      "Small cell carcinoma",
+      "Adenocarcinoma",
+      "Squamous cell carcinoma"
+    ],
+    "ans": 3,
+    "id": "q3423",
+    "subject": "Pathology"
+  },
+  {
+    "q": "An elderly man's labs show marked lymphocytosis; peripheral smear shows numerous small, mature-appearing lymphocytes with scant cytoplasm and smudge cells. What is the appropriate next step?",
+    "opts": [
+      "Stem cell transplantation",
+      "Bone marrow biopsy",
+      "Flow cytometry (to confirm CLL immunophenotype)",
+      "Start high-dose chemotherapy immediately"
+    ],
+    "ans": 2,
+    "id": "q3424",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A 25-year-old man has low hemoglobin, platelets 25,000/mL, gum bleeding, and raised PT/aPTT; peripheral smear shows abnormal promyelocytes with bundles of Auer rods ('faggot cells'), with evidence of DIC. What is the likely diagnosis?",
+    "opts": [
+      "AML with t(8;21)",
+      "AML with inv(16)",
+      "AML with t(15;17) (acute promyelocytic leukemia)",
+      "AML with t(11;22)"
+    ],
+    "ans": 2,
+    "id": "q3425",
+    "subject": "Pathology",
+    "img": "images/real/auer_rod_myeloblast.jpg"
+  },
+  {
+    "q": "A young man has a large retroperitoneal hemorrhage and recurrent knee swelling after exercise, without mucosal bleeding. Deficiency of which clotting factors is responsible?",
+    "opts": [
+      "Factors VIII and IX (hemophilia A and B, classic deep/joint bleeding pattern)",
+      "Factors XI and XII",
+      "Von Willebrand factor (typically causes mucosal, not deep joint, bleeding)",
+      "Lupus anticoagulant"
+    ],
+    "ans": 0,
+    "id": "q3426",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A chronic smoker who worked in an asbestos-exposed environment for 20 years develops mesothelioma. Which exposure is most strongly associated with this malignancy?",
+    "opts": [
+      "Silicosis (associated with lung cancer and TB, not classically mesothelioma)",
+      "Asbestosis",
+      "Coal workers' pneumoconiosis",
+      "Bagassosis (a hypersensitivity pneumonitis, not linked to mesothelioma)"
+    ],
+    "ans": 1,
+    "id": "q3427",
+    "subject": "Pathology"
+  },
+  {
+    "q": "The average daily dietary nutrient intake sufficient to meet the requirements of nearly all (97-98%) healthy individuals in a life-stage and gender group is known as:",
+    "opts": [
+      "Adequate intake",
+      "Dietary goal",
+      "Estimated average requirement",
+      "Recommended dietary allowance"
+    ],
+    "ans": 3,
+    "id": "q3428",
+    "subject": "PSM"
   }
 ]
