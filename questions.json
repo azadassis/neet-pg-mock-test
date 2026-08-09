@@ -41164,5 +41164,929 @@
     "ans": 3,
     "id": "q3428",
     "subject": "PSM"
+  },
+  {
+    "q": "A man with ARDS is not responding to supplemental oxygen. What is the role of IL-8 in the pathogenesis of ARDS?",
+    "opts": [
+      "Endothelial cell activation",
+      "Neutrophil chemotaxis and activation",
+      "Macrophage activation",
+      "Promoting surfactant production"
+    ],
+    "ans": 1,
+    "id": "q3429",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient has a golden-brown ring at the corneal periphery (Kayser-Fleischer ring) with neuropsychiatric symptoms. What is the best (gold-standard) investigation to confirm Wilson disease?",
+    "opts": [
+      "Urine copper",
+      "Hepatic copper estimation on liver biopsy",
+      "Serum ceruloplasmin (a screening test, not the gold standard)",
+      "MRI brain"
+    ],
+    "ans": 1,
+    "id": "q3430",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Which lung tumor type is characteristically positive for TTF-1 (thyroid transcription factor-1) immunostaining?",
+    "opts": [
+      "Squamous cell carcinoma",
+      "Small cell carcinoma (also often TTF-1 positive, but adenocarcinoma is the classic answer)",
+      "Adenocarcinoma",
+      "Carcinoid tumor"
+    ],
+    "ans": 2,
+    "id": "q3431",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Which vitamin requires supplementation after gastrectomy, due to loss of intrinsic factor-producing parietal cells?",
+    "opts": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin D"
+    ],
+    "ans": 2,
+    "id": "q3432",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A 10-year-old boy has cervical lymphadenopathy. Flow cytometry shows surface immunoglobulin positive, CD34 negative, CD5 negative, CD23 negative, TdT negative, CD10 positive, and CD19 positive cells. What is the most likely diagnosis?",
+    "opts": [
+      "Burkitt lymphoma",
+      "Follicular lymphoma",
+      "Mantle cell lymphoma",
+      "Precursor B-cell acute lymphoblastic leukemia (would be TdT positive)"
+    ],
+    "ans": 0,
+    "id": "q3433",
+    "subject": "Pathology"
+  },
+  {
+    "q": "What is the most common driver mutation in papillary thyroid carcinoma?",
+    "opts": [
+      "BRAF V600E",
+      "RET rearrangement",
+      "MET mutation",
+      "RAS mutation"
+    ],
+    "ans": 0,
+    "id": "q3434",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Which of the following diseases follows X-linked recessive inheritance?",
+    "opts": [
+      "Wiskott-Aldrich syndrome",
+      "Wilson disease (autosomal recessive)",
+      "Prader-Willi syndrome (a chromosome 15 imprinting disorder)",
+      "Achondroplasia (autosomal dominant)"
+    ],
+    "ans": 0,
+    "id": "q3435",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A young male dies suddenly during exercise, with a similar history in a sibling. On gross morphology, there is marked septal (interventricular) wall thickening. What is the most common cause of death in this condition?",
+    "opts": [
+      "Dilated cardiomyopathy",
+      "Restrictive cardiomyopathy",
+      "Hypertrophic obstructive cardiomyopathy (sudden cardiac death from arrhythmia)",
+      "Viral myocarditis"
+    ],
+    "ans": 2,
+    "id": "q3436",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Which statement about von Willebrand disease is NOT true?",
+    "opts": [
+      "VWD type 1 is usually mild, not severe, disease in children",
+      "VWD type 3 is typically severe disease in children",
+      "VWD type 2 relates more to defective platelet-binding activity than to absolute factor levels",
+      "VWD type 3 has severely low VWF levels"
+    ],
+    "ans": 0,
+    "id": "q3437",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A child develops skin eruptions on sun exposure and is diagnosed with a DNA repair defect (xeroderma pigmentosum). Which repair pathway is defective?",
+    "opts": [
+      "Nucleotide excision repair",
+      "Base excision repair",
+      "Mismatch repair",
+      "Homologous recombination repair"
+    ],
+    "ans": 0,
+    "id": "q3438",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "An 18-year-old has hepatosplenomegaly, hemoglobin 7 g/dL, lymphadenopathy, WBC 50,000/uL, platelets 30,000/uL, petechiae, purpura, and fatigue. What is the most appropriate management?",
+    "opts": [
+      "Cytarabine-based induction chemotherapy",
+      "IV immunoglobulin for 2 days",
+      "Prednisolone plus vinblastine",
+      "Radiotherapy to the lymph nodes"
+    ],
+    "ans": 2,
+    "id": "q3439",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "A newborn fails to pass meconium (Hirschsprung disease). Ganglion cells are absent from which two layers of the affected bowel segment?",
+    "opts": [
+      "Epithelial and submucosal layers",
+      "Submucosal and myenteric (muscular) plexus layers",
+      "Muscular and serosal layers",
+      "Epithelial and serosal layers"
+    ],
+    "ans": 1,
+    "id": "q3440",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "Which muscle, when denervated, is responsible for the mild ptosis seen in Horner syndrome?",
+    "opts": [
+      "Orbicularis oculi",
+      "Levator palpebrae superioris (the main elevator, innervated by CN III, not affected in Horner)",
+      "A muscle sometimes loosely called 'Horner's muscle' (not the standard anatomical term)",
+      "Muller's muscle (superior tarsal muscle, sympathetically innervated)"
+    ],
+    "ans": 3,
+    "id": "q3441",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A patient presents 3 years after cataract surgery with gradually decreasing vision. Slit-lamp exam shows a hazy, wrinkled posterior capsule behind the intraocular lens. What is the likely diagnosis?",
+    "opts": [
+      "Posterior capsule opacification (PCO)",
+      "Bullous keratopathy",
+      "Phakic glaucoma",
+      "Lens subluxation"
+    ],
+    "ans": 0,
+    "id": "q3442",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "Perimetry shows an enlarged area of non-seeing that is contiguous with and expands outward from the physiological blind spot. What does this represent?",
+    "opts": [
+      "Extension of the blind spot (e.g., from papilledema)",
+      "An arcuate scotoma",
+      "A nasal (Roenne's) step defect",
+      "Altitudinal field loss"
+    ],
+    "ans": 0,
+    "id": "q3443",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A patient has nyctalopia (night blindness). Fundoscopy shows peripheral bone-spicule pigmentation, arteriolar attenuation, and a waxy pale optic disc. What is the diagnosis?",
+    "opts": [
+      "Retinitis pigmentosa",
+      "Vitamin A deficiency (can cause night blindness but not this fundus appearance)",
+      "Retinal detachment",
+      "Diabetic retinopathy"
+    ],
+    "ans": 0,
+    "id": "q3444",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "A child has a well-defined, yellowish-white, solid, hair-bearing nodule straddling the corneoscleral limbus, present since birth. What is the diagnosis?",
+    "opts": [
+      "Limbal dermoid",
+      "Lipodermoid (typically located more posteriorly, over the lateral canthus)",
+      "Pterygium",
+      "Papilloma"
+    ],
+    "ans": 0,
+    "id": "q3445",
+    "subject": "Ophthalmology"
+  },
+  {
+    "q": "In a patient with homocystinuria due to cystathionine beta-synthase deficiency, which vitamin is supplemented as a cofactor to reduce homocysteine levels?",
+    "opts": [
+      "Thiamine",
+      "Vitamin B6 (pyridoxine)",
+      "Biotin",
+      "Pantothenic acid"
+    ],
+    "ans": 1,
+    "id": "q3446",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A 2-week-old has vomiting, acidosis, and early cataracts (classic galactosemia). Which enzyme is defective?",
+    "opts": [
+      "Galactose-1-phosphate uridyltransferase (GALT)",
+      "Galactokinase (causes cataracts but not the severe systemic picture)",
+      "Hexokinase",
+      "Aldose reductase"
+    ],
+    "ans": 0,
+    "id": "q3447",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "MRI brain shows caudal displacement of the cerebellar tonsils below the foramen magnum, without hydrocephalus. What is the diagnosis?",
+    "opts": [
+      "Arnold-Chiari malformation",
+      "Corpus callosal agenesis",
+      "Vein of Galen malformation",
+      "Dandy-Walker malformation"
+    ],
+    "ans": 0,
+    "id": "q3448",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 76-year-old on antihypertensives and aspirin, with a minor fall 3 weeks ago, presents confused. NCCT brain shows a crescentic, hypodense extra-axial collection along the cerebral convexity. What is the diagnosis?",
+    "opts": [
+      "Subarachnoid hemorrhage",
+      "Extradural hemorrhage",
+      "A normal study",
+      "Chronic subdural hemorrhage"
+    ],
+    "ans": 3,
+    "id": "q3449",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A 35-year-old nulliparous woman has dull aching pain that worsens with menses. Ultrasound shows a heterogeneous right adnexal mass; MRI shows a 4x5 cm T1-hyperintense mass without suppression on fat-saturated images, and T2-weighted images show low signal ('shading'). What is the diagnosis?",
+    "opts": [
+      "Dermoid cyst",
+      "Endometrioma",
+      "Ovarian cancer",
+      "Paraovarian cyst"
+    ],
+    "ans": 1,
+    "id": "q3450",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "Plain X-ray abdomen shows scattered speckled calcifications overlying the epigastrium, following the course of the pancreas. What is the diagnosis?",
+    "opts": [
+      "Enterolith in the jejunum",
+      "Calcific mediastinal lymph nodes",
+      "Horseshoe kidney with calculi",
+      "Chronic calcific pancreatitis"
+    ],
+    "ans": 3,
+    "id": "q3451",
+    "subject": "Radiology"
+  },
+  {
+    "q": "A patient with a Proteus urinary infection is found to have a large bladder stone on plain X-ray. Given the urease-splitting organism, what is the stone most likely composed of?",
+    "opts": [
+      "Calcium phosphate (as part of a struvite/triple-phosphate stone from urease activity)",
+      "Cystine",
+      "Calcium oxalate",
+      "Xanthine"
+    ],
+    "ans": 0,
+    "id": "q3452",
+    "subject": "Surgery"
+  },
+  {
+    "q": "Which statement is correct regarding an esophageal foreign body?",
+    "opts": [
+      "The cricopharyngeus is the most common site of impaction",
+      "The right main bronchus is a site of esophageal constriction (it is the left main bronchus that crosses the esophagus)",
+      "It is commonly seen in adults (children are more commonly affected)",
+      "It cannot cause mediastinitis (a feared complication of esophageal perforation)"
+    ],
+    "ans": 0,
+    "id": "q3453",
+    "subject": "Surgery"
+  },
+  {
+    "q": "After a right upper-limb amputation, a patient develops severe phantom limb pain. What is the proposed mechanism?",
+    "opts": [
+      "Projection of adjacent fibers overlapping into the right sensory cortex",
+      "Projection of adjacent fibers overlapping into the deafferented area of the left (contralateral) sensory cortex",
+      "Expansion of the right sensory cortex",
+      "Expansion of the left sensory cortex without cortical remapping"
+    ],
+    "ans": 1,
+    "id": "q3454",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient with a recent sunburn feels pain when bathing in 40°C water, a temperature that would normally not be painful. What best describes this phenomenon?",
+    "opts": [
+      "Sensitized thermal nociceptors producing hyperalgesia",
+      "Sensitization such that normally innocuous warmth activates pain pathways (allodynia)",
+      "Thermal receptor-mediated allodynia without peripheral sensitization",
+      "Innocuous thermal receptor-mediated hyperalgesia"
+    ],
+    "ans": 1,
+    "id": "q3455",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A 50-year-old woman has dyspnea and chest pain. Which principle helps distinguish that increased myocardial oxygen demand is worse with aortic stenosis (pressure overload) than aortic regurgitation (volume overload)?",
+    "opts": [
+      "Increased myocardial oxygen consumption is greater with increased pressure work than with increased volume work",
+      "Aortic stenosis causes reduced pressure at the aortic valve, unrelated to oxygen demand",
+      "Workload has no relationship to myocardial oxygen consumption",
+      "Increases in preload raise oxygen demand more than increases in afterload"
+    ],
+    "ans": 0,
+    "id": "q3456",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Taste sensation is absent in which type of lingual papilla?",
+    "opts": [
+      "Filiform papillae (contain no taste buds)",
+      "Foliate papillae",
+      "Fungiform papillae",
+      "Circumvallate papillae"
+    ],
+    "ans": 0,
+    "id": "q3457",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which glucose transporter is upregulated at the muscle cell membrane during regular exercise, improving insulin sensitivity in type 2 diabetes?",
+    "opts": [
+      "GLUT1",
+      "GLUT4",
+      "GLUT2",
+      "GLUT3"
+    ],
+    "ans": 1,
+    "id": "q3458",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A man has trouble sleeping and drinks coffee before bed. What is the mechanism by which caffeine promotes wakefulness?",
+    "opts": [
+      "It blocks adenosine receptors, preventing adenosine's sleep-promoting action",
+      "It activates the locus coeruleus directly as its primary mechanism",
+      "It has no effect on wakefulness if taken within 1 hour of sleep",
+      "It directly triggers histamine release"
+    ],
+    "ans": 0,
+    "id": "q3459",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The resting membrane potential of a cell is predominantly determined by the permeability to which ion?",
+    "opts": [
+      "Potassium (K+)",
+      "Calcium (Ca2+)",
+      "Sodium (Na+)",
+      "Chloride (Cl-)"
+    ],
+    "ans": 0,
+    "id": "q3460",
+    "subject": "Physiology"
+  },
+  {
+    "q": "After a road traffic accident, a patient has an alcoholic (broad-based, staggering) gait and nystagmus. Which cerebellar region is affected?",
+    "opts": [
+      "Flocculonodular lobe (vestibulocerebellum)",
+      "Dentate nucleus",
+      "Anterior lobe (affects gait in chronic alcoholics via a different pattern)",
+      "Vermis"
+    ],
+    "ans": 0,
+    "id": "q3461",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A 14-year-old boy has a nasal mass with recurrent episodes of bleeding, suspicious for juvenile nasopharyngeal angiofibroma. What is the investigation of choice?",
+    "opts": [
+      "Plain CT without contrast",
+      "Contrast-enhanced CT",
+      "X-ray Caldwell view",
+      "X-ray with a Pierre view"
+    ],
+    "ans": 1,
+    "id": "q3462",
+    "subject": "ENT"
+  },
+  {
+    "q": "Which internal component of a cochlear implant, surgically placed within the cochlea, directly stimulates the auditory nerve fibers?",
+    "opts": [
+      "The internal magnet (holds the external processor in place)",
+      "The electrode array",
+      "The receiver-stimulator (decodes the signal, distinct from the stimulating electrode)",
+      "The antenna (receives the signal transcutaneously)"
+    ],
+    "ans": 1,
+    "id": "q3463",
+    "subject": "ENT"
+  },
+  {
+    "q": "Which nerves supply cutaneous sensation to the external ear (auricle and external acoustic meatus)?",
+    "opts": [
+      "Auriculotemporal nerve, cranial nerves VII and X, greater auricular nerve",
+      "Greater auricular nerve, cranial nerves VII and X, auriculotemporal nerve",
+      "Cranial nerves VII and X, auriculotemporal nerve, greater auricular nerve",
+      "Auriculotemporal nerve, cranial nerves VII and X, greater auricular nerve"
+    ],
+    "ans": 3,
+    "id": "q3464",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Gag reflex is absent following injury to which pair of cranial nerves?",
+    "opts": [
+      "CN V and X",
+      "CN IX and X",
+      "CN X and XII",
+      "CN VII and IX"
+    ],
+    "ans": 1,
+    "id": "q3465",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient has hearing loss; otoscopy shows a retracted, intact tympanic membrane with an air-fluid level, consistent with conductive hearing loss. On Rinne testing, bone conduction is found louder than air conduction on the affected ear, correctly identifying the conductive loss. How is this Rinne test result classified?",
+    "opts": [
+      "True positive",
+      "True negative",
+      "False positive",
+      "False negative"
+    ],
+    "ans": 1,
+    "id": "q3466",
+    "subject": "ENT"
+  },
+  {
+    "q": "A woman has mild conductive hearing loss and tinnitus. Pure tone audiometry shows an air-bone gap with a characteristic dip (Carhart's notch) at 2000 Hz. What is the interpretation?",
+    "opts": [
+      "Otosclerosis",
+      "Meniere's disease",
+      "Noise-induced hearing loss",
+      "None of the above"
+    ],
+    "ans": 0,
+    "id": "q3467",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient has undergone nasal surgery with an external incision across the columella connecting bilateral marginal incisions, typical of an open approach to reshape the external nasal framework. Which surgery was most likely performed?",
+    "opts": [
+      "Septoplasty (an intranasal procedure without an external columellar incision)",
+      "Rhinoplasty",
+      "Functional endoscopic sinus surgery (FESS, an intranasal endoscopic procedure)",
+      "Young's procedure (for atrophic rhinitis, involves nostril closure)"
+    ],
+    "ans": 1,
+    "id": "q3468",
+    "subject": "ENT"
+  },
+  {
+    "q": "A patient involved in an RTA has back pain with no neurological deficit; X-ray of the spine shows a horizontal fracture line through the vertebral body, pedicles, and posterior elements (a flexion-distraction injury), typical of a lap seatbelt injury. What is the diagnosis?",
+    "opts": [
+      "Fracture of the spinous process alone",
+      "Compression fracture",
+      "Fracture of the vertebral body base alone",
+      "Chance fracture"
+    ],
+    "ans": 3,
+    "id": "q3469",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A child has recurrent tooth abscesses and a lower-limb bowing deformity; labs show normal calcium, low phosphate, normal PTH, and high alkaline phosphatase. Dental abscesses from poorly mineralized dentin are a hallmark of this condition. What is the diagnosis?",
+    "opts": [
+      "Nutritional (vitamin D deficiency) rickets (typically has low calcium and elevated PTH)",
+      "Vitamin D-dependent rickets type 1",
+      "Vitamin D-dependent rickets type 2",
+      "X-linked hypophosphatemic rickets"
+    ],
+    "ans": 3,
+    "id": "q3470",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A 16-year-old claims to be 18 years old. Which two joints are classically X-rayed for skeletal age estimation in this age range?",
+    "opts": [
+      "Wrist and knee",
+      "Hip and elbow",
+      "Hip and knee",
+      "Head and shoulder"
+    ],
+    "ans": 0,
+    "id": "q3471",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Which implant, consisting of a lag screw that slides within a barrel attached to a side plate to allow controlled impaction, is used to fix a femoral neck (or intertrochanteric) fracture?",
+    "opts": [
+      "Condylar plate",
+      "Dynamic condylar screw (used for distal femur fractures)",
+      "Dynamic hip screw",
+      "Locking plate"
+    ],
+    "ans": 2,
+    "id": "q3472",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A patient has pain in the back of the thigh and leg after lifting a heavy weight, with weakness of great toe extension and sensory loss over the dorsum of the foot. Which nerve root is most likely involved?",
+    "opts": [
+      "L4",
+      "L5",
+      "L3",
+      "S1"
+    ],
+    "ans": 1,
+    "id": "q3473",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A fracture at the base of the 5th metatarsal typically requires a below-knee cast for how long?",
+    "opts": [
+      "6-8 weeks",
+      "2-3 weeks",
+      "16-20 weeks",
+      "3-5 weeks"
+    ],
+    "ans": 0,
+    "id": "q3474",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A football player twists his knee; no bony injury is apparent. The examiner flexes the knee 20-30 degrees and pulls the tibia anteriorly relative to the femur to assess translation. Which test is this?",
+    "opts": [
+      "Anterior drawer test for the ACL",
+      "Posterior drawer test for the PCL",
+      "McMurray test",
+      "Lachman test"
+    ],
+    "ans": 3,
+    "id": "q3475",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A fracture at which site will affect the longitudinal growth of a long bone?",
+    "opts": [
+      "Epiphyseal (growth) plate",
+      "Epiphysis alone",
+      "Metaphysis alone",
+      "Diaphysis alone"
+    ],
+    "ans": 0,
+    "id": "q3476",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A patient cannot make the 'OK' sign (opposing thumb and index finger tip-to-tip), consistent with anterior interosseous nerve palsy. Which muscle's dysfunction is responsible?",
+    "opts": [
+      "Flexor digitorum superficialis",
+      "Flexor digitorum profundus (to the index finger)",
+      "Flexor carpi radialis",
+      "Extensor pollicis longus"
+    ],
+    "ans": 1,
+    "id": "q3477",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "An adolescent basketball player has sudden knee pain after a jump and cannot actively extend the knee; X-ray shows an avulsed bony fragment at the anterior proximal tibia. What is the fractured site?",
+    "opts": [
+      "Tibial tuberosity",
+      "Medial epicondyle of the tibia",
+      "Gerdy's tubercle",
+      "Tibial plateau"
+    ],
+    "ans": 0,
+    "id": "q3478",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "The artery that passes between the medial malleolus and the Achilles tendon, palpable at this location, is the:",
+    "opts": [
+      "Posterior tibial artery",
+      "Anterior tibial artery",
+      "Peroneal (fibular) artery",
+      "Dorsalis pedis artery"
+    ],
+    "ans": 0,
+    "id": "q3479",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A child's left femoral shaft fracture is managed with rigid plate fixation. What type of bone healing predominates with this rigid fixation, without visible external callus?",
+    "opts": [
+      "Creeping substitution (a term more associated with bone graft/avascular necrosis healing)",
+      "Primary (direct) bone healing",
+      "Secondary callus formation (typical of relatively flexible fixation, e.g., casting or IM nailing)",
+      "None of the above"
+    ],
+    "ans": 1,
+    "id": "q3480",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "X-ray of the distal femur in an adolescent shows a destructive metaphyseal lesion with a spiculated 'sunburst' periosteal reaction and a Codman triangle. What is the most likely diagnosis?",
+    "opts": [
+      "Osteosarcoma",
+      "Ewing sarcoma (classically an 'onion-skin' periosteal reaction)",
+      "Osteochondroma",
+      "Giant cell tumor"
+    ],
+    "ans": 0,
+    "id": "q3481",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A diaphyseal bone tumor composed of small round blue cells is suspected to be Ewing sarcoma. Which translocation is diagnostic?",
+    "opts": [
+      "t(11;22) (EWSR1-FLI1)",
+      "t(15;17) (seen in acute promyelocytic leukemia, not Ewing sarcoma)",
+      "t(9;22) (seen in chronic myeloid leukemia, not Ewing sarcoma)",
+      "t(8;14) (seen in Burkitt lymphoma, not Ewing sarcoma)"
+    ],
+    "ans": 0,
+    "id": "q3482",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A well-healed lower-limb amputation stump ends approximately 12-15 cm below the knee joint line, with the fibula cut shorter than the tibia. What level of amputation is this?",
+    "opts": [
+      "Below-knee (transtibial) amputation",
+      "Above-knee (transfemoral) amputation",
+      "Syme's amputation",
+      "Through-knee amputation"
+    ],
+    "ans": 0,
+    "id": "q3483",
+    "subject": "Orthopaedics"
+  },
+  {
+    "q": "A 40-year-old road traffic accident victim is declared brought dead; the doctor informs the police and sends the body to the mortuary. On whose request is the autopsy conducted?",
+    "opts": [
+      "The deceased's next of kin (private party)",
+      "The defence lawyer",
+      "The treating doctor alone",
+      "The investigating police officer"
+    ],
+    "ans": 3,
+    "id": "q3484",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "At autopsy of a 30-year-old, the doctor notices greyish-white, waxy material with preserved facial features. What is true of this postmortem change (adipocere)?",
+    "opts": [
+      "High temperature is needed for its formation",
+      "A hot, dry environment is needed for its formation",
+      "It starts very early after death",
+      "It represents saponification of body fat, a form of preservation"
+    ],
+    "ans": 3,
+    "id": "q3485",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "In a drowning case, microscopic organisms are identified in tissue for diagnostic purposes (diatom test). Which statement about diatoms is correct?",
+    "opts": [
+      "They contain silica in their cell wall and possess chlorophyll",
+      "They are microscopic unicellular bacteria",
+      "They are present only in bone marrow",
+      "They are not resistant to acids and heat (they are in fact highly resistant, which is why they survive digestion for the test)"
+    ],
+    "ans": 0,
+    "id": "q3486",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A gunshot wound from a rifled firearm shows scorching, blackening, and tattooing (stippling) around the wound margin, without a muzzle-imprint abrasion. What range of fire does this indicate?",
+    "opts": [
+      "Contact range (would show a muzzle stamp/imprint)",
+      "Close range",
+      "Distant range (would show none of scorching, blackening, or tattooing)",
+      "Cannot be determined"
+    ],
+    "ans": 1,
+    "id": "q3487",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A pregnant woman's ultrasound shows a twin pregnancy with about one month's difference in the estimated gestational age of the two fetuses, from separate acts of intercourse and fertilization at different times. What is this called?",
+    "opts": [
+      "Superfetation",
+      "Superfecundation (fertilization of two ova from the same cycle by different fathers, without a gestational age gap)",
+      "A supposititious child",
+      "A posthumous child"
+    ],
+    "ans": 0,
+    "id": "q3488",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Autopsy/examination shows Mees' lines on the nails, hyperkeratosis and hyperpigmentation of the palms and soles, and profuse watery ('rice-water') diarrhea. Which poisoning is suggested?",
+    "opts": [
+      "Organophosphate poisoning",
+      "Arsenic poisoning",
+      "Lead poisoning",
+      "Mercury poisoning"
+    ],
+    "ans": 1,
+    "id": "q3489",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Several people who consumed contaminated alcohol present with abdominal pain, confusion, and decreased vision; methyl alcohol is detected. Which toxic metabolites are responsible for the clinical picture?",
+    "opts": [
+      "Formic acid and lactic acid",
+      "Glycolic acid and oxalic acid (these are ethylene glycol metabolites, not methanol's)",
+      "Oxalic acid and formic acid",
+      "Glyoxylic acid and formic acid"
+    ],
+    "ans": 0,
+    "id": "q3490",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A patient who consumed an unknown substance has tachypnea and hypotension, with a high anion gap metabolic acidosis and hypocalcemia (from calcium oxalate deposition). What is the diagnosis?",
+    "opts": [
+      "Methyl alcohol poisoning",
+      "Ethylene glycol poisoning",
+      "Datura poisoning",
+      "Ethyl alcohol poisoning"
+    ],
+    "ans": 1,
+    "id": "q3491",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A 30-year-old sexual assault suspect claims to be 16 years old, but is estimated to be 18. Which two joints should be X-rayed for age estimation?",
+    "opts": [
+      "Elbow and ankle",
+      "Knee and wrist",
+      "Shoulder and head",
+      "Hip and knee"
+    ],
+    "ans": 1,
+    "id": "q3492",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Sour taste is primarily mediated by which mechanism?",
+    "opts": [
+      "Direct activation of acid-sensing ion channels by hydrogen ions",
+      "Metabotropic (G-protein-coupled) receptors, as for bitter and umami taste",
+      "GPCR T1R2/T1R3 (as used for sweet taste)",
+      "GPCR T1R1/T1R3 (as used for umami taste)"
+    ],
+    "ans": 0,
+    "id": "q3493",
+    "subject": "Physiology"
+  },
+  {
+    "q": "In a sexual assault case, examination of a perianal swab under polarized light with picric acid produces yellow, needle-shaped rhombic crystals. What is this test called?",
+    "opts": [
+      "Barberio test (detects spermine crystals in seminal stains)",
+      "Teichmann test (detects hemin crystals in blood)",
+      "Takayama test (detects hemochromogen crystals in blood)",
+      "Florence test (detects choline crystals in semen)"
+    ],
+    "ans": 0,
+    "id": "q3494",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "What is the typical sequence of onset of rigor mortis over the body?",
+    "opts": [
+      "Center to periphery",
+      "Head to foot (craniocaudal, following Nysten's law)",
+      "Foot to head",
+      "All muscle groups simultaneously"
+    ],
+    "ans": 1,
+    "id": "q3495",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "In a sexual assault trial, an 'in camera' trial refers to:",
+    "opts": [
+      "Closed court proceedings, excluding the public",
+      "Video recording of the proceedings",
+      "Open court proceedings",
+      "Proceedings held in a different location from the usual court"
+    ],
+    "ans": 0,
+    "id": "q3496",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A 36-year-old G4L3P3 woman at full term has arrested labor at 8 cm cervical dilation. Emergency cesarean is done after counselling; the baby is alive, but the mother has intractable postpartum hemorrhage, requiring emergency peripartum hysterectomy to save her life. This is best classified under which category of intervention?",
+    "opts": [
+      "A life-saving (consented, therapeutic) procedure",
+      "A purely elective procedure",
+      "A procedure requiring third-party (non-medical) authorization",
+      "An experimental procedure"
+    ],
+    "ans": 0,
+    "id": "q3497",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A woman with a history of substance abuse and suicidal ideation is brought to hospital with mydriasis, tachypnea, and tachycardia. What is the likely intoxicant?",
+    "opts": [
+      "Cocaine",
+      "Morphine (causes miosis, not mydriasis)",
+      "Heroin (causes miosis)",
+      "Chlorpheniramine (causes sedation, not this sympathomimetic picture)"
+    ],
+    "ans": 0,
+    "id": "q3498",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Medical termination of a 10-week pregnancy in a 21-year-old is to be performed using which combination of drugs?",
+    "opts": [
+      "Intrauterine hyperosmotic agents",
+      "Dinoprostone alone",
+      "Oxytocin infusion alone",
+      "Mifepristone plus misoprostol"
+    ],
+    "ans": 3,
+    "id": "q3499",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A 14-year-old unmarried rape survivor at 22 weeks of gestation seeks medical termination of pregnancy. Which statement about medical abortion in this case is true?",
+    "opts": [
+      "MTP can be performed for a survivor of sexual assault up to 24 weeks under the amended MTP Act",
+      "Only one doctor's opinion is required regardless of gestational age beyond 20 weeks",
+      "It can only be done if there is a risk to the mother's life",
+      "It can be done only after obtaining permission from a medical board (required for a different, higher gestational-age category)"
+    ],
+    "ans": 0,
+    "id": "q3500",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "Autopsy findings show petechial hemorrhages of the face and conjunctivae along with abrasions and bruises around the mouth and nose, without any ligature mark on the neck. Which type of asphyxial death is this?",
+    "opts": [
+      "Throttling (manual strangulation, would show neck marks)",
+      "Smothering",
+      "Hanging (would show a ligature mark)",
+      "Garrotting (would show a ligature mark)"
+    ],
+    "ans": 1,
+    "id": "q3501",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A man arrested at a railway station shows dilated pupils, dry flushed hot skin, confusion, and a staggering gait. Which intoxication is suspected?",
+    "opts": [
+      "Datura (anticholinergic toxidrome)",
+      "Cocaine",
+      "Alcohol",
+      "Morphine"
+    ],
+    "ans": 0,
+    "id": "q3502",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "For medical termination of pregnancy at 28 weeks for a congenital anomaly, whose presence/opinion is NOT required on the medical board?",
+    "opts": [
+      "An obstetrician",
+      "A lawyer",
+      "A pediatrician",
+      "A sonologist"
+    ],
+    "ans": 1,
+    "id": "q3503",
+    "subject": "Gynaecology & Obstetrics"
+  },
+  {
+    "q": "A G5P4 woman with four daughters requests sex determination during a routine ultrasound. As per the PCPNDT Act guidelines, what should be done?",
+    "opts": [
+      "Check routine antenatal findings and screen for developmental anomalies, without revealing the fetal sex",
+      "Check routine antenatal findings and screen for anomalies, and reveal the fetal sex",
+      "Reveal the sex only if it is female",
+      "Check only routine antenatal findings, without assessing fetal sex at all"
+    ],
+    "ans": 0,
+    "id": "q3504",
+    "subject": "PSM"
+  },
+  {
+    "q": "A child is born after his father's death; DNA fingerprinting confirms the deceased father's paternity despite some family members' claims otherwise. What is this child legally termed?",
+    "opts": [
+      "A posthumous child",
+      "A supposititious child",
+      "An illegitimate child",
+      "An adopted child"
+    ],
+    "ans": 0,
+    "id": "q3505",
+    "subject": "Forensic Medicine"
   }
 ]
