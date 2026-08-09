@@ -25148,5 +25148,1493 @@
     "ans": 1,
     "id": "q2095",
     "subject": "Physiology"
+  },
+  {
+    "q": "A skeletal muscle built from short fibers converging obliquely from several directions onto one central tendon (as in deltoid) has which fiber architecture?",
+    "opts": [
+      "Fusiform (parallel)",
+      "Multipennate",
+      "Cruciate",
+      "Unipennate"
+    ],
+    "ans": 1,
+    "id": "q2096",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Nerve fibers developing within the pharyngeal arches originate embryologically from which cell population?",
+    "opts": [
+      "Neuroectodermal placode cells",
+      "Neural crest cells",
+      "Mesodermal cells",
+      "Endodermal lining cells"
+    ],
+    "ans": 1,
+    "id": "q2097",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which best describes the mucosal lining of the hard palate?",
+    "opts": [
+      "Keratinised epithelium with no submucosal layer or glands",
+      "Keratinised stratified squamous epithelium with a thin submucosa containing minor salivary glands",
+      "Non-keratinised epithelium with a submucosa containing minor salivary glands",
+      "Non-keratinised epithelium, no submucosa, no minor salivary glands"
+    ],
+    "ans": 1,
+    "id": "q2098",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which intrinsic laryngeal muscle is the principal tensor of the vocal cords?",
+    "opts": [
+      "Lateral cricoarytenoid",
+      "Cricothyroid",
+      "Thyroarytenoid",
+      "Posterior cricoarytenoid"
+    ],
+    "ans": 1,
+    "id": "q2099",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The ureteric bud, forming the ureter, renal pelvis, and collecting system, arises as an outgrowth of:",
+    "opts": [
+      "Metanephric blastema",
+      "Pronephric duct",
+      "Mesonephric (Wolffian) duct",
+      "Urogenital sinus"
+    ],
+    "ans": 2,
+    "id": "q2100",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A midbrain stroke produces Weber syndrome (ipsilateral CN III palsy, contralateral hemiparesis, contralateral parkinsonism). Which statement about it is FALSE?",
+    "opts": [
+      "The hemiparesis occurs on the same side as the lesion",
+      "Parkinsonian features occur on the side opposite the lesion",
+      "The oculomotor palsy occurs on the same side as the lesion",
+      "Results from ventral midbrain (cerebral peduncle) infarction"
+    ],
+    "ans": 0,
+    "id": "q2101",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which statement about Sibson's fascia (suprapleural membrane) is INCORRECT?",
+    "opts": [
+      "Subclavian vessels arch above it",
+      "A fascial continuation of scalenus minimus",
+      "Forms a dome over the cervical pleura/lung apex",
+      "Attaches to the inner border of the 1st rib and C6 transverse process"
+    ],
+    "ans": 3,
+    "id": "q2102",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Occlusion of the posterior inferior cerebellar artery classically produces which syndrome?",
+    "opts": [
+      "Weber syndrome",
+      "Locked-in syndrome",
+      "Medial medullary syndrome",
+      "Lateral medullary (Wallenberg) syndrome"
+    ],
+    "ans": 3,
+    "id": "q2103",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The cortical area responsible for expressive (motor) speech, whose damage causes Broca's aphasia, is located in which gyrus?",
+    "opts": [
+      "Postcentral gyrus",
+      "Angular gyrus",
+      "Superior temporal gyrus of the dominant hemisphere",
+      "Inferior frontal gyrus of the dominant hemisphere"
+    ],
+    "ans": 3,
+    "id": "q2104",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "At the metacarpophalangeal joints, the hand lumbricals' primary action is:",
+    "opts": [
+      "Abduction",
+      "Flexion",
+      "Extension",
+      "Adduction"
+    ],
+    "ans": 1,
+    "id": "q2105",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "During tonsillectomy, which nerve is most at risk given its close relation to the palatine tonsil?",
+    "opts": [
+      "Vagus nerve",
+      "Trigeminal nerve",
+      "Glossopharyngeal nerve",
+      "Facial nerve"
+    ],
+    "ans": 2,
+    "id": "q2106",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which does NOT pass through the aortic hiatus of the diaphragm?",
+    "opts": [
+      "Vagus nerve",
+      "Thoracic duct",
+      "Descending aorta",
+      "Azygos vein"
+    ],
+    "ans": 0,
+    "id": "q2107",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Right after a tooth erupts, its enamel is covered by which thin membrane derived from reduced enamel epithelium?",
+    "opts": [
+      "Nasmyth's membrane",
+      "Perikymata",
+      "Periodontal ligament",
+      "Cementum"
+    ],
+    "ans": 0,
+    "id": "q2108",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "In severe starvation, a BMI below approximately what value is considered incompatible with survival in adult men?",
+    "opts": [
+      "13 kg/m2",
+      "10 kg/m2",
+      "16 kg/m2",
+      "18 kg/m2"
+    ],
+    "ans": 0,
+    "id": "q2109",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Myasthenia gravis results from autoantibodies against which neuromuscular junction receptor?",
+    "opts": [
+      "Voltage-gated calcium channels",
+      "Voltage-gated sodium channels",
+      "Nicotinic acetylcholine receptors",
+      "Opioid receptors"
+    ],
+    "ans": 2,
+    "id": "q2110",
+    "subject": "Physiology"
+  },
+  {
+    "q": "In Brown-Sequard syndrome (T6 hemisection), pain/temperature loss occurs on which side and at which level relative to the lesion?",
+    "opts": [
+      "Opposite side, beginning a couple of segments below the lesion",
+      "Same side, at the level of the lesion",
+      "Same side, a couple of segments below",
+      "Opposite side, at the exact level"
+    ],
+    "ans": 0,
+    "id": "q2111",
+    "subject": "Physiology"
+  },
+  {
+    "q": "In a lung region where V/Q approaches infinity, which best describes the state?",
+    "opts": [
+      "Gas exchange is maximally efficient",
+      "Ventilated but not perfused (dead space) - no gas exchange",
+      "Both ventilation and perfusion absent",
+      "Perfused but not ventilated - no exchange"
+    ],
+    "ans": 1,
+    "id": "q2112",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The 'c' wave on a JVP tracing is produced by:",
+    "opts": [
+      "Tricuspid opening during rapid filling",
+      "Bulging of the closed tricuspid valve into the right atrium during isovolumetric contraction",
+      "Atrial contraction",
+      "Atrial relaxation with tricuspid open"
+    ],
+    "ans": 1,
+    "id": "q2113",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Alpha waves dominate the EEG under which condition?",
+    "opts": [
+      "Awake, relaxed, eyes closed",
+      "Intense concentration, eyes open",
+      "REM sleep",
+      "Deep slow-wave sleep"
+    ],
+    "ans": 0,
+    "id": "q2114",
+    "subject": "Physiology"
+  },
+  {
+    "q": "In hypovolemic shock, which renal vascular change helps limit further GFR fall and protect volume?",
+    "opts": [
+      "Decreased afferent arteriolar resistance",
+      "Isolated efferent arteriolar dilation",
+      "No change in renal arteriolar tone",
+      "Increased afferent arteriolar resistance"
+    ],
+    "ans": 3,
+    "id": "q2115",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Regarding the countercurrent multiplier in the loop of Henle, which statement is FALSE?",
+    "opts": [
+      "The thick ascending limb actively pumps out NaCl while remaining water-impermeable",
+      "Tubular fluid flows from the PCT toward the DCT",
+      "The thick ascending limb is highly water-permeable even while actively pumping out NaCl",
+      "The thin descending limb is water-permeable, letting water move into the hypertonic interstitium"
+    ],
+    "ans": 2,
+    "id": "q2116",
+    "subject": "Physiology"
+  },
+  {
+    "q": "After entering the enterocyte via SGLT1, glucose exits the basolateral membrane into blood by:",
+    "opts": [
+      "Primary active transport",
+      "Facilitated diffusion via GLUT2",
+      "Simple diffusion through the lipid bilayer",
+      "Secondary active transport coupled to sodium"
+    ],
+    "ans": 1,
+    "id": "q2117",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Growth hormone exerts most growth-promoting effects indirectly by stimulating which organ to secrete IGF-1?",
+    "opts": [
+      "Pancreas",
+      "Liver",
+      "Adrenal cortex",
+      "Anterior pituitary"
+    ],
+    "ans": 1,
+    "id": "q2118",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Bilateral fusiform gyrus damage causes an inability to recognize familiar faces with otherwise intact vision. This is called:",
+    "opts": [
+      "Astereognosis",
+      "Prosopagnosia",
+      "Anton syndrome",
+      "Simultanagnosia"
+    ],
+    "ans": 1,
+    "id": "q2119",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Importins recognize nuclear localization signals to mediate nuclear import through nuclear pores. Which protein plays NO role in this pathway?",
+    "opts": [
+      "Nuclear localization signal-bearing cargo protein",
+      "Importin",
+      "Ran GTPase",
+      "Caveolin"
+    ],
+    "ans": 3,
+    "id": "q2120",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Dietary non-heme iron (Fe2+) crosses the duodenal enterocyte apical membrane via:",
+    "opts": [
+      "GLUT1",
+      "Divalent metal transporter 1 (DMT1)",
+      "Ferroportin",
+      "Transferrin receptor 1"
+    ],
+    "ans": 1,
+    "id": "q2121",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "What is the correct alternative chemical name for serotonin?",
+    "opts": [
+      "5-hydroxytryptamine",
+      "Phenethylamine",
+      "3-methoxytyramine",
+      "N-methyl phenylamine"
+    ],
+    "ans": 0,
+    "id": "q2122",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Hepatorenal tyrosinemia (tyrosinosis) results from deficiency of which enzyme?",
+    "opts": [
+      "Tyrosine transaminase",
+      "Fumarylacetoacetate hydrolase",
+      "p-hydroxyphenylpyruvate dehydrogenase",
+      "Tyrosine ligase"
+    ],
+    "ans": 1,
+    "id": "q2123",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A boy with self-mutilation, choreoathetosis, gout, and mental retardation (Lesch-Nyhan syndrome) has deficiency of:",
+    "opts": [
+      "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)",
+      "Uracil phosphoribosyltransferase",
+      "Orotate phosphoribosyltransferase",
+      "Quinolinate phosphoribosyltransferase"
+    ],
+    "ans": 0,
+    "id": "q2124",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Trimethylaminuria (fish odour syndrome) is caused by deficiency of:",
+    "opts": [
+      "Fumarylacetoacetate hydrolase",
+      "Methane monooxygenase",
+      "D-amino acid oxidase",
+      "Flavin-containing monooxygenase 3 (FMO3)"
+    ],
+    "ans": 3,
+    "id": "q2125",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A neonate with vomiting, jaundice, hepatomegaly, and cataracts after starting milk feeds (classic galactosemia) has deficiency of:",
+    "opts": [
+      "HGPRT",
+      "Galactokinase",
+      "Galactose-1-phosphate uridyltransferase",
+      "Epimerase"
+    ],
+    "ans": 2,
+    "id": "q2126",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Cytoplasmic fatty acid synthase (using acetyl-CoA and malonyl-CoA) produces which predominant fatty acid end product?",
+    "opts": [
+      "Oleic acid",
+      "Palmitic acid",
+      "Glucose",
+      "Arachidonic acid"
+    ],
+    "ans": 1,
+    "id": "q2127",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Which statement about bacterial DNA polymerase I is FALSE?",
+    "opts": [
+      "Removes RNA primers and fills gaps during Okazaki fragment processing",
+      "Has DNA repair activity",
+      "Participates in prokaryotic DNA replication",
+      "It is dispensable and not required for bacterial viability"
+    ],
+    "ans": 3,
+    "id": "q2128",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Molecular chaperones (heat-shock proteins) primarily assist newly synthesized polypeptides with:",
+    "opts": [
+      "Targeted protein degradation",
+      "Proper protein folding",
+      "Proteolytic cleavage",
+      "Post-translational glycosylation"
+    ],
+    "ans": 1,
+    "id": "q2129",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A fishy body odour has classically been attributed to dietary deficiency of which vitamin?",
+    "opts": [
+      "Thiamine",
+      "Vitamin A",
+      "Biotin",
+      "Riboflavin (B2)"
+    ],
+    "ans": 3,
+    "id": "q2130",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Elevated urinary vanillylmandelic acid (VMA) is a useful screening marker for which tumor?",
+    "opts": [
+      "Alkaptonuria",
+      "Phenylketonuria",
+      "Pheochromocytoma",
+      "Diabetic ketoacidosis"
+    ],
+    "ans": 2,
+    "id": "q2131",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Cystinuria involves a defective dibasic amino acid transporter, increasing urinary cystine along with which other amino acids?",
+    "opts": [
+      "Leucine, isoleucine and valine",
+      "Glutamine and asparagine",
+      "Serine and threonine",
+      "Ornithine, lysine and arginine"
+    ],
+    "ans": 3,
+    "id": "q2132",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Fibrinopeptides A and B (cleaved from fibrinogen) carry a net negative charge chiefly due to which residues?",
+    "opts": [
+      "Serine and threonine",
+      "Glutamine and valine",
+      "Histidine and lysine",
+      "Glutamate and aspartate"
+    ],
+    "ans": 3,
+    "id": "q2133",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Elevated urinary 5-HIAA is a diagnostic marker for which condition?",
+    "opts": [
+      "Albinism",
+      "Alkaptonuria",
+      "Carcinoid syndrome",
+      "Phenylketonuria"
+    ],
+    "ans": 2,
+    "id": "q2134",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Warthin-Finkeldey multinucleated giant cells in hyperplastic lymphoid tissue are a characteristic early finding in which infection?",
+    "opts": [
+      "Measles",
+      "Rabies",
+      "Typhoid",
+      "Rubella"
+    ],
+    "ans": 0,
+    "id": "q2135",
+    "subject": "Pathology"
+  },
+  {
+    "q": "CD59 deficiency on blood cells (from a PIGA gene mutation) is characteristic of:",
+    "opts": [
+      "Paroxysmal nocturnal hemoglobinuria",
+      "PTEN hamartoma syndrome",
+      "Cowden syndrome",
+      "Bannayan-Riley-Ruvalcaba syndrome"
+    ],
+    "ans": 0,
+    "id": "q2136",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Which complement component is the principal opsonin promoting phagocytosis?",
+    "opts": [
+      "C6",
+      "C5a",
+      "C3a",
+      "C3b"
+    ],
+    "ans": 3,
+    "id": "q2137",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Bernard-Soulier syndrome (giant platelets, impaired adhesion) results from deficiency of which platelet receptor?",
+    "opts": [
+      "Glycoprotein Ib (vWF receptor)",
+      "Von Willebrand factor itself",
+      "TNF receptor",
+      "Glycoprotein IIb/IIIa"
+    ],
+    "ans": 0,
+    "id": "q2138",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Cowden syndrome (hamartomas, trichilemmomas, breast/thyroid cancer risk) is caused by germline mutation of:",
+    "opts": [
+      "PTEN",
+      "TP53",
+      "RAS",
+      "RB1"
+    ],
+    "ans": 0,
+    "id": "q2139",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Myotonic dystrophy, the most common adult-onset muscular dystrophy, is caused by a trinucleotide repeat expansion on which chromosome?",
+    "opts": [
+      "Chromosome 21",
+      "Chromosome 20",
+      "Chromosome 19",
+      "Chromosome 22"
+    ],
+    "ans": 2,
+    "id": "q2140",
+    "subject": "Pathology"
+  },
+  {
+    "q": "TRALI (transfusion-related acute lung injury) typically develops within how many hours of transfusion?",
+    "opts": [
+      "72 hours",
+      "12 hours",
+      "6 hours",
+      "48 hours"
+    ],
+    "ans": 2,
+    "id": "q2141",
+    "subject": "Pathology"
+  },
+  {
+    "q": "During circulatory shock, which renal vascular change most directly lowers GFR to protect the kidney from further volume loss?",
+    "opts": [
+      "Increased afferent arteriolar resistance",
+      "Isolated efferent arteriolar dilation",
+      "No change in renal arteriolar tone",
+      "Decreased afferent arteriolar resistance"
+    ],
+    "ans": 0,
+    "id": "q2142",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A golden-brown corneal ring at the periphery starting at Schwalbe's line suggests Wilson's disease. What is the best next confirmatory test?",
+    "opts": [
+      "Karyotyping",
+      "PCR for a specific mutation",
+      "Serum copper",
+      "Serum ceruloplasmin"
+    ],
+    "ans": 3,
+    "id": "q2143",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Which gastric tumor arises from the glandular epithelium of the gastric mucosa (a true epithelial neoplasm)?",
+    "opts": [
+      "Gastric adenocarcinoma",
+      "Gastrointestinal stromal tumor (GIST)",
+      "Gastric lymphoma",
+      "Carcinoid tumor"
+    ],
+    "ans": 0,
+    "id": "q2144",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Which inherited condition follows X-linked inheritance?",
+    "opts": [
+      "Y-chromosome-linked azoospermia",
+      "Y-linked retinitis pigmentosa",
+      "Red-green color blindness",
+      "Beta-thalassemia"
+    ],
+    "ans": 2,
+    "id": "q2145",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Which Hodgkin lymphoma subtype shows 'popcorn cells' (L&H cells) rather than classic Reed-Sternberg cells?",
+    "opts": [
+      "Nodular lymphocyte-predominant Hodgkin lymphoma",
+      "Lymphocyte-depleted classical Hodgkin lymphoma",
+      "Nodular sclerosis classical Hodgkin lymphoma",
+      "Mixed cellularity classical Hodgkin lymphoma"
+    ],
+    "ans": 0,
+    "id": "q2146",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Stellate necrotizing lymphadenitis with palisading histiocytes after a kitten scratch suggests infection with:",
+    "opts": [
+      "Histoplasma capsulatum",
+      "Bartonella henselae",
+      "Mycobacterium tuberculosis",
+      "Cryptococcus neoformans"
+    ],
+    "ans": 1,
+    "id": "q2147",
+    "subject": "Pathology"
+  },
+  {
+    "q": "In acute chest pain, an LDH isoenzyme pattern with LDH1 exceeding LDH2 ('flipped LDH') is most suggestive of:",
+    "opts": [
+      "Acute viral hepatitis",
+      "Acute myocardial infarction",
+      "Pulmonary embolism",
+      "Skeletal muscle injury"
+    ],
+    "ans": 1,
+    "id": "q2148",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Athymic ('nude') mice fail to reject xenografts because they lack functional:",
+    "opts": [
+      "B lymphocytes",
+      "NK cells",
+      "T lymphocytes",
+      "Both T and B lymphocytes"
+    ],
+    "ans": 2,
+    "id": "q2149",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A testicular mass shows homogeneous, lobulated, pale tan-white cut surface without hemorrhage/necrosis; histology shows sheets of large uniform clear cells with lymphocytic infiltrate in fibrous septa. This is:",
+    "opts": [
+      "Seminoma",
+      "Embryonal carcinoma",
+      "Yolk sac tumor",
+      "Choriocarcinoma"
+    ],
+    "ans": 0,
+    "id": "q2150",
+    "subject": "Pathology"
+  },
+  {
+    "q": "In tumor pathology, 'anaplasia' refers to which feature?",
+    "opts": [
+      "Metaplastic change from one epithelial type to another",
+      "Lack of differentiation of neoplastic cells",
+      "Increased nuclear chromatin content alone",
+      "Any morphological cell change"
+    ],
+    "ans": 1,
+    "id": "q2151",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A persistently elevated serum prolactin above approximately which threshold strongly suggests a prolactinoma?",
+    "opts": [
+      "150 ng/mL",
+      "100 ng/mL",
+      "50 ng/mL",
+      "200 ng/mL"
+    ],
+    "ans": 3,
+    "id": "q2152",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Chronic laxative abuse predisposes to which uncommon renal stone type via potassium depletion and increased renal ammonium production?",
+    "opts": [
+      "Struvite stones",
+      "Pure uric acid stones",
+      "Ammonium acid urate stones",
+      "Calcium oxalate stones"
+    ],
+    "ans": 2,
+    "id": "q2153",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A lung lobe from a pneumococcal pneumonia death is firm, airless, red-brown, resembling liver; alveoli are packed with RBCs, neutrophils, and fibrin. This stage is:",
+    "opts": [
+      "Resolution",
+      "Red hepatization",
+      "Organisation",
+      "Grey hepatization"
+    ],
+    "ans": 1,
+    "id": "q2154",
+    "subject": "Pathology"
+  },
+  {
+    "q": "A chest X-ray shows innumerable tiny (1-5 mm) uniform nodules scattered throughout both lungs, like millet seeds. This pattern suggests:",
+    "opts": [
+      "Miliary tuberculosis",
+      "Bronchiectasis",
+      "Bronchoalveolar carcinoma",
+      "COPD"
+    ],
+    "ans": 0,
+    "id": "q2155",
+    "subject": "Radiology"
+  },
+  {
+    "q": "An infant presents with painful symmetric hand/foot swelling (dactylitis) as the first sign of a hemoglobinopathy. This suggests:",
+    "opts": [
+      "Von Willebrand disease",
+      "Measles",
+      "Sickle cell anemia",
+      "Hemophilia A"
+    ],
+    "ans": 2,
+    "id": "q2156",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "Anti-Mullerian hormone from fetal Sertoli cells is under regulatory control of the SRY gene located on which chromosome?",
+    "opts": [
+      "Y chromosome",
+      "Chromosome 22",
+      "X chromosome",
+      "Chromosome 16"
+    ],
+    "ans": 0,
+    "id": "q2157",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Burkholderia cepacia is intrinsically resistant to aminoglycosides, polymyxins, and most early cephalosporins. Which is it typically RESISTANT to?",
+    "opts": [
+      "Trimethoprim-sulfamethoxazole",
+      "Cefotetan (2nd-gen cephamycin)",
+      "Ceftazidime",
+      "Temocillin"
+    ],
+    "ans": 1,
+    "id": "q2158",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Reactivation of latent virus in dorsal root ganglia causing a painful vesicular dermatomal rash (shingles) is caused by:",
+    "opts": [
+      "Herpes simplex virus",
+      "Cytomegalovirus",
+      "Varicella-zoster virus",
+      "Epstein-Barr virus"
+    ],
+    "ans": 2,
+    "id": "q2159",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Which organism's infection is diagnosed with a urea breath test exploiting its urease enzyme?",
+    "opts": [
+      "Helicobacter pylori",
+      "Campylobacter jejuni",
+      "Lactobacillus species",
+      "Escherichia coli"
+    ],
+    "ans": 0,
+    "id": "q2160",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Hyperacute transplant rejection from preformed anti-ABO/HLA antibodies typically becomes evident within which timeframe after revascularization?",
+    "opts": [
+      "Several months to years",
+      "2 weeks",
+      "24 hours",
+      "Minutes"
+    ],
+    "ans": 3,
+    "id": "q2161",
+    "subject": "Pathology"
+  },
+  {
+    "q": "The historic 'Australia antigen', the first serological marker of active hepatitis B, corresponds to:",
+    "opts": [
+      "HBcAg",
+      "Hepatitis B viral DNA",
+      "HBeAg",
+      "HBsAg"
+    ],
+    "ans": 3,
+    "id": "q2162",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A diabetic ketoacidosis patient develops rapid orbital cellulitis, facial pain, and a black nasal eschar with proptosis. Which fungal genus is classically responsible?",
+    "opts": [
+      "Mucor (mucormycosis)",
+      "Cryptococcus",
+      "Histoplasma",
+      "Candida"
+    ],
+    "ans": 0,
+    "id": "q2163",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "The Sabin-Feldman dye test (complement-mediated lysis assay) is used to diagnose:",
+    "opts": [
+      "Botulism",
+      "Toxoplasmosis",
+      "Sarcoidosis",
+      "Yellow fever"
+    ],
+    "ans": 1,
+    "id": "q2164",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Epidemic acute hemorrhagic conjunctivitis is most classically caused by which enterovirus serotype?",
+    "opts": [
+      "Enterovirus 69",
+      "Enterovirus 68",
+      "Enterovirus 71",
+      "Enterovirus 70"
+    ],
+    "ans": 3,
+    "id": "q2165",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Humans acquire hydatid disease (Echinococcus granulosus) after ingesting eggs shed by which definitive host?",
+    "opts": [
+      "Pigs",
+      "Foxes",
+      "Dogs",
+      "Cats"
+    ],
+    "ans": 2,
+    "id": "q2166",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Chronic draining sinuses discharging yellow 'sulphur granules' are characteristic of infection with:",
+    "opts": [
+      "Salmonella species",
+      "Actinomyces species",
+      "Nocardia species",
+      "Francisella tularensis"
+    ],
+    "ans": 1,
+    "id": "q2167",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Which TB test is performed on whole blood and measures interferon-gamma release by sensitized T cells?",
+    "opts": [
+      "Viral PCR",
+      "Interferon-gamma release assay (IGRA)",
+      "GeneXpert MTB/RIF (sputum-based)",
+      "Routine bacterial blood culture"
+    ],
+    "ans": 1,
+    "id": "q2168",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "What is the most common causative organism of acute bacterial prostatitis in adult men?",
+    "opts": [
+      "Peptostreptococcus species",
+      "Enterococcus species",
+      "Escherichia coli",
+      "Streptococcus viridans"
+    ],
+    "ans": 2,
+    "id": "q2169",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Scombroid poisoning from improperly refrigerated fish involves bacterial histidine decarboxylase converting histidine to histamine. Which organism on fish skin/gut is implicated?",
+    "opts": [
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus",
+      "Salmonella species",
+      "Weissella species"
+    ],
+    "ans": 0,
+    "id": "q2170",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Antonie van Leeuwenhoek, who first described microorganisms with a handcrafted microscope, is regarded as the father of:",
+    "opts": [
+      "Virology",
+      "Microbiology",
+      "Immunology",
+      "Genetics"
+    ],
+    "ans": 1,
+    "id": "q2171",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Cutaneous larva migrans, from walking barefoot on sand contaminated with dog/cat feces, is most commonly caused by larvae of:",
+    "opts": [
+      "Toxocara canis",
+      "Ancylostoma braziliense",
+      "Necator americanus",
+      "Strongyloides stercoralis"
+    ],
+    "ans": 1,
+    "id": "q2172",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "In renal transplant recipients, which organism most commonly causes post-transplant viral infection, often with fever, leukopenia, and hepatosplenomegaly?",
+    "opts": [
+      "Streptococcus species",
+      "Staphylococcus aureus",
+      "Cytomegalovirus",
+      "Klebsiella pneumoniae"
+    ],
+    "ans": 2,
+    "id": "q2173",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "A Giemsa-stained blood smear from a febrile patient shows small ring-shaped intracellular trophozoites within RBCs. This suggests:",
+    "opts": [
+      "Salmonella typhi",
+      "Toxoplasma gondii",
+      "Treponema pallidum",
+      "Plasmodium species (malaria)"
+    ],
+    "ans": 3,
+    "id": "q2174",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Which prostaglandin is the principal endogenous pyrogen, raising the hypothalamic set point in fever?",
+    "opts": [
+      "Prostacyclin (PGI2)",
+      "Prostaglandin D2",
+      "Prostaglandin E2",
+      "Prostaglandin F2-alpha"
+    ],
+    "ans": 2,
+    "id": "q2175",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Bartter syndrome, a salt-wasting tubulopathy mimicking chronic loop diuretic use, results from a transport defect in which nephron segment?",
+    "opts": [
+      "Collecting duct",
+      "Proximal convoluted tubule",
+      "Thick ascending limb of the loop of Henle",
+      "Distal convoluted tubule"
+    ],
+    "ans": 2,
+    "id": "q2176",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which is NOT typically a feature of allergic bronchopulmonary aspergillosis (ABPA)?",
+    "opts": [
+      "Markedly elevated serum IgE",
+      "Pleural effusion",
+      "Occurrence with pre-existing cavitary lung disease",
+      "Recurrent bacterial pneumonia"
+    ],
+    "ans": 3,
+    "id": "q2177",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A tall peaked P wave resembling 'P pulmonale' without true right atrial hypertrophy ('pseudo P-pulmonale') is classically associated with:",
+    "opts": [
+      "Hyponatremia",
+      "Hypokalemia",
+      "Hypocalcemia",
+      "Hypercalcemia"
+    ],
+    "ans": 1,
+    "id": "q2178",
+    "subject": "Medicine"
+  },
+  {
+    "q": "An implantable cardioverter-defibrillator (ICD) can be appropriate in which situations?",
+    "opts": [
+      "Never in structural heart disease",
+      "Brugada syndrome, prior VF, and acute coronary syndrome with severely reduced EF can all be valid indications",
+      "Only prior ventricular fibrillation",
+      "Only Brugada syndrome"
+    ],
+    "ans": 1,
+    "id": "q2179",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Which drug is used first-line for severe, intractable Sydenham's chorea in rheumatic fever?",
+    "opts": [
+      "Sodium valproate",
+      "Risperidone",
+      "Haloperidol",
+      "Warfarin"
+    ],
+    "ans": 0,
+    "id": "q2180",
+    "subject": "Pediatrics"
+  },
+  {
+    "q": "Which is NOT among the diagnostic criteria for neurofibromatosis type 1?",
+    "opts": [
+      "Pseudarthrosis or characteristic long-bone dysplasia",
+      "Bilateral acoustic neuromas (vestibular schwannomas)",
+      "Six or more cafe-au-lait macules",
+      "Two or more Lisch nodules"
+    ],
+    "ans": 1,
+    "id": "q2181",
+    "subject": "Medicine"
+  },
+  {
+    "q": "The most common site for a chronic gastric peptic ulcer, closely related to H. pylori antral colonization, is:",
+    "opts": [
+      "Greater curvature",
+      "Fundus of the stomach",
+      "Cardia",
+      "Pyloric antrum"
+    ],
+    "ans": 3,
+    "id": "q2182",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Without antiretroviral therapy, the average interval from HIV infection to clinically apparent AIDS is approximately:",
+    "opts": [
+      "5 years",
+      "10 years",
+      "20 years",
+      "2 years"
+    ],
+    "ans": 1,
+    "id": "q2183",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Heller's myotomy, dividing muscle at the gastroesophageal junction to relieve outflow obstruction, is definitive treatment for:",
+    "opts": [
+      "Achalasia cardia",
+      "Meniscal tear of the knee",
+      "Zenker's diverticulum",
+      "Bunions"
+    ],
+    "ans": 0,
+    "id": "q2184",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A woman develops sudden chest pain and apical LV ballooning after an emotionally stressful event, with ECG changes disproportionate to angiographic findings. This is:",
+    "opts": [
+      "Constrictive pericarditis",
+      "Restrictive cardiomyopathy",
+      "Takotsubo (stress) cardiomyopathy",
+      "Brugada syndrome"
+    ],
+    "ans": 2,
+    "id": "q2185",
+    "subject": "Medicine"
+  },
+  {
+    "q": "During ACLS for pulseless VF, which vasopressor has historically been used as an alternative to epinephrine?",
+    "opts": [
+      "High-dose vasopressin",
+      "Atropine",
+      "Amiodarone infusion",
+      "Adenosine"
+    ],
+    "ans": 0,
+    "id": "q2186",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient has cutaneous vasculitis, rapidly progressive glomerulonephritis, and peripheral neuropathy. Which test best confirms the suspected diagnosis?",
+    "opts": [
+      "Anti-neutrophil cytoplasmic antibody (ANCA)",
+      "Migration inhibitory factor assay",
+      "Hepatitis B surface antigen",
+      "Rheumatoid factor"
+    ],
+    "ans": 0,
+    "id": "q2187",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Mixed cryoglobulinemia (palpable purpura, arthralgia, glomerulonephritis from cold-precipitating immune complexes) is most associated with chronic infection by:",
+    "opts": [
+      "Hepatitis C virus",
+      "Epstein-Barr virus",
+      "Hepatitis A virus",
+      "Human papillomavirus"
+    ],
+    "ans": 0,
+    "id": "q2188",
+    "subject": "Medicine"
+  },
+  {
+    "q": "A patient has hypokalemic metabolic alkalosis with hypertension (unlike normotensive Bartter/Gitelman syndrome). This suggests:",
+    "opts": [
+      "Bartter syndrome",
+      "Type 4 renal tubular acidosis",
+      "Liddle syndrome",
+      "Gitelman syndrome"
+    ],
+    "ans": 2,
+    "id": "q2189",
+    "subject": "Medicine"
+  },
+  {
+    "q": "By GOLD spirometric criteria, 'very severe' (Stage IV) COPD requires FEV1/FVC below 70% together with:",
+    "opts": [
+      "FEV1 50-80% predicted",
+      "FEV1 less than 30% predicted",
+      "FEV1 greater than 80% predicted",
+      "FEV1 30-50% predicted"
+    ],
+    "ans": 1,
+    "id": "q2190",
+    "subject": "Medicine"
+  },
+  {
+    "q": "The ankle-brachial pressure index (ABPI) can be falsely elevated in which situation?",
+    "opts": [
+      "Ischemic leg ulcers",
+      "Acute deep vein thrombosis",
+      "Intermittent claudication from atherosclerosis",
+      "Heavily calcified, non-compressible arteries (e.g., longstanding diabetes)"
+    ],
+    "ans": 3,
+    "id": "q2191",
+    "subject": "Medicine"
+  },
+  {
+    "q": "Minimal brain dysfunction syndrome in children (immature activity/emotion/behavior control) is most closely associated with which learning difficulty?",
+    "opts": [
+      "Autism spectrum disorder",
+      "Dyslexia",
+      "Severe intellectual disability",
+      "Down syndrome"
+    ],
+    "ans": 1,
+    "id": "q2192",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "Amphotericin B exerts its antifungal effect primarily by binding ergosterol and forming pores in which fungal structure?",
+    "opts": [
+      "Ribosomes",
+      "The plasma (cell) membrane",
+      "DNA gyrase",
+      "The cell wall"
+    ],
+    "ans": 1,
+    "id": "q2193",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Which NRTI, used in HIV regimens, also has activity against hepatitis B virus?",
+    "opts": [
+      "Emtricitabine",
+      "Nevirapine",
+      "Abacavir",
+      "Raltegravir"
+    ],
+    "ans": 0,
+    "id": "q2194",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Which drug is preferred for resistant Sydenham's chorea when initial symptomatic measures fail?",
+    "opts": [
+      "Penicillin",
+      "Diazepam alone",
+      "Sodium valproate",
+      "Probenecid"
+    ],
+    "ans": 2,
+    "id": "q2195",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "For a weak acid drug, under what condition are ionised and non-ionised plasma proportions equal (50:50)?",
+    "opts": [
+      "Plasma pH equals the drug's pKa",
+      "Plasma pH one unit above pKa",
+      "Plasma pH one unit below pKa",
+      "This ratio never occurs for weak acids"
+    ],
+    "ans": 0,
+    "id": "q2196",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "The normal physiological rate of cortisol secretion by the adrenal cortex (roughly half released in early morning) is closest to:",
+    "opts": [
+      "About 1 mg/day",
+      "About 100 mg/day",
+      "About 10 mg/day",
+      "About 50 mg/day"
+    ],
+    "ans": 2,
+    "id": "q2197",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Colchicine relieves acute gouty arthritis primarily through which mechanism?",
+    "opts": [
+      "Promoting renal uric acid excretion",
+      "Inhibiting xanthine oxidase",
+      "Binding tubulin to inhibit microtubule-dependent neutrophil migration",
+      "Directly dissolving urate crystals in synovial fluid"
+    ],
+    "ans": 2,
+    "id": "q2198",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Basiliximab, preventing acute transplant rejection, acts by blocking which receptor?",
+    "opts": [
+      "TNF receptor",
+      "Interleukin-1 receptor",
+      "Interleukin-2 receptor (CD25)",
+      "CD3 receptor complex"
+    ],
+    "ans": 2,
+    "id": "q2199",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Pirenzepine, a selective M1 antagonist reducing gastric acid secretion, is used for:",
+    "opts": [
+      "Essential hypertension",
+      "Peptic (gastric) ulcer disease",
+      "Congestive heart failure",
+      "Open-angle glaucoma"
+    ],
+    "ans": 1,
+    "id": "q2200",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Among second-generation antipsychotics, which is most notorious for raising serum prolactin via potent D2 blockade?",
+    "opts": [
+      "Risperidone",
+      "Olanzapine",
+      "Ziprasidone",
+      "Clozapine"
+    ],
+    "ans": 0,
+    "id": "q2201",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "Which drug inhibits adrenal 11-beta-hydroxylase and is used to test/suppress cortisol synthesis?",
+    "opts": [
+      "Metyrapone",
+      "Flutamide",
+      "Mifepristone",
+      "Finasteride"
+    ],
+    "ans": 0,
+    "id": "q2202",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Which statement about prasugrel is INCORRECT?",
+    "opts": [
+      "Contraindicated with history of stroke/TIA due to bleeding risk",
+      "It is an irreversible P2Y12 ADP receptor blocker",
+      "It produces strong antiplatelet activity",
+      "It is not a prodrug"
+    ],
+    "ans": 3,
+    "id": "q2203",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "QT prolongation leading to torsades de pointes is most classically associated with which antiarrhythmic?",
+    "opts": [
+      "Quinidine",
+      "Magnesium sulfate",
+      "Adenosine",
+      "Lignocaine"
+    ],
+    "ans": 0,
+    "id": "q2204",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Sacubitril (combined with valsartan for heart failure) acts by inhibiting which enzyme?",
+    "opts": [
+      "HMG-CoA reductase",
+      "Neprilysin (neutral endopeptidase)",
+      "Angiotensin-converting enzyme",
+      "Beta-1 adrenergic receptor"
+    ],
+    "ans": 1,
+    "id": "q2205",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Niacin therapy should be used cautiously in diabetics because it tends to cause:",
+    "opts": [
+      "Worsening glycemic control (increased glucose)",
+      "Scleroderma-like skin changes",
+      "Severe hypoglycemia",
+      "Reduced metabolism of oral hypoglycemics"
+    ],
+    "ans": 0,
+    "id": "q2206",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Which endothelial-secreted peptide is the most potent endogenous vasoconstrictor in humans?",
+    "opts": [
+      "Angiotensin II",
+      "Endothelin-1",
+      "Thromboxane A2",
+      "Arginine vasopressin"
+    ],
+    "ans": 1,
+    "id": "q2207",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Which centrally acting alpha-2 agonist relaxes skeletal muscle spasticity by facilitating spinal glycine-mediated inhibition?",
+    "opts": [
+      "Bromocriptine",
+      "Diazepam",
+      "Methocarbamol",
+      "Tizanidine"
+    ],
+    "ans": 3,
+    "id": "q2208",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Apixaban, an oral anticoagulant, directly inhibits which clotting factor?",
+    "opts": [
+      "Thrombin (Factor IIa)",
+      "Factor VIII",
+      "Factor Xa",
+      "Factor XII"
+    ],
+    "ans": 2,
+    "id": "q2209",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Obligate anaerobic bacteria are intrinsically resistant to which antibiotic class because uptake requires oxygen-dependent active transport?",
+    "opts": [
+      "Metronidazole",
+      "Aminoglycosides",
+      "Macrolides (e.g., azithromycin)",
+      "Beta-lactam antibiotics"
+    ],
+    "ans": 1,
+    "id": "q2210",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Which antibiotic is bactericidal rather than bacteriostatic?",
+    "opts": [
+      "Clindamycin",
+      "Chloramphenicol",
+      "Tetracycline",
+      "Vancomycin"
+    ],
+    "ans": 3,
+    "id": "q2211",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Long-term abuse of which laxative class characteristically produces melanosis coli?",
+    "opts": [
+      "Anthranoid stimulant laxatives such as senna",
+      "Osmotic laxatives (e.g., magnesium sulfate)",
+      "Bulk-forming laxatives (e.g., psyllium)",
+      "Stool softeners (e.g., docusate)"
+    ],
+    "ans": 0,
+    "id": "q2212",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "In a bedridden patient with catheter-associated UTI complicated by pneumonia, which antibiotic regimen generally covers resistant organisms best?",
+    "opts": [
+      "A second-generation cephalosporin alone",
+      "A beta-lactam combined with a beta-lactamase inhibitor",
+      "Amoxicillin alone",
+      "A single dose of a first-generation cephalosporin"
+    ],
+    "ans": 1,
+    "id": "q2213",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Mycoplasma pneumoniae, lacking a cell wall, is intrinsically resistant to which antibiotic class?",
+    "opts": [
+      "Beta-lactams (e.g., ceftriaxone)",
+      "Fluoroquinolones",
+      "Tetracyclines",
+      "Macrolides"
+    ],
+    "ans": 0,
+    "id": "q2214",
+    "subject": "Microbiology"
+  },
+  {
+    "q": "Tadalafil should not be co-administered with which drug class due to risk of severe hypotension?",
+    "opts": [
+      "Nitrate vasodilators",
+      "Valproate",
+      "Antibiotics",
+      "Vasoconstrictors"
+    ],
+    "ans": 0,
+    "id": "q2215",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Using the Parkland formula (4 mL x kg x %TBSA, half in first 8h), what volume of Ringer's lactate is given in the first 8 hours to a 50 kg man with 40% TBSA burns?",
+    "opts": [
+      "6 litres",
+      "8 litres",
+      "4 litres",
+      "2 litres"
+    ],
+    "ans": 2,
+    "id": "q2216",
+    "subject": "Surgery"
+  },
+  {
+    "q": "In forensic/legal terminology, a 'posthumous child' refers to a child born under which circumstance?",
+    "opts": [
+      "Born after the death of the biological mother",
+      "Born after the death of the biological father",
+      "A child abandoned by both parents",
+      "Born after the death of both parents"
+    ],
+    "ans": 1,
+    "id": "q2217",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "The M'Naghten rule, underlying the insanity defence, is codified under which section of the Indian Penal Code?",
+    "opts": [
+      "Section 302",
+      "Section 48",
+      "Section 375",
+      "Section 84"
+    ],
+    "ans": 3,
+    "id": "q2218",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "A greyish-blue discolouration of the gastric mucosa found at autopsy is classically associated with poisoning by:",
+    "opts": [
+      "Mercury",
+      "Copper sulfate or amytal (barbiturate) capsules",
+      "Arsenic",
+      "Carbolic acid (phenol)"
+    ],
+    "ans": 1,
+    "id": "q2219",
+    "subject": "Forensic Medicine"
   }
 ]
