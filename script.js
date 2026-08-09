@@ -194,6 +194,7 @@ function renderTest() {
     <div class="card">
       <div class="qnum">${sec.name} &middot; Question ${idx + 1}</div>
       <div class="qtext">${q.q}</div>
+      ${q.img ? `<img class="qimg" src="${q.img}" alt="Question image" loading="lazy">` : ''}
       ${optsHtml}
       ${state.answers[idx] !== null ? '<button class="clearbtn" id="clearBtn">Clear response</button>' : ''}
     </div>
@@ -284,6 +285,7 @@ function renderResults() {
       <div class="review-item ${status}">
         <div class="qnum">Q${i + 1} &middot; ${SECTIONS[sectionOf(i)].name}</div>
         <div class="qtext">${q.q}</div>
+        ${q.img ? `<img class="qimg" src="${q.img}" alt="Question image" loading="lazy">` : ''}
         ${status !== 'correct' ? `<div class="rowline your">Your answer: ${yourAnsText}</div>` : ''}
         <div class="rowline correctans">Correct answer: ${correctText}</div>
       </div>

@@ -55,4 +55,5 @@ Upload `index.html`, `styles.css`, `script.js`, and `questions.json` as-is (they
 ## Updating content
 
 - **Add/edit questions**: edit `questions.json`. Each entry: `{ "q": "...", "opts": ["...", "...", "...", "..."], "ans": 0, "id": "q0001", "subject": "..." }` where `ans` is the 0-indexed correct option.
+- **Image-based questions**: add an optional `"img": "images/q0947.jpg"` field to a question entry. The path is relative to the site root and is rendered above the answer options (and in the results review). Put the actual image file in `images/`. Only use images you have the rights to use/redistribute (public domain, your own diagrams, or properly licensed sources) — never copyrighted exam-paper scans.
 - **Change styling/logic**: after editing `styles.css` or `script.js`, bump the `?v=...` query string in `index.html`'s `<link>`/`<script>` tags so browsers/CDNs don't serve a stale cached copy.

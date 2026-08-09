@@ -82,6 +82,11 @@ header.top .tag {
   color: var(--teal); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 8px; font-weight: 700;
 }
 .qtext { font-size: 1.15rem; line-height: 1.5; margin-bottom: 20px; }
+.qimg {
+  display: block; max-width: 100%; max-height: 420px; margin: 0 0 20px;
+  border: 1px solid var(--line); border-radius: 5px; background: #fff;
+}
+.review-item .qimg { max-height: 280px; margin-bottom: 10px; }
 
 .opt {
   display: flex; align-items: flex-start; gap: 12px;

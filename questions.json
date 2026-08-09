@@ -11350,5 +11350,735 @@
     "ans": 0,
     "id": "q0946",
     "subject": "Medicine"
+  },
+  {
+    "q": "A 45-year-old man presents with severe epigastric pain radiating to the back, partially relieved by leaning forward, with serum lipase elevated to three times the upper limit of normal. What is the diagnosis?",
+    "opts": [
+      "Acute pancreatitis",
+      "Perforated peptic ulcer",
+      "Acute cholecystitis",
+      "Mesenteric ischemia"
+    ],
+    "ans": 0,
+    "id": "q0947",
+    "subject": "Surgery"
+  },
+  {
+    "q": "In an adult presenting with small bowel obstruction who has no history of prior abdominal surgery, what is the most likely underlying cause?",
+    "opts": [
+      "Adhesions",
+      "Hernia",
+      "Malignancy",
+      "Intussusception"
+    ],
+    "ans": 1,
+    "id": "q0948",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A 60-year-old man presents with painless progressive jaundice, weight loss, and a palpable, non-tender, distended gallbladder (Courvoisier sign). What is the most likely diagnosis?",
+    "opts": [
+      "Choledocholithiasis",
+      "Carcinoma of the head of the pancreas",
+      "Acute cholecystitis",
+      "Ascending cholangitis"
+    ],
+    "ans": 1,
+    "id": "q0949",
+    "subject": "Surgery"
+  },
+  {
+    "q": "Charcot's triad, classically associated with ascending cholangitis, consists of which three findings?",
+    "opts": [
+      "Fever, jaundice, and right upper quadrant pain",
+      "Fever, hypotension, and altered mental status",
+      "Jaundice, weight loss, and pruritus",
+      "Right upper quadrant pain, fever, and hematemesis"
+    ],
+    "ans": 0,
+    "id": "q0950",
+    "subject": "Surgery"
+  },
+  {
+    "q": "Which type of abdominal wall hernia is most prone to strangulation because of its characteristically narrow, rigid neck?",
+    "opts": [
+      "Direct inguinal hernia",
+      "Indirect inguinal hernia",
+      "Femoral hernia",
+      "Umbilical hernia in adults"
+    ],
+    "ans": 2,
+    "id": "q0951",
+    "subject": "Surgery"
+  },
+  {
+    "q": "A young patient presents with pain that began periumbilically and migrated to the right iliac fossa, accompanied by anorexia, low-grade fever, and rebound tenderness at McBurney's point. What is the diagnosis?",
+    "opts": [
+      "Acute appendicitis",
+      "Meckel diverticulitis",
+      "Right ovarian torsion",
+      "Cecal diverticulitis"
+    ],
+    "ans": 0,
+    "id": "q0952",
+    "subject": "Surgery"
+  },
+  {
+    "q": "During a low anterior resection of the rectum for cancer, injury to which structures can result in erectile and bladder dysfunction?",
+    "opts": [
+      "Pudendal nerve",
+      "Hypogastric (pelvic autonomic) nerve plexus",
+      "Obturator nerve",
+      "Ilioinguinal nerve"
+    ],
+    "ans": 1,
+    "id": "q0953",
+    "subject": "Surgery"
+  },
+  {
+    "q": "In Boerhaave syndrome (spontaneous transmural esophageal rupture), the tear most commonly occurs at which site?",
+    "opts": [
+      "Left posterolateral wall of the distal esophagus",
+      "Upper third of the esophagus",
+      "Right lateral wall of the mid esophagus",
+      "Anterior wall of the gastroesophageal junction"
+    ],
+    "ans": 0,
+    "id": "q0954",
+    "subject": "Surgery"
+  },
+  {
+    "q": "Medullary carcinoma of the thyroid, associated with elevated serum calcitonin and MEN 2 syndromes, arises from which cell type?",
+    "opts": [
+      "Follicular cells",
+      "Parafollicular (C) cells",
+      "Hurthle cells",
+      "Lymphocytes"
+    ],
+    "ans": 1,
+    "id": "q0955",
+    "subject": "Surgery"
+  },
+  {
+    "q": "What is the most common benign breast tumor in women under 30 years of age?",
+    "opts": [
+      "Fibroadenoma",
+      "Phyllodes tumor",
+      "Intraductal papilloma",
+      "Lipoma"
+    ],
+    "ans": 0,
+    "id": "q0956",
+    "subject": "Surgery"
+  },
+  {
+    "q": "What is the most common site of implantation in a tubal ectopic pregnancy?",
+    "opts": [
+      "Ampulla of the fallopian tube",
+      "Isthmus of the fallopian tube",
+      "Ovary",
+      "Cervix"
+    ],
+    "ans": 0,
+    "id": "q0957",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A woman presents with amenorrhea, a uterus larger than expected for dates, markedly elevated beta-hCG, and a 'snowstorm' appearance on ultrasound with no identifiable fetal parts. What is the diagnosis?",
+    "opts": [
+      "Complete hydatidiform mole",
+      "Partial hydatidiform mole",
+      "Missed abortion",
+      "Multiple pregnancy"
+    ],
+    "ans": 0,
+    "id": "q0958",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "What is the most common benign ovarian tumor in women of reproductive age?",
+    "opts": [
+      "Serous cystadenoma",
+      "Mature cystic teratoma (dermoid cyst)",
+      "Mucinous cystadenoma",
+      "Ovarian fibroma"
+    ],
+    "ans": 1,
+    "id": "q0959",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "The APGAR score, used to assess a newborn's condition at birth, evaluates which set of parameters?",
+    "opts": [
+      "Appearance, pulse, grimace, activity, and respiration",
+      "Airway, pulse, glucose, activity, and reflex",
+      "Appearance, pain, growth, activity, and respiration",
+      "Alertness, pulse, glucose, activity, and respiration"
+    ],
+    "ans": 0,
+    "id": "q0960",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "According to the Rotterdam criteria for polycystic ovary syndrome (2 of 3 required), which of the following is NOT one of the three diagnostic criteria?",
+    "opts": [
+      "Oligo-ovulation or anovulation",
+      "Clinical or biochemical hyperandrogenism",
+      "Polycystic ovarian morphology on ultrasound",
+      "Insulin resistance"
+    ],
+    "ans": 3,
+    "id": "q0961",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "Which contraceptive method offers protection against sexually transmitted infections in addition to preventing pregnancy?",
+    "opts": [
+      "Combined oral contraceptive pills",
+      "Copper intrauterine device",
+      "Condoms",
+      "Depot medroxyprogesterone acetate injection"
+    ],
+    "ans": 2,
+    "id": "q0962",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "A pregnant woman at 28 weeks has a 1-hour 50g glucose challenge test result of 145 mg/dL (threshold for further testing is 140 mg/dL). What is the next appropriate step?",
+    "opts": [
+      "Diagnose gestational diabetes and start insulin immediately",
+      "Perform a 100g 3-hour oral glucose tolerance test",
+      "Repeat the 50g challenge test in 4 weeks",
+      "No further testing is needed, as this is a normal result"
+    ],
+    "ans": 1,
+    "id": "q0963",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "The Bishop score is used prior to induction of labor to assess which of the following?",
+    "opts": [
+      "Fetal well-being",
+      "Cervical favorability for induction",
+      "Placental maturity",
+      "Amniotic fluid volume"
+    ],
+    "ans": 1,
+    "id": "q0964",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "Deficiency of which vitamin, classically caused by excessive consumption of raw egg whites (which contain avidin), impairs carboxylation reactions?",
+    "opts": [
+      "Biotin",
+      "Pantothenic acid",
+      "Folate",
+      "Vitamin B12"
+    ],
+    "ans": 0,
+    "id": "q0965",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Classic phenylketonuria results from deficiency of which enzyme?",
+    "opts": [
+      "Phenylalanine hydroxylase",
+      "Tyrosine hydroxylase",
+      "Homogentisate oxidase",
+      "Tyrosine aminotransferase"
+    ],
+    "ans": 0,
+    "id": "q0966",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Which of the following amino acids is both glucogenic and ketogenic?",
+    "opts": [
+      "Leucine",
+      "Lysine",
+      "Isoleucine",
+      "Phenylalanine"
+    ],
+    "ans": 3,
+    "id": "q0967",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "A Lineweaver-Burk (double-reciprocal) plot is used to graphically determine which enzyme kinetic parameters?",
+    "opts": [
+      "Km and Vmax",
+      "pH optimum only",
+      "Enzyme concentration only",
+      "Substrate concentration only"
+    ],
+    "ans": 0,
+    "id": "q0968",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Which fat-soluble vitamin functions primarily as an antioxidant, protecting cell membrane lipids from peroxidative damage?",
+    "opts": [
+      "Vitamin C",
+      "Vitamin E",
+      "Vitamin B2 (riboflavin)",
+      "Vitamin B6"
+    ],
+    "ans": 1,
+    "id": "q0969",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "Lesch-Nyhan syndrome, characterized by hyperuricemia, gouty arthritis, choreoathetosis, and compulsive self-mutilation, results from deficiency of which enzyme?",
+    "opts": [
+      "Adenosine deaminase",
+      "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)",
+      "Xanthine oxidase",
+      "Purine nucleoside phosphorylase"
+    ],
+    "ans": 1,
+    "id": "q0970",
+    "subject": "Biochemistry"
+  },
+  {
+    "q": "An epidural hematoma following blunt trauma to the temporal region most commonly results from injury to which artery?",
+    "opts": [
+      "Middle meningeal artery",
+      "Anterior cerebral artery",
+      "Middle cerebral artery",
+      "Superior sagittal sinus"
+    ],
+    "ans": 0,
+    "id": "q0971",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Within the cavernous sinus, which cranial nerve runs freely through the body of the sinus in close relation to the internal carotid artery, rather than within the lateral wall of the sinus?",
+    "opts": [
+      "Abducens nerve (CN VI)",
+      "Oculomotor nerve (CN III)",
+      "Trochlear nerve (CN IV)",
+      "Ophthalmic division of the trigeminal nerve (CN V1)"
+    ],
+    "ans": 0,
+    "id": "q0972",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Injury to the axillary nerve, as may occur with anterior shoulder dislocation or a surgical neck of humerus fracture, results in paralysis of which muscle and sensory loss over which area?",
+    "opts": [
+      "Deltoid paralysis with sensory loss over the 'regimental badge' area of the shoulder",
+      "Biceps paralysis with sensory loss over the lateral forearm",
+      "Supraspinatus paralysis with sensory loss over the shoulder tip",
+      "Triceps paralysis with sensory loss over the posterior arm"
+    ],
+    "ans": 0,
+    "id": "q0973",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The rectouterine pouch (Pouch of Douglas), the most dependent part of the peritoneal cavity in a supine woman, is a common site for accumulation of which of the following?",
+    "opts": [
+      "Free intraperitoneal fluid or blood",
+      "Ascitic fluid exclusively",
+      "Bile",
+      "Gas"
+    ],
+    "ans": 0,
+    "id": "q0974",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which nerve passes through the greater sciatic foramen and is at risk of injury during posterior hip dislocation or an intramuscular injection placed in the wrong quadrant of the buttock?",
+    "opts": [
+      "Sciatic nerve",
+      "Pudendal nerve",
+      "Obturator nerve",
+      "Femoral nerve"
+    ],
+    "ans": 0,
+    "id": "q0975",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The coronary sinus, which collects most of the venous drainage of the heart, empties directly into which chamber?",
+    "opts": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "ans": 0,
+    "id": "q0976",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which skin condition is classically associated with the Koebner phenomenon, where new lesions develop at sites of cutaneous trauma?",
+    "opts": [
+      "Psoriasis",
+      "Atopic dermatitis",
+      "Seborrheic dermatitis",
+      "Tinea corporis"
+    ],
+    "ans": 0,
+    "id": "q0977",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "A 30-year-old woman has a butterfly-shaped facial rash sparing the nasolabial folds, photosensitivity, and joint pains. Which autoantibody is most specific for the underlying diagnosis of systemic lupus erythematosus?",
+    "opts": [
+      "Antinuclear antibody (ANA)",
+      "Anti-double stranded DNA (anti-dsDNA)",
+      "Rheumatoid factor",
+      "Anti-Ro/SSA"
+    ],
+    "ans": 1,
+    "id": "q0978",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "Pityriasis rosea characteristically begins with which finding, followed one to two weeks later by a generalized eruption?",
+    "opts": [
+      "A single 'herald patch' followed by lesions in a 'Christmas-tree' distribution on the trunk",
+      "Multiple hyperpigmented macules present from onset",
+      "Grouped vesicles on an erythematous base",
+      "Silvery scaling plaques over extensor surfaces"
+    ],
+    "ans": 0,
+    "id": "q0979",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "Tinea (pityriasis) versicolor, causing hypo- or hyperpigmented scaly macules on the trunk, is caused by which organism?",
+    "opts": [
+      "Trichophyton rubrum",
+      "Malassezia furfur",
+      "Candida albicans",
+      "Microsporum canis"
+    ],
+    "ans": 1,
+    "id": "q0980",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "What is the most common type of skin cancer overall, arising from basal keratinocytes and rarely metastasizing?",
+    "opts": [
+      "Basal cell carcinoma",
+      "Squamous cell carcinoma",
+      "Malignant melanoma",
+      "Merkel cell carcinoma"
+    ],
+    "ans": 0,
+    "id": "q0981",
+    "subject": "Dermatology"
+  },
+  {
+    "q": "Which of the following is an early sign of inadequate depth of general anesthesia during a surgical procedure?",
+    "opts": [
+      "Bradycardia and hypotension",
+      "Tachycardia, hypertension, and lacrimation",
+      "Hypothermia",
+      "Bilateral fixed, dilated pupils"
+    ],
+    "ans": 1,
+    "id": "q0982",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "Spinal anesthesia is typically administered at which vertebral level to avoid injury to the spinal cord, which usually terminates around L1-L2 in adults?",
+    "opts": [
+      "L1-L2",
+      "L3-L4",
+      "T10-T11",
+      "C7-T1"
+    ],
+    "ans": 1,
+    "id": "q0983",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "Which opioid is preferred for continuous infusion during total intravenous anesthesia because of its rapid onset and short, context-insensitive half-time?",
+    "opts": [
+      "Morphine",
+      "Fentanyl",
+      "Remifentanil",
+      "Pethidine"
+    ],
+    "ans": 2,
+    "id": "q0984",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "The Mallampati classification is used preoperatively to assess which of the following?",
+    "opts": [
+      "Cardiac risk",
+      "Anticipated difficulty of airway intubation",
+      "Renal function",
+      "Coagulation status"
+    ],
+    "ans": 1,
+    "id": "q0985",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "Which reversal agent works by selectively encapsulating and inactivating rocuronium, distinguishing it from cholinesterase-inhibitor reversal agents?",
+    "opts": [
+      "Neostigmine",
+      "Sugammadex",
+      "Atropine",
+      "Flumazenil"
+    ],
+    "ans": 1,
+    "id": "q0986",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "Anaphylaxis is mediated by which type of hypersensitivity reaction, involving IgE-sensitized mast cell degranulation?",
+    "opts": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "ans": 0,
+    "id": "q0987",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Auer rods, seen on peripheral blood smear or bone marrow examination, are characteristic of which malignancy?",
+    "opts": [
+      "Acute myeloid leukemia",
+      "Acute lymphoblastic leukemia",
+      "Chronic myeloid leukemia",
+      "Chronic lymphocytic leukemia"
+    ],
+    "ans": 0,
+    "id": "q0988",
+    "subject": "Pathology"
+  },
+  {
+    "q": "The Philadelphia chromosome, resulting from t(9;22) translocation and producing the BCR-ABL fusion gene, is characteristic of which malignancy?",
+    "opts": [
+      "Chronic myeloid leukemia",
+      "Acute myeloid leukemia",
+      "Hodgkin lymphoma",
+      "Multiple myeloma"
+    ],
+    "ans": 0,
+    "id": "q0989",
+    "subject": "Pathology"
+  },
+  {
+    "q": "Which type of renal calculus is radiolucent on plain abdominal X-ray and is therefore best detected by CT or ultrasound?",
+    "opts": [
+      "Calcium oxalate stones",
+      "Struvite stones",
+      "Uric acid stones",
+      "Cystine stones"
+    ],
+    "ans": 2,
+    "id": "q0990",
+    "subject": "Pathology"
+  },
+  {
+    "q": "The rise in basal body temperature seen after ovulation in the menstrual cycle is attributed to the thermogenic effect of which hormone, dominant in that phase?",
+    "opts": [
+      "Estrogen in the follicular phase",
+      "Progesterone in the luteal phase",
+      "Estrogen during menstruation",
+      "LH at the time of ovulation"
+    ],
+    "ans": 1,
+    "id": "q0991",
+    "subject": "Physiology"
+  },
+  {
+    "q": "What is the primary physiological stimulus for erythropoietin secretion by the kidney?",
+    "opts": [
+      "Tissue hypoxia",
+      "Hypercapnia",
+      "Hyperkalemia",
+      "Hypernatremia"
+    ],
+    "ans": 0,
+    "id": "q0992",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which statement best describes the Frank-Starling law of the heart?",
+    "opts": [
+      "Increased heart rate directly increases myocardial contractility",
+      "Increased venous return (preload) increases stroke volume",
+      "Increased afterload increases stroke volume",
+      "Increased contractility decreases stroke volume"
+    ],
+    "ans": 1,
+    "id": "q0993",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which class of antihypertensive drugs is contraindicated during pregnancy because of teratogenic effects on fetal renal development?",
+    "opts": [
+      "Beta blockers",
+      "ACE inhibitors and ARBs",
+      "Calcium channel blockers",
+      "Methyldopa"
+    ],
+    "ans": 1,
+    "id": "q0994",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "What is the antidote of choice for paracetamol (acetaminophen) overdose to prevent fulminant hepatotoxicity?",
+    "opts": [
+      "N-acetylcysteine",
+      "Naloxone",
+      "Flumazenil",
+      "Fomepizole"
+    ],
+    "ans": 0,
+    "id": "q0995",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "Which class of antibiotics carries notable risks of tendon rupture and QT interval prolongation?",
+    "opts": [
+      "Aminoglycosides",
+      "Fluoroquinolones",
+      "Macrolides",
+      "Tetracyclines"
+    ],
+    "ans": 1,
+    "id": "q0996",
+    "subject": "Pharmacology"
+  },
+  {
+    "q": "A 68-year-old man presents with palpitations. His ECG rhythm strip is shown below. What is the most likely diagnosis?",
+    "opts": [
+      "Atrial fibrillation",
+      "Atrial flutter with variable block",
+      "Multifocal atrial tachycardia",
+      "Sinus arrhythmia"
+    ],
+    "ans": 0,
+    "id": "q0997",
+    "subject": "Medicine",
+    "img": "images/ecg_afib.svg"
+  },
+  {
+    "q": "A 55-year-old man with a prior myocardial infarction develops palpitations and hypotension. His ECG rhythm strip is shown below (wide, regular, monomorphic QRS complexes with no discernible P waves). What is the most likely diagnosis?",
+    "opts": [
+      "Ventricular tachycardia",
+      "Supraventricular tachycardia with aberrant conduction",
+      "Atrial fibrillation with rapid ventricular response",
+      "Sinus tachycardia"
+    ],
+    "ans": 0,
+    "id": "q0998",
+    "subject": "Medicine",
+    "img": "images/ecg_vtach.svg"
+  },
+  {
+    "q": "A 70-year-old man presents with syncope. His ECG rhythm strip is shown below, with P waves and QRS complexes occurring at independent, regular rates and no fixed relationship between them. What is the diagnosis?",
+    "opts": [
+      "First-degree AV block",
+      "Mobitz type I (Wenckebach) second-degree AV block",
+      "Complete (third-degree) AV block",
+      "Sinus arrest"
+    ],
+    "ans": 2,
+    "id": "q0999",
+    "subject": "Medicine",
+    "img": "images/ecg_chb.svg"
+  },
+  {
+    "q": "A patient with chronic kidney disease presents with proximal muscle weakness. His ECG is shown below, demonstrating tall, narrow, peaked T waves with a widened QRS complex. Which electrolyte abnormality is most likely responsible?",
+    "opts": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hypocalcemia",
+      "Hypercalcemia"
+    ],
+    "ans": 1,
+    "id": "q1000",
+    "subject": "Medicine",
+    "img": "images/ecg_hyperk.svg"
+  },
+  {
+    "q": "An infant's weight-for-age growth chart is shown below. The plotted trajectory (red) crosses downward across two major percentile lines between birth and 24 months, falling away from the 50th percentile toward the 3rd. What does this pattern most likely indicate?",
+    "opts": [
+      "Normal growth variation",
+      "Failure to thrive",
+      "Catch-up growth",
+      "Constitutional growth delay"
+    ],
+    "ans": 1,
+    "id": "q1001",
+    "subject": "Pediatrics",
+    "img": "images/growth_chart.svg"
+  },
+  {
+    "q": "A partograph from a woman in active labor is shown below. Her cervical dilatation curve (blue) crosses to the right of the action line (red). What is the most appropriate next step in management?",
+    "opts": [
+      "Continue expectant management with no reassessment",
+      "Urgent obstetric reassessment for failure to progress, which may require augmentation or cesarean delivery",
+      "Discharge home and review in the outpatient clinic",
+      "Perform an immediate episiotomy"
+    ],
+    "ans": 1,
+    "id": "q1002",
+    "subject": "Obstetrics & Gynecology",
+    "img": "images/partograph.svg"
+  },
+  {
+    "q": "A patient's flow-volume loop (solid red line) is shown below compared with the predicted normal loop (dashed line), showing a scooped/concave expiratory limb and reduced peak expiratory flow. Which pattern does this represent?",
+    "opts": [
+      "Obstructive lung disease",
+      "Restrictive lung disease",
+      "Normal spirometry",
+      "Fixed upper airway obstruction"
+    ],
+    "ans": 0,
+    "id": "q1003",
+    "subject": "Medicine",
+    "img": "images/flow_volume_loop.svg"
+  },
+  {
+    "q": "A patient's visual field testing is shown below (patient's own perspective), showing loss of the outer (temporal) visual field in both eyes with sparing of the nasal fields. This finding is most suggestive of a lesion at which location?",
+    "opts": [
+      "Optic nerve",
+      "Optic chiasm",
+      "Optic tract",
+      "Occipital cortex"
+    ],
+    "ans": 1,
+    "id": "q1004",
+    "subject": "Ophthalmology",
+    "img": "images/visual_field_bitemporal.svg"
+  },
+  {
+    "q": "An audiogram of the right ear is shown below, with air conduction thresholds (O) elevated to roughly 40-55 dB across frequencies while bone conduction (]) remains near normal, producing an air-bone gap. What type of hearing loss does this represent?",
+    "opts": [
+      "Sensorineural hearing loss",
+      "Conductive hearing loss",
+      "Mixed hearing loss",
+      "Normal hearing"
+    ],
+    "ans": 1,
+    "id": "q1005",
+    "subject": "ENT",
+    "img": "images/audiogram_conductive.svg"
+  },
+  {
+    "q": "The pedigree chart below shows a consanguineous union (double horizontal line) between two unaffected individuals whose children include an affected daughter, and an affected grandson born to an unrelated couple. What is the most likely mode of inheritance of this disorder?",
+    "opts": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked recessive",
+      "X-linked dominant"
+    ],
+    "ans": 1,
+    "id": "q1006",
+    "subject": "Pediatrics",
+    "img": "images/pedigree_ar.svg"
   }
 ]
