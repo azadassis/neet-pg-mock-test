@@ -20756,5 +20756,2489 @@
     "ans": 3,
     "id": "q1729",
     "subject": "Biochemistry"
+  },
+  {
+    "q": "A newborn with a difficult shoulder dystocia sustains an upper brachial plexus (C5-C6, Erb's) birth injury. What position does the affected limb characteristically assume?",
+    "opts": [
+      "Shoulder adducted, internally rotated; elbow extended; forearm pronated ('waiter's tip')",
+      "Shoulder abducted and externally rotated, elbow flexed",
+      "Shoulder adducted and externally rotated, elbow flexed",
+      "Shoulder abducted and internally rotated, elbow extended"
+    ],
+    "ans": 0,
+    "id": "q1730",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "An infant has an obstetric brachial plexus palsy limited to loss of shoulder abduction/lateral rotation and elbow flexion, with a normal hand grip. Which two roots are most likely torn?",
+    "opts": [
+      "C5 and C6",
+      "C6 and C7",
+      "C7, C8 and T1",
+      "C5 through T1"
+    ],
+    "ans": 0,
+    "id": "q1731",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The thoracodorsal nerve (to latissimus dorsi) forms from which spinal segments?",
+    "opts": [
+      "C5,C6,C7",
+      "C8,T1",
+      "C6,C7,C8",
+      "T1,T2"
+    ],
+    "ans": 2,
+    "id": "q1732",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Motor supply to teres minor is provided by:",
+    "opts": [
+      "Suprascapular nerve",
+      "Upper subscapular nerve",
+      "Thoracodorsal nerve",
+      "Axillary nerve"
+    ],
+    "ans": 3,
+    "id": "q1733",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Levator scapulae inserts onto which part of the scapula?",
+    "opts": [
+      "Lateral border",
+      "Superolateral angle",
+      "Upper medial (vertebral) border",
+      "Inferior angle"
+    ],
+    "ans": 2,
+    "id": "q1734",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Approximately how many lobes make up the normal adult female breast?",
+    "opts": [
+      "About 5",
+      "About 10",
+      "About 15-20",
+      "About 30"
+    ],
+    "ans": 2,
+    "id": "q1735",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which muscle originates from the infraglenoid tubercle of the scapula?",
+    "opts": [
+      "Long head of biceps brachii",
+      "Long head of triceps brachii",
+      "Short head of biceps brachii",
+      "Coracobrachialis"
+    ],
+    "ans": 1,
+    "id": "q1736",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which muscle does NOT attach to the medial (vertebral) border of the scapula?",
+    "opts": [
+      "Serratus anterior",
+      "Levator scapulae",
+      "Rhomboid major",
+      "Teres major"
+    ],
+    "ans": 3,
+    "id": "q1737",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A disc prolapse compresses the right C5 nerve root. Which movement is most likely weakened?",
+    "opts": [
+      "Finger extension",
+      "Shoulder extension",
+      "Elbow flexion",
+      "Wrist flexion"
+    ],
+    "ans": 2,
+    "id": "q1738",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The medial boundary of the cubital fossa is formed by:",
+    "opts": [
+      "Brachioradialis",
+      "Pronator teres",
+      "Supinator",
+      "None of the above"
+    ],
+    "ans": 1,
+    "id": "q1739",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which statement about the hand lumbricals is correct?",
+    "opts": [
+      "They flex the IP joints while extending the MCP joint",
+      "The 1st and 2nd lumbricals are supplied by the radial nerve",
+      "The 3rd and 4th are supplied by the superficial ulnar branch",
+      "They arise from the flexor digitorum profundus tendons"
+    ],
+    "ans": 3,
+    "id": "q1740",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The lateral boundary of the cubital fossa is formed by:",
+    "opts": [
+      "Brachioradialis",
+      "Pronator teres",
+      "Brachialis",
+      "Biceps brachii"
+    ],
+    "ans": 0,
+    "id": "q1741",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which arm muscle, besides its main action, also supinates the forearm?",
+    "opts": [
+      "Brachialis",
+      "Biceps brachii",
+      "Coracobrachialis",
+      "Triceps brachii"
+    ],
+    "ans": 1,
+    "id": "q1742",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Sensory supply to the index finger nail bed comes from:",
+    "opts": [
+      "Superficial radial nerve",
+      "Deep radial nerve",
+      "Median nerve",
+      "Ulnar nerve"
+    ],
+    "ans": 2,
+    "id": "q1743",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure is found in the floor of the anatomical snuffbox?",
+    "opts": [
+      "Radial artery",
+      "Brachial artery",
+      "Ulnar artery",
+      "Posterior interosseous artery"
+    ],
+    "ans": 0,
+    "id": "q1744",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The third dorsal wrist compartment contains the tendon of:",
+    "opts": [
+      "Extensor carpi radialis longus",
+      "Extensor carpi radialis brevis",
+      "Extensor pollicis longus",
+      "Extensor pollicis brevis"
+    ],
+    "ans": 2,
+    "id": "q1745",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure exits the pelvis below piriformis through the greater sciatic foramen into the gluteal region?",
+    "opts": [
+      "Piriformis itself",
+      "Sciatic nerve",
+      "Superior gluteal vessels",
+      "Obturator internus tendon"
+    ],
+    "ans": 1,
+    "id": "q1746",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Foot abduction and adduction mainly occur at which joint?",
+    "opts": [
+      "Ankle joint",
+      "Subtalar joint",
+      "Tarsometatarsal joints",
+      "None of the above"
+    ],
+    "ans": 1,
+    "id": "q1747",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following are true of the femoral triangle EXCEPT:",
+    "opts": [
+      "Lateral border is the medial edge of sartorius",
+      "Floor is partly formed by adductor longus",
+      "It transmits the femoral vessels",
+      "None (all are true)"
+    ],
+    "ans": 3,
+    "id": "q1748",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The femoral canal normally contains:",
+    "opts": [
+      "Femoral branch of genitofemoral nerve",
+      "Genital branch of genitofemoral nerve",
+      "Femoral vein",
+      "A lymph node (Cloquet's node)"
+    ],
+    "ans": 3,
+    "id": "q1749",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A patient has weak hip adduction with pain referred to hip and knee. Which nerve is most likely involved?",
+    "opts": [
+      "Obturator nerve",
+      "Femoral nerve",
+      "Saphenous nerve",
+      "Sciatic nerve"
+    ],
+    "ans": 0,
+    "id": "q1750",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure lies outside the femoral sheath?",
+    "opts": [
+      "Femoral artery",
+      "Femoral nerve",
+      "Femoral vein",
+      "Genitofemoral branch accompanying the vessels"
+    ],
+    "ans": 1,
+    "id": "q1751",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "By classic teaching, which knee ligament is most commonly injured?",
+    "opts": [
+      "Anterior cruciate ligament",
+      "Posterior cruciate ligament",
+      "Medial collateral ligament",
+      "Lateral collateral ligament"
+    ],
+    "ans": 2,
+    "id": "q1752",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure passes behind the inguinal ligament?",
+    "opts": [
+      "Femoral branch of genitofemoral nerve",
+      "Femoral vein",
+      "Psoas major",
+      "All of the above"
+    ],
+    "ans": 3,
+    "id": "q1753",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The lateral wall of the ischioanal fossa is formed by:",
+    "opts": [
+      "Gluteus maximus",
+      "Perineal membrane",
+      "Pelvic diaphragm",
+      "Obturator internus with its fascia"
+    ],
+    "ans": 3,
+    "id": "q1754",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The femoral head and neck blood supply arises from:",
+    "opts": [
+      "Medial circumflex femoral artery",
+      "Lateral circumflex femoral artery",
+      "Profunda femoris artery",
+      "All of the above contribute"
+    ],
+    "ans": 3,
+    "id": "q1755",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The femoral nerve supplies all of the following EXCEPT:",
+    "opts": [
+      "Pectineus",
+      "Sartorius",
+      "Vastus medialis",
+      "Obturator externus"
+    ],
+    "ans": 3,
+    "id": "q1756",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The superior gluteal nerve supplies all of the following EXCEPT:",
+    "opts": [
+      "Tensor fasciae latae",
+      "Gluteus medius",
+      "Gluteus minimus",
+      "Gluteus maximus"
+    ],
+    "ans": 3,
+    "id": "q1757",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which is correct about the thigh adductors?",
+    "opts": [
+      "The ischial head of adductor magnus is a lateral rotator, not adductor",
+      "Blood supply is directly from the femoral artery",
+      "The ischial head arises from the adductor tubercle",
+      "Adductor magnus is the largest adductor muscle"
+    ],
+    "ans": 3,
+    "id": "q1758",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "After axillary node clearance for breast cancer, numbness develops over the medial upper arm. Which nerve was likely injured?",
+    "opts": [
+      "Long thoracic nerve",
+      "Thoracodorsal nerve",
+      "Dorsal scapular nerve",
+      "Medial cutaneous nerve of the arm (or intercostobrachial nerve)"
+    ],
+    "ans": 3,
+    "id": "q1759",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "For estimating newborn maturity at autopsy, the distal femoral secondary ossification center is expected to be:",
+    "opts": [
+      "Already present at full-term birth",
+      "Absent until ~6 months",
+      "Absent until ~1 year",
+      "Absent until ~5 years"
+    ],
+    "ans": 0,
+    "id": "q1760",
+    "subject": "Forensic Medicine"
+  },
+  {
+    "q": "Hip hyperextension is chiefly prevented by which ligament?",
+    "opts": [
+      "Ischiofemoral ligament",
+      "Iliofemoral ligament",
+      "Patellofemoral ligament",
+      "Puboischial ligament"
+    ],
+    "ans": 1,
+    "id": "q1761",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The inferior limit of the superior mediastinum (plane of the sternal angle) lies at which vertebral level?",
+    "opts": [
+      "T1",
+      "T4",
+      "T8",
+      "T10"
+    ],
+    "ans": 1,
+    "id": "q1762",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The azygos vein terminates by draining into:",
+    "opts": [
+      "Right subcostal vein",
+      "Superior vena cava",
+      "Brachiocephalic vein",
+      "Right ascending lumbar vein"
+    ],
+    "ans": 1,
+    "id": "q1763",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The aortic arch begins and ends at the level of which thoracic vertebra?",
+    "opts": [
+      "T2",
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "ans": 2,
+    "id": "q1764",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which does NOT arise directly from the aortic arch?",
+    "opts": [
+      "Brachiocephalic trunk",
+      "Right common carotid artery",
+      "Left common carotid artery",
+      "Left subclavian artery"
+    ],
+    "ans": 1,
+    "id": "q1765",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "What is the most common aortic arch branching variant?",
+    "opts": [
+      "Complete absence of the brachiocephalic trunk",
+      "Left vertebral artery arising directly from the arch",
+      "A retro-esophageal right subclavian artery",
+      "Left common carotid arising from the brachiocephalic trunk ('bovine' arch)"
+    ],
+    "ans": 3,
+    "id": "q1766",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A typical intercostal nerve is formed from:",
+    "opts": [
+      "A branch of the brachial plexus",
+      "Dorsal ramus of a thoracic spinal nerve",
+      "Ventral ramus of a thoracic spinal nerve",
+      "Ventral ramus of a cervical spinal nerve"
+    ],
+    "ans": 2,
+    "id": "q1767",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "On upper GI endoscopy, the cricopharyngeus (UES) is typically found at approximately what distance from the incisors?",
+    "opts": [
+      "15 cm",
+      "22.5 cm",
+      "27.5 cm",
+      "40 cm"
+    ],
+    "ans": 0,
+    "id": "q1768",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The anterior interventricular septum is mainly supplied by:",
+    "opts": [
+      "Right coronary artery",
+      "LAD branch of the left coronary artery",
+      "Posterior descending artery",
+      "None of the above"
+    ],
+    "ans": 1,
+    "id": "q1769",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following open into the sinus venarum EXCEPT:",
+    "opts": [
+      "Superior vena cava",
+      "Coronary sinus",
+      "Anterior cardiac vein",
+      "Small cardiac vein (drains via coronary sinus)"
+    ],
+    "ans": 3,
+    "id": "q1770",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following are true of the atrioventricular (coronary) groove EXCEPT:",
+    "opts": [
+      "Contains the LAD coronary artery",
+      "Also called the coronary sulcus",
+      "Contains the right coronary artery",
+      "Contains the circumflex branch of the left coronary artery"
+    ],
+    "ans": 0,
+    "id": "q1771",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which cardiac vein characteristically begins at the apex of the heart?",
+    "opts": [
+      "Great cardiac vein",
+      "Coronary sinus",
+      "Anterior cardiac vein",
+      "Middle cardiac vein"
+    ],
+    "ans": 0,
+    "id": "q1772",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which does NOT drain directly into the right atrium (draining instead via the coronary sinus)?",
+    "opts": [
+      "Great cardiac vein",
+      "Anterior cardiac vein",
+      "Thebesian veins",
+      "Venae cordis minimae"
+    ],
+    "ans": 0,
+    "id": "q1773",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which is a tributary draining into the coronary sinus?",
+    "opts": [
+      "Anterior cardiac vein",
+      "Thebesian vein",
+      "Smallest cardiac veins",
+      "Great cardiac vein"
+    ],
+    "ans": 3,
+    "id": "q1774",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The bronchopulmonary segments of the right upper lobe are named:",
+    "opts": [
+      "Anterior, posterior, and medial",
+      "Lateral, medial, and superior",
+      "Apical, anterior, and posterior",
+      "Basal, medial, and lateral"
+    ],
+    "ans": 2,
+    "id": "q1775",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "At the left lung hilum, which structure sits most superiorly?",
+    "opts": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Bronchial artery",
+      "Main bronchus"
+    ],
+    "ans": 0,
+    "id": "q1776",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Ovarian lymphatics drain primarily to which nodes?",
+    "opts": [
+      "Deep inguinal nodes",
+      "Superficial inguinal nodes",
+      "Obturator nodes",
+      "Para-aortic nodes"
+    ],
+    "ans": 3,
+    "id": "q1777",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure does NOT pass through the thoracic inlet (superior thoracic aperture)?",
+    "opts": [
+      "Right vagus nerve",
+      "Right brachiocephalic artery",
+      "Thoracic duct",
+      "Right recurrent laryngeal nerve"
+    ],
+    "ans": 3,
+    "id": "q1778",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The adult ligamentum arteriosum is the fibrous remnant of:",
+    "opts": [
+      "Ductus arteriosus",
+      "Ductus venosus",
+      "Ductus utriculosaccularis",
+      "Umbilical vein remnant"
+    ],
+    "ans": 0,
+    "id": "q1779",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The base (posterior surface) of the heart is formed predominantly by:",
+    "opts": [
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium",
+      "Left ventricle"
+    ],
+    "ans": 2,
+    "id": "q1780",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "On chest X-ray, the right heart border is formed mainly by:",
+    "opts": [
+      "Right ventricle",
+      "Right atrium",
+      "Superior vena cava",
+      "Inferior vena cava"
+    ],
+    "ans": 1,
+    "id": "q1781",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which is correct about the right ventricle?",
+    "opts": [
+      "Tricuspid and pulmonary valves share direct fibrous continuity",
+      "Its trabeculations are less prominent than the left ventricle's",
+      "The supraventricular crest separates the tricuspid and pulmonary orifices, apex heavily trabeculated",
+      "All of the above"
+    ],
+    "ans": 3,
+    "id": "q1782",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Tongue sensation (general and taste) is supplied by all of the following EXCEPT:",
+    "opts": [
+      "Lingual nerve",
+      "Vagus nerve (internal laryngeal branch)",
+      "Glossopharyngeal nerve",
+      "None (all supply the tongue)"
+    ],
+    "ans": 3,
+    "id": "q1783",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The internal anal sphincter is a thickening of which layer?",
+    "opts": [
+      "Puborectalis fibers",
+      "Deep perineal muscle fibers",
+      "Longitudinal smooth muscle of the rectum",
+      "Circular smooth muscle of the rectum"
+    ],
+    "ans": 3,
+    "id": "q1784",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which part of the male urethra is the shortest?",
+    "opts": [
+      "Prostatic urethra",
+      "Membranous urethra",
+      "Bulbar urethra",
+      "Penile (spongy) urethra"
+    ],
+    "ans": 1,
+    "id": "q1785",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure lies directly posterior to the neck of the pancreas?",
+    "opts": [
+      "Inferior vena cava",
+      "Origin of the portal vein (splenic + SMV union)",
+      "Abdominal aorta",
+      "Common bile duct"
+    ],
+    "ans": 1,
+    "id": "q1786",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The right suprarenal vein drains directly into:",
+    "opts": [
+      "Inferior vena cava",
+      "Right renal vein",
+      "Right gonadal vein",
+      "Left renal vein"
+    ],
+    "ans": 0,
+    "id": "q1787",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The adrenal gland receives arterial blood from all of the following EXCEPT:",
+    "opts": [
+      "Direct aortic branches",
+      "Renal artery",
+      "Inferior phrenic artery",
+      "Superior mesenteric artery"
+    ],
+    "ans": 3,
+    "id": "q1788",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The inferior pancreaticoduodenal artery is typically a branch of:",
+    "opts": [
+      "Splenic artery",
+      "Left gastric artery",
+      "Gastroduodenal artery",
+      "Superior mesenteric artery"
+    ],
+    "ans": 3,
+    "id": "q1789",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The superior pancreaticoduodenal artery is a branch of:",
+    "opts": [
+      "Common hepatic artery",
+      "Splenic artery",
+      "Gastroduodenal artery",
+      "Inferior mesenteric artery"
+    ],
+    "ans": 2,
+    "id": "q1790",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following are splenic artery branches EXCEPT:",
+    "opts": [
+      "Hilar branches to the spleen",
+      "Short gastric arteries",
+      "Arteria pancreatica magna",
+      "Right gastro-omental artery"
+    ],
+    "ans": 3,
+    "id": "q1791",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The common hepatic artery directly branches from:",
+    "opts": [
+      "Splenic artery",
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Coeliac trunk"
+    ],
+    "ans": 3,
+    "id": "q1792",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Esophageal varices from portal hypertension characteristically develop in which esophageal segment?",
+    "opts": [
+      "Upper third",
+      "Middle third",
+      "Lower third",
+      "Equally at all levels"
+    ],
+    "ans": 2,
+    "id": "q1793",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The inferior epigastric vessels form a boundary of which structure?",
+    "opts": [
+      "Femoral triangle",
+      "Hesselbach's (inguinal) triangle",
+      "Adductor canal",
+      "Popliteal fossa"
+    ],
+    "ans": 1,
+    "id": "q1794",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The epiploic foramen (of Winslow) is bounded by all of the following EXCEPT:",
+    "opts": [
+      "Caudate lobe of the liver",
+      "Inferior vena cava",
+      "Free edge of the lesser omentum (hepatoduodenal ligament)",
+      "Fourth part of the duodenum"
+    ],
+    "ans": 3,
+    "id": "q1795",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The anorectal angle is maintained mainly by tonic action of:",
+    "opts": [
+      "Internal anal sphincter",
+      "Circular smooth muscle of the rectum",
+      "Longitudinal smooth muscle of the rectum",
+      "Puborectalis"
+    ],
+    "ans": 3,
+    "id": "q1796",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The female developmental equivalent of the male prostate gland is:",
+    "opts": [
+      "Skene's (paraurethral) glands",
+      "Bulbourethral gland homologue",
+      "Greater vestibular gland",
+      "Bartholin's gland"
+    ],
+    "ans": 0,
+    "id": "q1797",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The uterine artery directly branches from:",
+    "opts": [
+      "Common iliac artery",
+      "Internal iliac artery",
+      "Internal pudendal artery",
+      "Ovarian artery"
+    ],
+    "ans": 1,
+    "id": "q1798",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following are true of the first (superior) part of the duodenum EXCEPT:",
+    "opts": [
+      "About 5 cm long",
+      "Is the superior duodenal part",
+      "Develops from the foregut",
+      "Supplied by the superior mesenteric artery"
+    ],
+    "ans": 3,
+    "id": "q1799",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The ventral pancreatic bud forms which part of the mature pancreas?",
+    "opts": [
+      "Body",
+      "Tail",
+      "Neck",
+      "Uncinate process (and lower head)"
+    ],
+    "ans": 3,
+    "id": "q1800",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The pancreatic tail develops embryologically from:",
+    "opts": [
+      "Hepatic diverticulum",
+      "Dorsal pancreatic bud",
+      "Ventral pancreatic bud",
+      "Vitelline duct"
+    ],
+    "ans": 1,
+    "id": "q1801",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Haustrations are a characteristic feature of which gut segment?",
+    "opts": [
+      "Duodenum",
+      "Ileum",
+      "Jejunum",
+      "Colon"
+    ],
+    "ans": 3,
+    "id": "q1802",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following attach to the perineal body EXCEPT:",
+    "opts": [
+      "Ischiocavernosus",
+      "Bulbospongiosus",
+      "Superficial transverse perineal muscle",
+      "Deep transverse perineal muscle"
+    ],
+    "ans": 0,
+    "id": "q1803",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The bladder trigone develops embryologically from tissue of which origin?",
+    "opts": [
+      "Mesoderm (absorbed mesonephric duct)",
+      "Ectoderm",
+      "Endoderm of the urachus",
+      "Neural crest"
+    ],
+    "ans": 0,
+    "id": "q1804",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "In males, the peritoneal structure lying immediately anterior to the upper rectum is:",
+    "opts": [
+      "The rectovesical pouch",
+      "The sacrum",
+      "The seminal vesicle",
+      "The ductus deferens"
+    ],
+    "ans": 0,
+    "id": "q1805",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which statement about the seminal vesicles is FALSE?",
+    "opts": [
+      "Secrete fructose-rich fluid",
+      "Serve as a sperm storage site",
+      "Lie on either side near the prostate base",
+      "Their secretion gives semen a mucoid consistency"
+    ],
+    "ans": 1,
+    "id": "q1806",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Gallbladder pain sensation travels chiefly via:",
+    "opts": [
+      "Vagus nerve",
+      "Trigeminal nerve",
+      "Parasympathetic pelvic splanchnic nerves",
+      "Facial nerve"
+    ],
+    "ans": 0,
+    "id": "q1807",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The uvula of the bladder at the internal urethral orifice is formed by enlargement of:",
+    "opts": [
+      "Median lobe of the prostate",
+      "Lateral lobe of the prostate",
+      "Anterior lobe of the prostate",
+      "Posterior lobe of the prostate"
+    ],
+    "ans": 0,
+    "id": "q1808",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which ligament chiefly prevents the spleen descending into the left iliac fossa?",
+    "opts": [
+      "Lienorenal ligament",
+      "Phrenicocolic ligament",
+      "Attachment to the right kidney's upper pole",
+      "Attachment to the sigmoid colon"
+    ],
+    "ans": 1,
+    "id": "q1809",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The floor of the lumbar (Petit's) triangle is formed by:",
+    "opts": [
+      "Sacrospinalis (erector spinae)",
+      "Internal oblique",
+      "Rectus abdominis",
+      "Transversalis fascia alone"
+    ],
+    "ans": 1,
+    "id": "q1810",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which artery runs within the transverse mesocolon?",
+    "opts": [
+      "Right colic artery",
+      "Left colic artery",
+      "Middle colic artery",
+      "Ileocolic artery"
+    ],
+    "ans": 2,
+    "id": "q1811",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The ovarian artery directly branches from:",
+    "opts": [
+      "Renal artery",
+      "Internal iliac artery",
+      "Abdominal aorta",
+      "External iliac artery"
+    ],
+    "ans": 2,
+    "id": "q1812",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "During the first stage of labor, uterine contraction pain travels mainly via which pathway (relevant to epidural level selection)?",
+    "opts": [
+      "Parasympathetic nerves",
+      "Sympathetic afferents (T10-L1)",
+      "Pudendal nerve",
+      "Pelvic splanchnic (parasympathetic) nerves"
+    ],
+    "ans": 1,
+    "id": "q1813",
+    "subject": "Anesthesia"
+  },
+  {
+    "q": "Motor supply to cremaster is provided by:",
+    "opts": [
+      "Pudendal nerve",
+      "Femoral branch of genitofemoral nerve",
+      "Genital branch of genitofemoral nerve",
+      "Ilioinguinal nerve"
+    ],
+    "ans": 2,
+    "id": "q1814",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which statement about the great saphenous vein is correct?",
+    "opts": [
+      "Begins as a continuation of the medial marginal foot vein",
+      "Drains into the femoral vein ~2.5 cm below the inguinal ligament",
+      "Has only 2-5 valves below the knee",
+      "Ascends ~2.5-3 cm behind the medial malleolus"
+    ],
+    "ans": 0,
+    "id": "q1815",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following are posterior relations of the right kidney EXCEPT:",
+    "opts": [
+      "Diaphragm",
+      "Subcostal nerve",
+      "11th rib",
+      "Ilioinguinal nerve"
+    ],
+    "ans": 2,
+    "id": "q1816",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which statement about renal blood supply is INCORRECT?",
+    "opts": [
+      "Renal vein drains into the IVC",
+      "Renal artery branches from the common iliac artery",
+      "Right renal artery passes behind the IVC",
+      "Renal artery branches behave as end arteries"
+    ],
+    "ans": 1,
+    "id": "q1817",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following pass through the deep inguinal ring EXCEPT:",
+    "opts": [
+      "Spermatic cord structures",
+      "Internal spermatic fascia",
+      "Round ligament of the uterus (in females)",
+      "Ilioinguinal nerve"
+    ],
+    "ans": 3,
+    "id": "q1818",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The superficial inguinal ring is a defect in which structure?",
+    "opts": [
+      "Internal oblique aponeurosis",
+      "External oblique aponeurosis",
+      "Transversus abdominis aponeurosis",
+      "Internal oblique muscle belly"
+    ],
+    "ans": 1,
+    "id": "q1819",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following are components of the spermatic cord EXCEPT:",
+    "opts": [
+      "The inguinal (Poupart's) ligament",
+      "Genitofemoral nerve (genital branch)",
+      "Vas deferens",
+      "Pampiniform venous plexus"
+    ],
+    "ans": 0,
+    "id": "q1820",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure is found within the superficial perineal pouch?",
+    "opts": [
+      "Sphincter urethrae muscle",
+      "Ischiocavernosus muscle",
+      "Deep transverse perineal muscle",
+      "Bulbourethral (Cowper's) gland"
+    ],
+    "ans": 1,
+    "id": "q1821",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The third (horizontal) part of the duodenum is NOT related to which of the following?",
+    "opts": [
+      "Superior mesenteric vessels",
+      "Right ureter",
+      "Head of the pancreas",
+      "Quadrate lobe of the liver"
+    ],
+    "ans": 3,
+    "id": "q1822",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The gastrosplenic ligament transmits:",
+    "opts": [
+      "Main splenic vessels",
+      "Tail of the pancreas",
+      "Short gastric vessels",
+      "Portal vein"
+    ],
+    "ans": 2,
+    "id": "q1823",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which develops from the ventral mesogastrium?",
+    "opts": [
+      "Greater omentum",
+      "Gastrosplenic ligament",
+      "Lienorenal ligament",
+      "Lesser omentum (and falciform ligament)"
+    ],
+    "ans": 3,
+    "id": "q1824",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "What is the correct sequence of arterial supply to the uterine endometrium?",
+    "opts": [
+      "Uterine to arcuate to radial to spiral artery",
+      "Uterine to radial to arcuate to spiral artery",
+      "Uterine to spiral to radial to arcuate artery",
+      "Uterine to arcuate to spiral to radial artery"
+    ],
+    "ans": 0,
+    "id": "q1825",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The stapedius muscle is supplied by which cranial nerve?",
+    "opts": [
+      "Optic nerve (2nd)",
+      "Oculomotor nerve (3rd)",
+      "Trigeminal nerve (5th)",
+      "Facial nerve (7th)"
+    ],
+    "ans": 3,
+    "id": "q1826",
+    "subject": "ENT"
+  },
+  {
+    "q": "Stapedius contraction pulls the stapes in which direction, dampening ossicular movement?",
+    "opts": [
+      "Anteriorly",
+      "Superiorly",
+      "Inferiorly",
+      "Posteriorly"
+    ],
+    "ans": 3,
+    "id": "q1827",
+    "subject": "ENT"
+  },
+  {
+    "q": "To clinically test sternocleidomastoid, the patient turns the head against resistance in which direction?",
+    "opts": [
+      "Toward the same side as the muscle tested",
+      "Toward the opposite side",
+      "By shrugging the shoulder",
+      "By abducting the arm overhead"
+    ],
+    "ans": 1,
+    "id": "q1828",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The oculomotor nerve supplies all extraocular muscles EXCEPT:",
+    "opts": [
+      "Superior rectus",
+      "Inferior rectus",
+      "Lateral rectus",
+      "Medial rectus"
+    ],
+    "ans": 2,
+    "id": "q1829",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The major central integrating nucleus for sympathetic outflow is located in the:",
+    "opts": [
+      "Nucleus ambiguus",
+      "Nucleus tractus solitarius",
+      "Edinger-Westphal nucleus",
+      "Hypothalamus"
+    ],
+    "ans": 3,
+    "id": "q1830",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which muscle attaches to the superior nuchal line?",
+    "opts": [
+      "Trapezius",
+      "Scalenus anterior",
+      "Coracobrachialis",
+      "Biceps brachii"
+    ],
+    "ans": 0,
+    "id": "q1831",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The scalp's 'dangerous area', through which infection spreads intracranially via emissary veins, corresponds to which layer?",
+    "opts": [
+      "Superficial fascia",
+      "Epicranial aponeurosis (galea)",
+      "Subaponeurotic loose areolar tissue",
+      "Pericranium"
+    ],
+    "ans": 2,
+    "id": "q1832",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "During parotidectomy, the plane dividing superficial and deep lobes preserves which nerve?",
+    "opts": [
+      "Glossopharyngeal nerve",
+      "Hypoglossal nerve",
+      "Lingual nerve",
+      "Facial nerve"
+    ],
+    "ans": 3,
+    "id": "q1833",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which intraocular muscle receives parasympathetic innervation?",
+    "opts": [
+      "Superior rectus",
+      "Superior oblique",
+      "Sphincter (constrictor) pupillae",
+      "Dilator pupillae"
+    ],
+    "ans": 2,
+    "id": "q1834",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Lip lymphatics drain to submandibular and submental nodes but typically NOT to which group?",
+    "opts": [
+      "Submandibular nodes",
+      "Sublingual nodes",
+      "Preauricular (parotid) nodes",
+      "None of the above"
+    ],
+    "ans": 2,
+    "id": "q1835",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Postganglionic secretomotor fibers to the parotid gland travel within which nerve?",
+    "opts": [
+      "Glossopharyngeal nerve",
+      "Auriculotemporal nerve",
+      "Both equally",
+      "Neither"
+    ],
+    "ans": 1,
+    "id": "q1836",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Preganglionic secretomotor fibers destined for the parotid gland initially pass through which structure?",
+    "opts": [
+      "Tympanic plexus",
+      "Geniculate ganglion",
+      "Greater petrosal nerve",
+      "None of the above"
+    ],
+    "ans": 0,
+    "id": "q1837",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "A lower motor neuron facial palsy produces all of the following EXCEPT:",
+    "opts": [
+      "Reduced salivation",
+      "Reduced lacrimation",
+      "Facial muscle paralysis",
+      "Loss of taste from the posterior third of the tongue"
+    ],
+    "ans": 3,
+    "id": "q1838",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which cranial nerve has the longest intracranial course before exiting?",
+    "opts": [
+      "Trochlear nerve (4th)",
+      "Oculomotor nerve (3rd)",
+      "Abducens nerve (6th)",
+      "Trigeminal nerve (5th)"
+    ],
+    "ans": 0,
+    "id": "q1839",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which is the largest of the cranial nerves?",
+    "opts": [
+      "Trochlear nerve",
+      "Trigeminal nerve",
+      "Oculomotor nerve",
+      "Vagus nerve"
+    ],
+    "ans": 1,
+    "id": "q1840",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The nasopharynx is normally lined by which epithelium?",
+    "opts": [
+      "Non-keratinized stratified squamous epithelium",
+      "Keratinized stratified squamous epithelium",
+      "Ciliated pseudostratified columnar (respiratory) epithelium",
+      "Simple cuboidal epithelium"
+    ],
+    "ans": 2,
+    "id": "q1841",
+    "subject": "ENT"
+  },
+  {
+    "q": "The greater petrosal nerve arises from:",
+    "opts": [
+      "Geniculate ganglion of the facial nerve",
+      "Periarterial plexus around the internal carotid artery",
+      "Plexus around the middle meningeal artery",
+      "None of the above"
+    ],
+    "ans": 0,
+    "id": "q1842",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The third ventricle is the cavity within which brain division?",
+    "opts": [
+      "Mesencephalon",
+      "Rhombencephalon",
+      "Diencephalon",
+      "Telencephalon"
+    ],
+    "ans": 2,
+    "id": "q1843",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The oculomotor nucleus is located in which part of the brain?",
+    "opts": [
+      "Forebrain",
+      "Midbrain",
+      "Pons",
+      "Medulla"
+    ],
+    "ans": 1,
+    "id": "q1844",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which cranial nerve is purely sensory?",
+    "opts": [
+      "Trigeminal nerve",
+      "Abducens nerve",
+      "Trochlear nerve",
+      "Olfactory nerve"
+    ],
+    "ans": 3,
+    "id": "q1845",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The great cerebral vein of Galen drains into which sinus?",
+    "opts": [
+      "Cavernous sinus",
+      "Basal vein of Rosenthal",
+      "Internal cerebral vein",
+      "Straight sinus"
+    ],
+    "ans": 3,
+    "id": "q1846",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The superficial middle cerebral vein drains into which structure?",
+    "opts": [
+      "Internal cerebral vein",
+      "Cavernous sinus",
+      "Great cerebral vein of Galen",
+      "Straight sinus"
+    ],
+    "ans": 1,
+    "id": "q1847",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The medial surface of the cerebral hemisphere is chiefly supplied by:",
+    "opts": [
+      "Anterior cerebral artery",
+      "Posterior cerebral artery",
+      "Middle cerebral artery",
+      "PICA"
+    ],
+    "ans": 0,
+    "id": "q1848",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which cranial nerve nucleus does NOT lie directly on the floor of the fourth ventricle?",
+    "opts": [
+      "Abducens nucleus",
+      "Facial nucleus",
+      "Dorsal vagal nucleus",
+      "Hypoglossal nucleus"
+    ],
+    "ans": 1,
+    "id": "q1849",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The ventral tegmental decussation (of Forel) in the midbrain is formed by fibers of which tract?",
+    "opts": [
+      "Tectospinal tract",
+      "Tectobulbar tract",
+      "Vestibulospinal tract",
+      "Rubrospinal tract"
+    ],
+    "ans": 3,
+    "id": "q1850",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure passes directly through the cavernous sinus, not just its lateral wall?",
+    "opts": [
+      "Maxillary division of trigeminal",
+      "Mandibular division of trigeminal",
+      "Internal carotid artery",
+      "Facial nerve"
+    ],
+    "ans": 2,
+    "id": "q1851",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "All of the following are true of the fallopian tube EXCEPT:",
+    "opts": [
+      "Lined by cuboidal epithelium (not columnar)",
+      "Isthmus is its narrower segment nearest the uterus",
+      "The tubal ostium opens into the peritoneal cavity",
+      "Develops from the paramesonephric (Mullerian) duct"
+    ],
+    "ans": 0,
+    "id": "q1852",
+    "subject": "Obstetrics & Gynecology"
+  },
+  {
+    "q": "The vagina is normally lined by which epithelium?",
+    "opts": [
+      "Stratified squamous epithelium",
+      "Simple columnar epithelium",
+      "Transitional epithelium",
+      "Secretory columnar epithelium"
+    ],
+    "ans": 0,
+    "id": "q1853",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Oxyntic (acid- and intrinsic-factor-secreting) parietal cells are most abundant in which stomach region?",
+    "opts": [
+      "Pylorus",
+      "Cardia",
+      "Body and fundus",
+      "Absent from gastric mucosa"
+    ],
+    "ans": 2,
+    "id": "q1854",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Among fetal bones, which is among the earliest to begin ossifying?",
+    "opts": [
+      "Femur",
+      "Tibia",
+      "Scapula",
+      "Mandible"
+    ],
+    "ans": 3,
+    "id": "q1855",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The incudomalleolar joint of the middle ear is best classified as:",
+    "opts": [
+      "Ellipsoid joint",
+      "Pivot joint",
+      "Hinge joint",
+      "Saddle joint"
+    ],
+    "ans": 3,
+    "id": "q1856",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Hilton's law, that a joint's nerve also supplies the muscles moving it and the overlying skin, concerns which aspect of anatomy?",
+    "opts": [
+      "Venous drainage pattern",
+      "Arterial blood supply",
+      "Nerve innervation pattern",
+      "All equally"
+    ],
+    "ans": 2,
+    "id": "q1857",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Spermatogenesis in males normally begins at which life stage?",
+    "opts": [
+      "At birth",
+      "Around age 5",
+      "At puberty",
+      "Only after age 18"
+    ],
+    "ans": 2,
+    "id": "q1858",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which of the following is NOT a recognized substage of meiotic prophase I?",
+    "opts": [
+      "Diakinesis",
+      "Leptotene",
+      "Zygotene",
+      "Arachytene (not a real stage)"
+    ],
+    "ans": 3,
+    "id": "q1859",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The fossa ovalis of the interatrial septum is a remnant of which fetal structure?",
+    "opts": [
+      "Septum primum",
+      "Septum secundum",
+      "Septum spurium",
+      "Endocardial (AV) cushion"
+    ],
+    "ans": 0,
+    "id": "q1860",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The nephron itself (as opposed to the collecting duct system) develops from:",
+    "opts": [
+      "Ureteric bud",
+      "Mesonephric duct",
+      "Metanephric mesoderm",
+      "Mesonephros"
+    ],
+    "ans": 2,
+    "id": "q1861",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The liver's fibrous stroma and capsule develop from:",
+    "opts": [
+      "Foregut endoderm",
+      "Midgut endoderm",
+      "Hindgut endoderm",
+      "Septum transversum mesenchyme"
+    ],
+    "ans": 3,
+    "id": "q1862",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which statement about branchial (lateral cervical) cysts is correct?",
+    "opts": [
+      "Less common than branchial sinuses",
+      "Most often arise from second branchial apparatus remnants",
+      "Characteristically cause dysphagia and hoarseness",
+      "A branchial sinus should always be excised regardless of symptoms"
+    ],
+    "ans": 1,
+    "id": "q1863",
+    "subject": "ENT"
+  },
+  {
+    "q": "Which structure derives from neural crest cells?",
+    "opts": [
+      "Pia mater",
+      "Dental papilla (odontoblasts)",
+      "Adrenal medulla",
+      "All of the above"
+    ],
+    "ans": 3,
+    "id": "q1864",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The primitive heart tube first forms at approximately which gestational stage?",
+    "opts": [
+      "3 weeks",
+      "6 weeks",
+      "10 weeks",
+      "12 weeks"
+    ],
+    "ans": 0,
+    "id": "q1865",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The cardiac jelly separating endocardium from myocardium is composed mainly of hyaluronic acid secreted by which layer?",
+    "opts": [
+      "Endocardium",
+      "Endocardium (chondroitin sulfate variant)",
+      "Myocardium",
+      "Myocardium (chondroitin sulfate variant)"
+    ],
+    "ans": 2,
+    "id": "q1866",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The adult medial umbilical ligament is the fibrous remnant of:",
+    "opts": [
+      "Ductus arteriosus",
+      "Round ligament pathway",
+      "Ductus venosus",
+      "Umbilical artery"
+    ],
+    "ans": 3,
+    "id": "q1867",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "In males, which structure persists as a derivative of the paramesonephric (Mullerian) duct?",
+    "opts": [
+      "Trigone of the bladder",
+      "Paroophoron-equivalent remnant",
+      "Prostatic utricle",
+      "Gartner's duct"
+    ],
+    "ans": 2,
+    "id": "q1868",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Peripheral nerve myelination is performed by:",
+    "opts": [
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Ependymal cells",
+      "Schwann cells"
+    ],
+    "ans": 3,
+    "id": "q1869",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The malleus and incus develop from cartilage of which pharyngeal arch?",
+    "opts": [
+      "First arch (Meckel's cartilage)",
+      "Second arch",
+      "Third arch",
+      "Fourth arch"
+    ],
+    "ans": 0,
+    "id": "q1870",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which statement about the limbus fossa ovalis (annulus ovalis) is FALSE?",
+    "opts": [
+      "Lies around the margin of the fossa ovalis",
+      "Located in the right atrium",
+      "Derived from septum primum",
+      "Also known as the annulus ovalis"
+    ],
+    "ans": 2,
+    "id": "q1871",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Sertoli cells derive from which embryological structure?",
+    "opts": [
+      "Genital tubercle",
+      "Genital (labioscrotal) swelling",
+      "Primordial germ cells",
+      "Germinal (coelomic) epithelium of the gonadal ridge"
+    ],
+    "ans": 3,
+    "id": "q1872",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The prolactin-secreting adenohypophysis develops embryologically from:",
+    "opts": [
+      "The infundibulum",
+      "Rathke's pouch (oral ectoderm)",
+      "Tuber cinereum",
+      "Floor of the third ventricle directly"
+    ],
+    "ans": 1,
+    "id": "q1873",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The embryonic posterior cardinal veins largely regress but contribute to which adult structure?",
+    "opts": [
+      "Common iliac veins",
+      "Superior vena cava",
+      "Internal jugular vein",
+      "External jugular vein"
+    ],
+    "ans": 0,
+    "id": "q1874",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The superior vena cava develops mainly from:",
+    "opts": [
+      "Right anterior cardinal vein (and right common cardinal vein)",
+      "Left anterior cardinal vein",
+      "Left common cardinal vein",
+      "Right subcardinal vein"
+    ],
+    "ans": 0,
+    "id": "q1875",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "In males, which structure is a vestigial Mullerian (paramesonephric) duct remnant?",
+    "opts": [
+      "Seminal vesicle",
+      "Epididymis",
+      "Prostatic utricle",
+      "Ureter"
+    ],
+    "ans": 2,
+    "id": "q1876",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The optic cup (giving rise to the retina) derives from which embryonic layer?",
+    "opts": [
+      "Neuroectoderm",
+      "Surface ectoderm",
+      "Mesoderm",
+      "Neural crest"
+    ],
+    "ans": 0,
+    "id": "q1877",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure develops from Rathke's pouch?",
+    "opts": [
+      "Pars tuberalis of the anterior pituitary",
+      "Neurohypophysis",
+      "Posterior pituitary",
+      "Pineal gland"
+    ],
+    "ans": 0,
+    "id": "q1878",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which glial cell type is mesodermal (not neuroectodermal) in origin?",
+    "opts": [
+      "Macroglial cells in general",
+      "Microglia",
+      "Oligodendrocytes",
+      "Ependymal cells"
+    ],
+    "ans": 1,
+    "id": "q1879",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The bladder trigone derives embryologically from the absorbed portion of which structure?",
+    "opts": [
+      "Mesonephric (Wolffian) duct",
+      "Paramesonephric duct",
+      "Anal membrane",
+      "Mullerian duct"
+    ],
+    "ans": 0,
+    "id": "q1880",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The pisiform articulates with which neighboring carpal bone?",
+    "opts": [
+      "Scaphoid",
+      "Trapezium",
+      "Triquetrum",
+      "Lunate"
+    ],
+    "ans": 2,
+    "id": "q1881",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Accessory spleens are most commonly found at which location?",
+    "opts": [
+      "Wall of the colon",
+      "Near the splenic hilum",
+      "Within the liver",
+      "Within the lung"
+    ],
+    "ans": 1,
+    "id": "q1882",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which is NOT found within Calot's (cystohepatic) triangle?",
+    "opts": [
+      "Portal vein",
+      "Cystic artery",
+      "Right hepatic artery (variable course)",
+      "Lymph node of Lund"
+    ],
+    "ans": 0,
+    "id": "q1883",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which structure passes through the quadrangular space of the shoulder?",
+    "opts": [
+      "Axillary nerve (with posterior circumflex humeral vessels)",
+      "Radial nerve",
+      "Median nerve",
+      "Brachial artery"
+    ],
+    "ans": 0,
+    "id": "q1884",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "The seminal colliculus (verumontanum) is a landmark found in the:",
+    "opts": [
+      "Testis",
+      "Prostate gland parenchyma",
+      "Prostatic urethra",
+      "Scrotum"
+    ],
+    "ans": 2,
+    "id": "q1885",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "Which is NOT a foregut derivative?",
+    "opts": [
+      "Cecum",
+      "Duodenum (proximal part)",
+      "Liver",
+      "Pancreas"
+    ],
+    "ans": 0,
+    "id": "q1886",
+    "subject": "Anatomy"
+  },
+  {
+    "q": "For simple diffusion of a substance across a membrane, which factor most determines net movement rate/direction?",
+    "opts": [
+      "Electrical charge of the particle",
+      "Membrane thickness",
+      "Particle size",
+      "Concentration gradient across the membrane"
+    ],
+    "ans": 3,
+    "id": "q1887",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which transport process moves a solute against its gradient using a carrier protein and requires energy?",
+    "opts": [
+      "Facilitated diffusion",
+      "Osmosis",
+      "Active transport",
+      "Endocytosis"
+    ],
+    "ans": 2,
+    "id": "q1888",
+    "subject": "Physiology"
+  },
+  {
+    "q": "What feature is shared by active transport and facilitated diffusion?",
+    "opts": [
+      "Both require direct ATP hydrolysis",
+      "Both move solutes against their gradient",
+      "Both use a specific carrier protein",
+      "All of the above"
+    ],
+    "ans": 2,
+    "id": "q1889",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Small water-soluble molecules moving through aqueous membrane channels/pores down their gradient exemplifies:",
+    "opts": [
+      "Active transport",
+      "Transcytosis",
+      "Diffusion",
+      "Endocytosis"
+    ],
+    "ans": 2,
+    "id": "q1890",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Total body water as a percentage of body weight is highest in which age group?",
+    "opts": [
+      "Elderly adults (~50%)",
+      "Newborn infants (~75-80%)",
+      "Adult men (~60%)",
+      "Adult women (~50%)"
+    ],
+    "ans": 1,
+    "id": "q1891",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The epithelial sodium channel (ENaC) is a heterotetramer composed of which subunits?",
+    "opts": [
+      "4 identical alpha subunits",
+      "2 alpha and 2 beta subunits",
+      "2 alpha, 1 beta, and 1 gamma subunit",
+      "1 alpha, 1 beta, 2 gamma subunits"
+    ],
+    "ans": 2,
+    "id": "q1892",
+    "subject": "Physiology"
+  },
+  {
+    "q": "All of the following are true of ENaC EXCEPT:",
+    "opts": [
+      "It is an epithelial ion channel",
+      "Composed of three distinct homologous subunit types",
+      "Present in kidney and GI tract",
+      "Inhibited by amiloride"
+    ],
+    "ans": 1,
+    "id": "q1893",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Compared to extracellular fluid, intracellular fluid pH is typically:",
+    "opts": [
+      "Slightly lower (more acidic)",
+      "Slightly higher (more alkaline)",
+      "Exactly the same",
+      "Markedly alkaline"
+    ],
+    "ans": 0,
+    "id": "q1894",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Hyperviscosity syndrome, as in Waldenstrom's macroglobulinemia, is chiefly caused by elevated:",
+    "opts": [
+      "Fibrinogen",
+      "Albumin",
+      "Globulins (immunoglobulins)",
+      "All contribute equally"
+    ],
+    "ans": 2,
+    "id": "q1895",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Plasma colloid osmotic (oncotic) pressure is chiefly contributed by:",
+    "opts": [
+      "Sodium ions",
+      "Chloride ions",
+      "Bicarbonate ions",
+      "Albumin"
+    ],
+    "ans": 3,
+    "id": "q1896",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Among basic taste qualities, which was most recently identified as distinct (savory, glutamate-mediated)?",
+    "opts": [
+      "Sweet",
+      "Sour",
+      "Bitter",
+      "Umami"
+    ],
+    "ans": 3,
+    "id": "q1897",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Transcranially-elicited motor evoked potentials are primarily used to assess which pathway's integrity?",
+    "opts": [
+      "Peripheral motor nerves only",
+      "Central motor (corticospinal) pathways",
+      "Both equally",
+      "Muscle reinnervation/regeneration"
+    ],
+    "ans": 1,
+    "id": "q1898",
+    "subject": "Physiology"
+  },
+  {
+    "q": "On EMG, the brief electrical burst right after needle insertion into muscle (insertional activity) reflects:",
+    "opts": [
+      "Ongoing spontaneous denervation activity",
+      "Voluntary contraction",
+      "Machine artifact",
+      "Mechanical membrane depolarization/irritation from the needle"
+    ],
+    "ans": 3,
+    "id": "q1899",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Regarding visual phototransduction, which statement is correct?",
+    "opts": [
+      "Light-induced retinal isomerization causes an opsin conformational change that initiates signaling",
+      "Light converts all-trans-retinol directly to 11-cis-retinol",
+      "Only the aldehyde form (retinal) absorbs light, not retinol",
+      "Retinol (alcohol form) is the light-absorbing chromophore"
+    ],
+    "ans": 0,
+    "id": "q1900",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Smooth muscle contraction is triggered primarily by:",
+    "opts": [
+      "Calcium binding to troponin",
+      "Calcium-calmodulin has no role",
+      "Calcium-calmodulin-dependent myosin light chain phosphorylation",
+      "None of the above"
+    ],
+    "ans": 2,
+    "id": "q1901",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Prolonged expiration duration during quiet breathing is chiefly mediated by which reflex?",
+    "opts": [
+      "J-receptor reflex",
+      "Head's paradoxical reflex",
+      "Hering-Breuer inflation reflex",
+      "Muscle proprioceptor reflex"
+    ],
+    "ans": 2,
+    "id": "q1902",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Wallerian degeneration refers to:",
+    "opts": [
+      "Degeneration of the distal axon segment after nerve injury",
+      "Degeneration of muscle fibers after denervation",
+      "Regeneration of a damaged nerve",
+      "Regeneration of muscle fibers"
+    ],
+    "ans": 0,
+    "id": "q1903",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The withdrawal reflex (rapid limb removal from painful stimuli) is also known as the:",
+    "opts": [
+      "Extension reflex",
+      "Stretch reflex",
+      "Golgi tendon reflex",
+      "Flexor reflex"
+    ],
+    "ans": 3,
+    "id": "q1904",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A hyperventilating patient develops carpopedal spasm despite normal total serum calcium. This is best explained by falling:",
+    "opts": [
+      "Magnesium",
+      "Ionized calcium, from alkalosis increasing calcium-albumin binding",
+      "Potassium",
+      "Sodium"
+    ],
+    "ans": 1,
+    "id": "q1905",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Pain attributed to emotional/psychological factors, with no identifiable organic lesion, is best described as:",
+    "opts": [
+      "Neuropathic pain",
+      "Acute trauma pain",
+      "Visceral pain",
+      "Psychogenic pain"
+    ],
+    "ans": 3,
+    "id": "q1906",
+    "subject": "Psychiatry"
+  },
+  {
+    "q": "Nociceptive signals are conducted mainly by which fiber types?",
+    "opts": [
+      "A-delta and C fibers",
+      "A-alpha and A-beta fibers",
+      "A-beta and A-gamma fibers",
+      "A-gamma and B fibers"
+    ],
+    "ans": 0,
+    "id": "q1907",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which cardiac conduction structure generates spontaneous action potentials at the fastest intrinsic rate (natural pacemaker)?",
+    "opts": [
+      "SA node",
+      "AV node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "ans": 0,
+    "id": "q1908",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Cutaneous vibration sense is chiefly detected by:",
+    "opts": [
+      "Merkel's disc",
+      "Ruffini's end organ",
+      "Pacinian corpuscle",
+      "Meissner's corpuscle"
+    ],
+    "ans": 2,
+    "id": "q1909",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Vibration receptors (like Pacinian corpuscles) are functionally classified by adaptation pattern as:",
+    "opts": [
+      "Slowly adapting",
+      "Rapidly adapting",
+      "Non-adapting",
+      "None of the above"
+    ],
+    "ans": 1,
+    "id": "q1910",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which cutaneous receptor is specifically stimulated by sustained pressure/skin stretch?",
+    "opts": [
+      "Ruffini's end organ",
+      "Merkel's disc",
+      "Vestibular hair cells",
+      "Meissner's corpuscle"
+    ],
+    "ans": 0,
+    "id": "q1911",
+    "subject": "Physiology"
+  },
+  {
+    "q": "A patient cannot recognize familiar faces despite normal vision and intact reading. This is termed:",
+    "opts": [
+      "Alexia",
+      "Prosopagnosia",
+      "Agraphia",
+      "Aphasia"
+    ],
+    "ans": 1,
+    "id": "q1912",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Broca's area is primarily concerned with:",
+    "opts": [
+      "Speech production (expressive language)",
+      "Language comprehension",
+      "Simple word repetition",
+      "Reading comprehension"
+    ],
+    "ans": 0,
+    "id": "q1913",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Broca's motor speech area corresponds to which Brodmann area?",
+    "opts": [
+      "Areas 1,2,3",
+      "Areas 4,6",
+      "Areas 28,29",
+      "Area 44 (and 45)"
+    ],
+    "ans": 3,
+    "id": "q1914",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Muscle spindles are found in the greatest density in which muscles?",
+    "opts": [
+      "Calf (gastrocnemius) muscles",
+      "Small intrinsic hand muscles (lumbricals)",
+      "Quadriceps",
+      "Triceps brachii"
+    ],
+    "ans": 1,
+    "id": "q1915",
+    "subject": "Physiology"
+  },
+  {
+    "q": "In the fight-or-flight response, epinephrine/norepinephrine primarily produce which effect?",
+    "opts": [
+      "Increased skin blood flow",
+      "Increased skeletal muscle blood flow",
+      "Bronchoconstriction",
+      "Bradycardia"
+    ],
+    "ans": 1,
+    "id": "q1916",
+    "subject": "Physiology"
+  },
+  {
+    "q": "An EPSP is generated mainly due to which ionic event?",
+    "opts": [
+      "Potassium efflux",
+      "Sodium efflux",
+      "Sodium influx",
+      "Calcium efflux"
+    ],
+    "ans": 2,
+    "id": "q1917",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Within the cerebellar cortex, which neuron type is the only excitatory one (the rest are inhibitory)?",
+    "opts": [
+      "Purkinje cells",
+      "Basket cells",
+      "Golgi cells",
+      "Granule cells"
+    ],
+    "ans": 3,
+    "id": "q1918",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Sleepwalking (somnambulism) typically occurs during which sleep stage?",
+    "opts": [
+      "REM sleep",
+      "Stage 1-2 NREM sleep",
+      "Stage 2-3 NREM sleep",
+      "Stage 3-4 (slow-wave) NREM sleep"
+    ],
+    "ans": 3,
+    "id": "q1919",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Intestinal dietary calcium absorption is hindered by which dietary component?",
+    "opts": [
+      "Dietary protein",
+      "Lactose",
+      "Gastric acid",
+      "Phytates"
+    ],
+    "ans": 3,
+    "id": "q1920",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The 'suppressor strip' along the anterior precentral gyrus edge functions to:",
+    "opts": [
+      "Increase extensor tone",
+      "Mediate pain perception",
+      "Inhibit the spinal stretch reflex",
+      "Initiate voluntary movement"
+    ],
+    "ans": 2,
+    "id": "q1921",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The doll's eye (oculocephalic) reflex is clinically used to assess brainstem function in which patient type?",
+    "opts": [
+      "A hemiplegic but conscious patient",
+      "A paraplegic patient",
+      "An unconscious patient",
+      "A cerebral palsy patient"
+    ],
+    "ans": 2,
+    "id": "q1922",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which sympathetic component secretes its transmitter directly into the bloodstream, acting endocrine?",
+    "opts": [
+      "Cardiac ganglion",
+      "Cervical sympathetic chain",
+      "Adrenal medulla",
+      "Thoracic sympathetic chain"
+    ],
+    "ans": 2,
+    "id": "q1923",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Which structure receives sympathetic innervation only, with no parasympathetic supply?",
+    "opts": [
+      "Heart",
+      "Intestine",
+      "Skin (sweat glands, cutaneous vessels, arrector pili)",
+      "None of the above"
+    ],
+    "ans": 2,
+    "id": "q1924",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Neuropraxia, the mildest peripheral nerve injury grade, is characterized by:",
+    "opts": [
+      "Axonal damage",
+      "Endoneurial damage",
+      "Epineurial damage",
+      "No structural axon/covering damage, only a local conduction block"
+    ],
+    "ans": 3,
+    "id": "q1925",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The resting membrane potential of visceral (unitary) smooth muscle is approximately:",
+    "opts": [
+      "-90 mV",
+      "-70 mV",
+      "-150 mV",
+      "-40 mV"
+    ],
+    "ans": 3,
+    "id": "q1926",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Regarding the Bohr effect, which is correct?",
+    "opts": [
+      "Decreased hemoglobin O2 affinity is associated with decreased pH and increased CO2",
+      "Decreased affinity with increased pH and decreased CO2",
+      "Decreased affinity with decreased pH and decreased CO2",
+      "Decreased affinity with increased pH and increased CO2"
+    ],
+    "ans": 0,
+    "id": "q1927",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The Haldane effect refers to:",
+    "opts": [
+      "Increased hemoglobin oxygenation promotes increased CO2 release/delivery",
+      "Increased CO2 promotes increased oxygen delivery",
+      "Increased CO2 promotes increased CO2 delivery",
+      "Increased CO promotes increased oxygen delivery"
+    ],
+    "ans": 0,
+    "id": "q1928",
+    "subject": "Physiology"
+  },
+  {
+    "q": "The approximate total alveolar-capillary membrane surface area available for gas exchange in an adult is:",
+    "opts": [
+      "25 cm2",
+      "50 cm2",
+      "25 m2",
+      "Roughly 50-100 m2"
+    ],
+    "ans": 3,
+    "id": "q1929",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Vagal transection combined with pneumotaxic center ablation classically produces which breathing pattern?",
+    "opts": [
+      "Cheyne-Stokes breathing",
+      "Deep and slow breathing",
+      "Shallow and rapid breathing",
+      "Apneustic breathing (prolonged inspiratory gasps)"
+    ],
+    "ans": 3,
+    "id": "q1930",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Transpulmonary pressure is defined as the difference between which two pressures?",
+    "opts": [
+      "Bronchial and atmospheric pressure",
+      "Alveolar and intrapleural pressure",
+      "Atmospheric and intrapleural pressure",
+      "Atmospheric and intra-alveolar pressure"
+    ],
+    "ans": 1,
+    "id": "q1931",
+    "subject": "Physiology"
+  },
+  {
+    "q": "During normal quiet breathing, transpulmonary pressure typically ranges from about:",
+    "opts": [
+      "+4 to +8 cm H2O",
+      "-8 to -5 cm H2O",
+      "0 to +1 cm H2O",
+      "0 to -1 cm H2O"
+    ],
+    "ans": 0,
+    "id": "q1932",
+    "subject": "Physiology"
+  },
+  {
+    "q": "At 760 mmHg barometric pressure, the approximate partial pressure of oxygen in dry atmospheric air (~21% O2) is:",
+    "opts": [
+      "76 mmHg",
+      "160 mmHg",
+      "120 mmHg",
+      "130 mmHg"
+    ],
+    "ans": 1,
+    "id": "q1933",
+    "subject": "Physiology"
+  },
+  {
+    "q": "After airway humidification (subtracting ~47 mmHg water vapor pressure from 760 mmHg), the approximate PO2 of inspired tracheal air is:",
+    "opts": [
+      "116 mmHg",
+      "150 mmHg",
+      "100 mmHg",
+      "0.3 mmHg"
+    ],
+    "ans": 1,
+    "id": "q1934",
+    "subject": "Physiology"
+  },
+  {
+    "q": "'Isocapnic buffering,' seen during moderate exercise before the anaerobic threshold, refers to:",
+    "opts": [
+      "Increased arterial pCO2 with increased CO2 production",
+      "Increased arterial pCO2 with decreased CO2 production",
+      "Unchanged arterial pCO2 despite increased CO2 output",
+      "None of the above"
+    ],
+    "ans": 2,
+    "id": "q1935",
+    "subject": "Physiology"
+  },
+  {
+    "q": "Vital capacity is directly measured using which instrument?",
+    "opts": [
+      "Body plethysmography",
+      "Helium gas-dilution method",
+      "Nitrogen washout technique",
+      "Simple spirometer"
+    ],
+    "ans": 3,
+    "id": "q1936",
+    "subject": "Physiology"
   }
 ]
